@@ -1,0 +1,919 @@
+[
+ {
+  "text": " Five",
+  "startMs": 0,
+  "endMs": 500,
+  "timestampMs": 250,
+  "confidence": null
+ },
+ {
+  "text": " Mac",
+  "startMs": 500,
+  "endMs": 780,
+  "timestampMs": 640,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 780,
+  "endMs": 1120,
+  "timestampMs": 950,
+  "confidence": null
+ },
+ {
+  "text": " commands",
+  "startMs": 1120,
+  "endMs": 1560,
+  "timestampMs": 1340,
+  "confidence": null
+ },
+ {
+  "text": " Apple",
+  "startMs": 1560,
+  "endMs": 2000,
+  "timestampMs": 1780,
+  "confidence": null
+ },
+ {
+  "text": " doesn't",
+  "startMs": 2000,
+  "endMs": 2400,
+  "timestampMs": 2200,
+  "confidence": null
+ },
+ {
+  "text": " advertise,",
+  "startMs": 2400,
+  "endMs": 2860,
+  "timestampMs": 2630,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 3260,
+  "endMs": 3300,
+  "timestampMs": 3280,
+  "confidence": null
+ },
+ {
+  "text": " they're",
+  "startMs": 3300,
+  "endMs": 3440,
+  "timestampMs": 3370,
+  "confidence": null
+ },
+ {
+  "text": " already",
+  "startMs": 3440,
+  "endMs": 3780,
+  "timestampMs": 3610,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 3780,
+  "endMs": 4000,
+  "timestampMs": 3890,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 4000,
+  "endMs": 4120,
+  "timestampMs": 4060,
+  "confidence": null
+ },
+ {
+  "text": " Mac.",
+  "startMs": 4120,
+  "endMs": 4360,
+  "timestampMs": 4240,
+  "confidence": null
+ },
+ {
+  "text": " Sudo's",
+  "startMs": 5580,
+  "endMs": 5820,
+  "timestampMs": 5700,
+  "confidence": null
+ },
+ {
+  "text": " Mac",
+  "startMs": 5820,
+  "endMs": 5980,
+  "timestampMs": 5900,
+  "confidence": null
+ },
+ {
+  "text": " fell",
+  "startMs": 5980,
+  "endMs": 6180,
+  "timestampMs": 6080,
+  "confidence": null
+ },
+ {
+  "text": " asleep",
+  "startMs": 6180,
+  "endMs": 6500,
+  "timestampMs": 6340,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 6500,
+  "endMs": 6680,
+  "timestampMs": 6590,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 6680,
+  "endMs": 6760,
+  "timestampMs": 6720,
+  "confidence": null
+ },
+ {
+  "text": " middle",
+  "startMs": 6760,
+  "endMs": 6880,
+  "timestampMs": 6820,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 6880,
+  "endMs": 7020,
+  "timestampMs": 6950,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 7020,
+  "endMs": 7120,
+  "timestampMs": 7070,
+  "confidence": null
+ },
+ {
+  "text": " download.",
+  "startMs": 7120,
+  "endMs": 7480,
+  "timestampMs": 7300,
+  "confidence": null
+ },
+ {
+  "text": " At",
+  "startMs": 8000,
+  "endMs": 8040,
+  "timestampMs": 8020,
+  "confidence": null
+ },
+ {
+  "text": " 3",
+  "startMs": 8040,
+  "endMs": 8340,
+  "timestampMs": 8190,
+  "confidence": null
+ },
+ {
+  "text": " a.m.",
+  "startMs": 8340,
+  "endMs": 8740,
+  "timestampMs": 8540,
+  "confidence": null
+ },
+ {
+  "text": " Again.",
+  "startMs": 9140,
+  "endMs": 9500,
+  "timestampMs": 9320,
+  "confidence": null
+ },
+ {
+  "text": " One.",
+  "startMs": 10400,
+  "endMs": 10500,
+  "timestampMs": 10450,
+  "confidence": null
+ },
+ {
+  "text": " Caffeinate.",
+  "startMs": 11220,
+  "endMs": 11500,
+  "timestampMs": 11360,
+  "confidence": null
+ },
+ {
+  "text": " While",
+  "startMs": 12280,
+  "endMs": 12460,
+  "timestampMs": 12370,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 12460,
+  "endMs": 12620,
+  "timestampMs": 12540,
+  "confidence": null
+ },
+ {
+  "text": " runs,",
+  "startMs": 12620,
+  "endMs": 12860,
+  "timestampMs": 12740,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 13000,
+  "endMs": 13040,
+  "timestampMs": 13020,
+  "confidence": null
+ },
+ {
+  "text": " Mac",
+  "startMs": 13040,
+  "endMs": 13240,
+  "timestampMs": 13140,
+  "confidence": null
+ },
+ {
+  "text": " won't",
+  "startMs": 13240,
+  "endMs": 13540,
+  "timestampMs": 13390,
+  "confidence": null
+ },
+ {
+  "text": " doze",
+  "startMs": 13540,
+  "endMs": 13760,
+  "timestampMs": 13650,
+  "confidence": null
+ },
+ {
+  "text": " off.",
+  "startMs": 13760,
+  "endMs": 13940,
+  "timestampMs": 13850,
+  "confidence": null
+ },
+ {
+  "text": " Add",
+  "startMs": 14500,
+  "endMs": 14620,
+  "timestampMs": 14560,
+  "confidence": null
+ },
+ {
+  "text": " -d",
+  "startMs": 14620,
+  "endMs": 15200,
+  "timestampMs": 14910,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 15200,
+  "endMs": 15360,
+  "timestampMs": 15280,
+  "confidence": null
+ },
+ {
+  "text": " keep",
+  "startMs": 15360,
+  "endMs": 15460,
+  "timestampMs": 15410,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 15460,
+  "endMs": 15600,
+  "timestampMs": 15530,
+  "confidence": null
+ },
+ {
+  "text": " screen",
+  "startMs": 15600,
+  "endMs": 15840,
+  "timestampMs": 15720,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 15840,
+  "endMs": 16060,
+  "timestampMs": 15950,
+  "confidence": null
+ },
+ {
+  "text": " too.",
+  "startMs": 16060,
+  "endMs": 16320,
+  "timestampMs": 16190,
+  "confidence": null
+ },
+ {
+  "text": " Press",
+  "startMs": 16840,
+  "endMs": 16980,
+  "timestampMs": 16910,
+  "confidence": null
+ },
+ {
+  "text": " Ctrl+C,",
+  "startMs": 16980,
+  "endMs": 17580,
+  "timestampMs": 17280,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 17860,
+  "endMs": 18080,
+  "timestampMs": 17970,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 18080,
+  "endMs": 18180,
+  "timestampMs": 18130,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 18180,
+  "endMs": 18300,
+  "timestampMs": 18240,
+  "confidence": null
+ },
+ {
+  "text": " sleep",
+  "startMs": 18300,
+  "endMs": 18460,
+  "timestampMs": 18380,
+  "confidence": null
+ },
+ {
+  "text": " again.",
+  "startMs": 18460,
+  "endMs": 18720,
+  "timestampMs": 18590,
+  "confidence": null
+ },
+ {
+  "text": " Two.",
+  "startMs": 19440,
+  "endMs": 19620,
+  "timestampMs": 19530,
+  "confidence": null
+ },
+ {
+  "text": " networkQuality.",
+  "startMs": 20460,
+  "endMs": 20880,
+  "timestampMs": 20670,
+  "confidence": null
+ },
+ {
+  "text": " A",
+  "startMs": 21420,
+  "endMs": 21620,
+  "timestampMs": 21520,
+  "confidence": null
+ },
+ {
+  "text": " speed",
+  "startMs": 21620,
+  "endMs": 21840,
+  "timestampMs": 21730,
+  "confidence": null
+ },
+ {
+  "text": " test",
+  "startMs": 21840,
+  "endMs": 22100,
+  "timestampMs": 21970,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 22100,
+  "endMs": 22400,
+  "timestampMs": 22250,
+  "confidence": null
+ },
+ {
+  "text": " no",
+  "startMs": 22400,
+  "endMs": 22680,
+  "timestampMs": 22540,
+  "confidence": null
+ },
+ {
+  "text": " website:",
+  "startMs": 22680,
+  "endMs": 23060,
+  "timestampMs": 22870,
+  "confidence": null
+ },
+ {
+  "text": " download,",
+  "startMs": 23560,
+  "endMs": 23880,
+  "timestampMs": 23720,
+  "confidence": null
+ },
+ {
+  "text": " upload,",
+  "startMs": 24080,
+  "endMs": 24380,
+  "timestampMs": 24230,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 24580,
+  "endMs": 24720,
+  "timestampMs": 24650,
+  "confidence": null
+ },
+ {
+  "text": " how",
+  "startMs": 24720,
+  "endMs": 24880,
+  "timestampMs": 24800,
+  "confidence": null
+ },
+ {
+  "text": " responsive",
+  "startMs": 24880,
+  "endMs": 25240,
+  "timestampMs": 25060,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 25240,
+  "endMs": 25460,
+  "timestampMs": 25350,
+  "confidence": null
+ },
+ {
+  "text": " connection",
+  "startMs": 25460,
+  "endMs": 25740,
+  "timestampMs": 25600,
+  "confidence": null
+ },
+ {
+  "text": " feels.",
+  "startMs": 25740,
+  "endMs": 26000,
+  "timestampMs": 25870,
+  "confidence": null
+ },
+ {
+  "text": " Three.",
+  "startMs": 26780,
+  "endMs": 27060,
+  "timestampMs": 26920,
+  "confidence": null
+ },
+ {
+  "text": " Say.",
+  "startMs": 27060,
+  "endMs": 27920,
+  "timestampMs": 27490,
+  "confidence": null
+ },
+ {
+  "text": " Type",
+  "startMs": 29060,
+  "endMs": 29370,
+  "timestampMs": 29215,
+  "confidence": null
+ },
+ {
+  "text": " say",
+  "startMs": 29370,
+  "endMs": 29680,
+  "timestampMs": 29525,
+  "confidence": null
+ },
+ {
+  "text": " \"trash",
+  "startMs": 29880,
+  "endMs": 30280,
+  "timestampMs": 30080,
+  "confidence": null
+ },
+ {
+  "text": " night\",",
+  "startMs": 30280,
+  "endMs": 30560,
+  "timestampMs": 30420,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 30880,
+  "endMs": 31140,
+  "timestampMs": 31010,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 31140,
+  "endMs": 31300,
+  "timestampMs": 31220,
+  "confidence": null
+ },
+ {
+  "text": " Mac",
+  "startMs": 31300,
+  "endMs": 31480,
+  "timestampMs": 31390,
+  "confidence": null
+ },
+ {
+  "text": " reads",
+  "startMs": 31480,
+  "endMs": 31720,
+  "timestampMs": 31600,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 31720,
+  "endMs": 31860,
+  "timestampMs": 31790,
+  "confidence": null
+ },
+ {
+  "text": " out",
+  "startMs": 31860,
+  "endMs": 31980,
+  "timestampMs": 31920,
+  "confidence": null
+ },
+ {
+  "text": " loud.",
+  "startMs": 31980,
+  "endMs": 32340,
+  "timestampMs": 32160,
+  "confidence": null
+ },
+ {
+  "text": " Four.",
+  "startMs": 33040,
+  "endMs": 33240,
+  "timestampMs": 33140,
+  "confidence": null
+ },
+ {
+  "text": " pbcopy.",
+  "startMs": 33900,
+  "endMs": 34340,
+  "timestampMs": 34120,
+  "confidence": null
+ },
+ {
+  "text": " Pipe",
+  "startMs": 35060,
+  "endMs": 35220,
+  "timestampMs": 35140,
+  "confidence": null
+ },
+ {
+  "text": " any",
+  "startMs": 35220,
+  "endMs": 35560,
+  "timestampMs": 35390,
+  "confidence": null
+ },
+ {
+  "text": " output",
+  "startMs": 35560,
+  "endMs": 35960,
+  "timestampMs": 35760,
+  "confidence": null
+ },
+ {
+  "text": " into",
+  "startMs": 35960,
+  "endMs": 36260,
+  "timestampMs": 36110,
+  "confidence": null
+ },
+ {
+  "text": " it,",
+  "startMs": 36260,
+  "endMs": 36460,
+  "timestampMs": 36360,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 36460,
+  "endMs": 36660,
+  "timestampMs": 36560,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 36660,
+  "endMs": 36800,
+  "timestampMs": 36730,
+  "confidence": null
+ },
+ {
+  "text": " lands",
+  "startMs": 36800,
+  "endMs": 37020,
+  "timestampMs": 36910,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 37020,
+  "endMs": 37240,
+  "timestampMs": 37130,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 37240,
+  "endMs": 37340,
+  "timestampMs": 37290,
+  "confidence": null
+ },
+ {
+  "text": " clipboard.",
+  "startMs": 37340,
+  "endMs": 37680,
+  "timestampMs": 37510,
+  "confidence": null
+ },
+ {
+  "text": " pbpaste",
+  "startMs": 38220,
+  "endMs": 38740,
+  "timestampMs": 38480,
+  "confidence": null
+ },
+ {
+  "text": " prints",
+  "startMs": 38740,
+  "endMs": 39240,
+  "timestampMs": 38990,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 39240,
+  "endMs": 39400,
+  "timestampMs": 39320,
+  "confidence": null
+ },
+ {
+  "text": " back.",
+  "startMs": 39400,
+  "endMs": 39600,
+  "timestampMs": 39500,
+  "confidence": null
+ },
+ {
+  "text": " Five.",
+  "startMs": 40400,
+  "endMs": 40740,
+  "timestampMs": 40570,
+  "confidence": null
+ },
+ {
+  "text": " open ..",
+  "startMs": 41320,
+  "endMs": 42040,
+  "timestampMs": 41680,
+  "confidence": null
+ },
+ {
+  "text": " Finder",
+  "startMs": 42780,
+  "endMs": 43080,
+  "timestampMs": 42930,
+  "confidence": null
+ },
+ {
+  "text": " opens",
+  "startMs": 43080,
+  "endMs": 43400,
+  "timestampMs": 43240,
+  "confidence": null
+ },
+ {
+  "text": " right",
+  "startMs": 43400,
+  "endMs": 43780,
+  "timestampMs": 43590,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 43780,
+  "endMs": 43940,
+  "timestampMs": 43860,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 43940,
+  "endMs": 44020,
+  "timestampMs": 43980,
+  "confidence": null
+ },
+ {
+  "text": " folder",
+  "startMs": 44020,
+  "endMs": 44180,
+  "timestampMs": 44100,
+  "confidence": null
+ },
+ {
+  "text": " you're",
+  "startMs": 44180,
+  "endMs": 44460,
+  "timestampMs": 44320,
+  "confidence": null
+ },
+ {
+  "text": " in.",
+  "startMs": 44460,
+  "endMs": 44620,
+  "timestampMs": 44540,
+  "confidence": null
+ },
+ {
+  "text": " Sudo's",
+  "startMs": 45380,
+  "endMs": 45640,
+  "timestampMs": 45510,
+  "confidence": null
+ },
+ {
+  "text": " snack",
+  "startMs": 45640,
+  "endMs": 45880,
+  "timestampMs": 45760,
+  "confidence": null
+ },
+ {
+  "text": " stash,",
+  "startMs": 45880,
+  "endMs": 46260,
+  "timestampMs": 46070,
+  "confidence": null
+ },
+ {
+  "text": " found.",
+  "startMs": 46640,
+  "endMs": 46920,
+  "timestampMs": 46780,
+  "confidence": null
+ },
+ {
+  "text": " Save",
+  "startMs": 47920,
+  "endMs": 48260,
+  "timestampMs": 48090,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 48260,
+  "endMs": 48460,
+  "timestampMs": 48360,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 48460,
+  "endMs": 48640,
+  "timestampMs": 48550,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 48640,
+  "endMs": 48760,
+  "timestampMs": 48700,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 48760,
+  "endMs": 49000,
+  "timestampMs": 48880,
+  "confidence": null
+ },
+ {
+  "text": " late",
+  "startMs": 49000,
+  "endMs": 49220,
+  "timestampMs": 49110,
+  "confidence": null
+ },
+ {
+  "text": " night.",
+  "startMs": 49220,
+  "endMs": 49460,
+  "timestampMs": 49340,
+  "confidence": null
+ },
+ {
+  "text": " Follow",
+  "startMs": 49720,
+  "endMs": 49940,
+  "timestampMs": 49830,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 49940,
+  "endMs": 50140,
+  "timestampMs": 50040,
+  "confidence": null
+ },
+ {
+  "text": " more",
+  "startMs": 50140,
+  "endMs": 50300,
+  "timestampMs": 50220,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 50300,
+  "endMs": 50620,
+  "timestampMs": 50460,
+  "confidence": null
+ },
+ {
+  "text": " tricks,",
+  "startMs": 50620,
+  "endMs": 50920,
+  "timestampMs": 50770,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 51020,
+  "endMs": 51240,
+  "timestampMs": 51130,
+  "confidence": null
+ },
+ {
+  "text": " comment",
+  "startMs": 51240,
+  "endMs": 51580,
+  "timestampMs": 51410,
+  "confidence": null
+ },
+ {
+  "text": " which",
+  "startMs": 51580,
+  "endMs": 51840,
+  "timestampMs": 51710,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 51840,
+  "endMs": 52060,
+  "timestampMs": 51950,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 52060,
+  "endMs": 52280,
+  "timestampMs": 52170,
+  "confidence": null
+ },
+ {
+  "text": " didn't",
+  "startMs": 52280,
+  "endMs": 52560,
+  "timestampMs": 52420,
+  "confidence": null
+ },
+ {
+  "text": " know.",
+  "startMs": 52560,
+  "endMs": 52780,
+  "timestampMs": 52670,
+  "confidence": null
+ }
+]

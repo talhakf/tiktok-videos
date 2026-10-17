@@ -1,0 +1,118 @@
+filters:
+  and:
+    - file.inFolder("Videos")
+properties:
+  note.status:
+    displayName: Status
+  note.format:
+    displayName: Format
+  note.duration:
+    displayName: Seconds
+  note.views:
+    displayName: TikTok views
+  note.saves:
+    displayName: Saves
+  note.shares:
+    displayName: Shares
+  note.score:
+    displayName: Predicted /30
+  note.output:
+    displayName: Output
+  note.caption:
+    displayName: Caption
+  note.cover:
+    displayName: Cover
+  note.yt_views:
+    displayName: YouTube views
+  note.ig_views:
+    displayName: Instagram views
+  note.yt_likes:
+    displayName: YouTube likes
+  note.ig_likes:
+    displayName: Instagram likes
+  note.upload_error:
+    displayName: Upload failed
+  note.scheduled:
+    displayName: Scheduled
+views:
+  - type: table
+    name: Ready to upload
+    filters:
+      and:
+        - note.status == "ready"
+    order:
+      - file.name
+      - title
+      - duration
+      - upload_error
+      - output
+      - caption
+    sort:
+      - property: output
+        direction: ASC
+  - type: table
+    name: Pipeline
+    filters:
+      and:
+        - note.status != "posted"
+        - note.status != "ready"
+        - note.status != "idea"
+        - note.status != "archived"
+        - note.status != "rejected"
+    order:
+      - file.name
+      - title
+      - status
+      - score
+      - format
+      - duration
+  - type: table
+    name: Posted
+    filters:
+      and:
+        - note.status == "posted"
+    order:
+      - file.name
+      - posted
+      - score
+      - views
+      - likes
+      - saves
+      - comments
+      - shares
+      - yt_views
+      - yt_likes
+      - ig_views
+      - ig_likes
+    sort:
+      - property: likes
+        direction: DESC
+    columnSize:
+      note.posted: 105
+      note.comments: 58
+      note.shares: 189
+  - type: table
+    name: Ideas
+    filters:
+      and:
+        - note.status == "idea"
+    order:
+      - file.name
+      - score
+      - title
+      - format
+      - topic
+    sort:
+      - property: score
+        direction: DESC
+  - type: table
+    name: All
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - status
+      - score
+      - format

@@ -1,0 +1,1661 @@
+[
+ {
+  "text": " Five",
+  "startMs": 0,
+  "endMs": 480,
+  "timestampMs": 240,
+  "confidence": null
+ },
+ {
+  "text": " websites",
+  "startMs": 480,
+  "endMs": 900,
+  "timestampMs": 690,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 900,
+  "endMs": 1180,
+  "timestampMs": 1040,
+  "confidence": null
+ },
+ {
+  "text": " work",
+  "startMs": 1180,
+  "endMs": 1400,
+  "timestampMs": 1290,
+  "confidence": null
+ },
+ {
+  "text": " right",
+  "startMs": 1400,
+  "endMs": 1840,
+  "timestampMs": 1620,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 1840,
+  "endMs": 2160,
+  "timestampMs": 2000,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 2160,
+  "endMs": 2320,
+  "timestampMs": 2240,
+  "confidence": null
+ },
+ {
+  "text": " terminal.",
+  "startMs": 2320,
+  "endMs": 2600,
+  "timestampMs": 2460,
+  "confidence": null
+ },
+ {
+  "text": " No",
+  "startMs": 2880,
+  "endMs": 3140,
+  "timestampMs": 3010,
+  "confidence": null
+ },
+ {
+  "text": " browser",
+  "startMs": 3140,
+  "endMs": 3440,
+  "timestampMs": 3290,
+  "confidence": null
+ },
+ {
+  "text": " needed,",
+  "startMs": 3440,
+  "endMs": 3740,
+  "timestampMs": 3590,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 4040,
+  "endMs": 4160,
+  "timestampMs": 4100,
+  "confidence": null
+ },
+ {
+  "text": " nothing",
+  "startMs": 4160,
+  "endMs": 4460,
+  "timestampMs": 4310,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 4460,
+  "endMs": 4740,
+  "timestampMs": 4600,
+  "confidence": null
+ },
+ {
+  "text": " install,",
+  "startMs": 4740,
+  "endMs": 5100,
+  "timestampMs": 4920,
+  "confidence": null
+ },
+ {
+  "text": " because",
+  "startMs": 5400,
+  "endMs": 5760,
+  "timestampMs": 5580,
+  "confidence": null
+ },
+ {
+  "text": " curl",
+  "startMs": 5760,
+  "endMs": 6040,
+  "timestampMs": 5900,
+  "confidence": null
+ },
+ {
+  "text": " already",
+  "startMs": 6040,
+  "endMs": 6420,
+  "timestampMs": 6230,
+  "confidence": null
+ },
+ {
+  "text": " comes",
+  "startMs": 6420,
+  "endMs": 6720,
+  "timestampMs": 6570,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 6720,
+  "endMs": 6960,
+  "timestampMs": 6840,
+  "confidence": null
+ },
+ {
+  "text": " Mac,",
+  "startMs": 6960,
+  "endMs": 7180,
+  "timestampMs": 7070,
+  "confidence": null
+ },
+ {
+  "text": " Linux,",
+  "startMs": 7440,
+  "endMs": 7600,
+  "timestampMs": 7520,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 7880,
+  "endMs": 7980,
+  "timestampMs": 7930,
+  "confidence": null
+ },
+ {
+  "text": " Windows.",
+  "startMs": 7980,
+  "endMs": 8320,
+  "timestampMs": 8150,
+  "confidence": null
+ },
+ {
+  "text": " 3",
+  "startMs": 9200,
+  "endMs": 9440,
+  "timestampMs": 9320,
+  "confidence": null
+ },
+ {
+  "text": " a.m.",
+  "startMs": 9440,
+  "endMs": 9920,
+  "timestampMs": 9680,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 9920,
+  "endMs": 10880,
+  "timestampMs": 10400,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 10880,
+  "endMs": 11040,
+  "timestampMs": 10960,
+  "confidence": null
+ },
+ {
+  "text": " planning",
+  "startMs": 11040,
+  "endMs": 11360,
+  "timestampMs": 11200,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 11360,
+  "endMs": 11600,
+  "timestampMs": 11480,
+  "confidence": null
+ },
+ {
+  "text": " midnight",
+  "startMs": 11600,
+  "endMs": 12080,
+  "timestampMs": 11840,
+  "confidence": null
+ },
+ {
+  "text": " snack",
+  "startMs": 12080,
+  "endMs": 12520,
+  "timestampMs": 12300,
+  "confidence": null
+ },
+ {
+  "text": " raid",
+  "startMs": 12520,
+  "endMs": 12800,
+  "timestampMs": 12660,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 12800,
+  "endMs": 13040,
+  "timestampMs": 12920,
+  "confidence": null
+ },
+ {
+  "text": " refuses",
+  "startMs": 13040,
+  "endMs": 13500,
+  "timestampMs": 13270,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 13500,
+  "endMs": 13840,
+  "timestampMs": 13670,
+  "confidence": null
+ },
+ {
+  "text": " open",
+  "startMs": 13840,
+  "endMs": 14020,
+  "timestampMs": 13930,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 14020,
+  "endMs": 14160,
+  "timestampMs": 14090,
+  "confidence": null
+ },
+ {
+  "text": " heavy",
+  "startMs": 14160,
+  "endMs": 14360,
+  "timestampMs": 14260,
+  "confidence": null
+ },
+ {
+  "text": " browser",
+  "startMs": 14360,
+  "endMs": 14660,
+  "timestampMs": 14510,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 14660,
+  "endMs": 14880,
+  "timestampMs": 14770,
+  "confidence": null
+ },
+ {
+  "text": " forty",
+  "startMs": 14880,
+  "endMs": 15160,
+  "timestampMs": 15020,
+  "confidence": null
+ },
+ {
+  "text": " tabs.",
+  "startMs": 15160,
+  "endMs": 15440,
+  "timestampMs": 15300,
+  "confidence": null
+ },
+ {
+  "text": " One.",
+  "startMs": 16140,
+  "endMs": 16480,
+  "timestampMs": 16310,
+  "confidence": null
+ },
+ {
+  "text": " curl wttr.in/London.",
+  "startMs": 17320,
+  "endMs": 19840,
+  "timestampMs": 18580,
+  "confidence": null
+ },
+ {
+  "text": " It",
+  "startMs": 20340,
+  "endMs": 20620,
+  "timestampMs": 20480,
+  "confidence": null
+ },
+ {
+  "text": " prints",
+  "startMs": 20620,
+  "endMs": 20840,
+  "timestampMs": 20730,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 20840,
+  "endMs": 21020,
+  "timestampMs": 20930,
+  "confidence": null
+ },
+ {
+  "text": " live",
+  "startMs": 21020,
+  "endMs": 21400,
+  "timestampMs": 21210,
+  "confidence": null
+ },
+ {
+  "text": " weather",
+  "startMs": 21400,
+  "endMs": 21680,
+  "timestampMs": 21540,
+  "confidence": null
+ },
+ {
+  "text": " report",
+  "startMs": 21680,
+  "endMs": 22060,
+  "timestampMs": 21870,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 22060,
+  "endMs": 22320,
+  "timestampMs": 22190,
+  "confidence": null
+ },
+ {
+  "text": " ASCII",
+  "startMs": 22320,
+  "endMs": 22680,
+  "timestampMs": 22500,
+  "confidence": null
+ },
+ {
+  "text": " art,",
+  "startMs": 22680,
+  "endMs": 22900,
+  "timestampMs": 22790,
+  "confidence": null
+ },
+ {
+  "text": " temperature,",
+  "startMs": 23140,
+  "endMs": 23420,
+  "timestampMs": 23280,
+  "confidence": null
+ },
+ {
+  "text": " wind,",
+  "startMs": 23760,
+  "endMs": 23880,
+  "timestampMs": 23820,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 24060,
+  "endMs": 24180,
+  "timestampMs": 24120,
+  "confidence": null
+ },
+ {
+  "text": " rain",
+  "startMs": 24180,
+  "endMs": 24300,
+  "timestampMs": 24240,
+  "confidence": null
+ },
+ {
+  "text": " right",
+  "startMs": 24300,
+  "endMs": 24660,
+  "timestampMs": 24480,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 24660,
+  "endMs": 24820,
+  "timestampMs": 24740,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 24820,
+  "endMs": 24940,
+  "timestampMs": 24880,
+  "confidence": null
+ },
+ {
+  "text": " terminal.",
+  "startMs": 24940,
+  "endMs": 25260,
+  "timestampMs": 25100,
+  "confidence": null
+ },
+ {
+  "text": " Put",
+  "startMs": 25260,
+  "endMs": 26000,
+  "timestampMs": 25630,
+  "confidence": null
+ },
+ {
+  "text": " any",
+  "startMs": 26000,
+  "endMs": 26400,
+  "timestampMs": 26200,
+  "confidence": null
+ },
+ {
+  "text": " city",
+  "startMs": 26400,
+  "endMs": 26580,
+  "timestampMs": 26490,
+  "confidence": null
+ },
+ {
+  "text": " name",
+  "startMs": 26580,
+  "endMs": 26860,
+  "timestampMs": 26720,
+  "confidence": null
+ },
+ {
+  "text": " after",
+  "startMs": 26860,
+  "endMs": 27120,
+  "timestampMs": 26990,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 27120,
+  "endMs": 27280,
+  "timestampMs": 27200,
+  "confidence": null
+ },
+ {
+  "text": " slash,",
+  "startMs": 27280,
+  "endMs": 27520,
+  "timestampMs": 27400,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 28100,
+  "endMs": 28160,
+  "timestampMs": 28130,
+  "confidence": null
+ },
+ {
+  "text": " add",
+  "startMs": 28160,
+  "endMs": 28460,
+  "timestampMs": 28310,
+  "confidence": null
+ },
+ {
+  "text": " ?0",
+  "startMs": 28460,
+  "endMs": 29160,
+  "timestampMs": 28810,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 29160,
+  "endMs": 29520,
+  "timestampMs": 29340,
+  "confidence": null
+ },
+ {
+  "text": " just",
+  "startMs": 29520,
+  "endMs": 29700,
+  "timestampMs": 29610,
+  "confidence": null
+ },
+ {
+  "text": " today's",
+  "startMs": 29700,
+  "endMs": 30020,
+  "timestampMs": 29860,
+  "confidence": null
+ },
+ {
+  "text": " weather.",
+  "startMs": 30020,
+  "endMs": 30240,
+  "timestampMs": 30130,
+  "confidence": null
+ },
+ {
+  "text": " Leave",
+  "startMs": 30620,
+  "endMs": 30940,
+  "timestampMs": 30780,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 30940,
+  "endMs": 31120,
+  "timestampMs": 31030,
+  "confidence": null
+ },
+ {
+  "text": " city",
+  "startMs": 31120,
+  "endMs": 31240,
+  "timestampMs": 31180,
+  "confidence": null
+ },
+ {
+  "text": " off",
+  "startMs": 31240,
+  "endMs": 31580,
+  "timestampMs": 31410,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 31580,
+  "endMs": 31840,
+  "timestampMs": 31710,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 31840,
+  "endMs": 31940,
+  "timestampMs": 31890,
+  "confidence": null
+ },
+ {
+  "text": " guesses",
+  "startMs": 31940,
+  "endMs": 32160,
+  "timestampMs": 32050,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 32160,
+  "endMs": 32380,
+  "timestampMs": 32270,
+  "confidence": null
+ },
+ {
+  "text": " location",
+  "startMs": 32380,
+  "endMs": 32700,
+  "timestampMs": 32540,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 32700,
+  "endMs": 32980,
+  "timestampMs": 32840,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 32980,
+  "endMs": 33120,
+  "timestampMs": 33050,
+  "confidence": null
+ },
+ {
+  "text": " IP",
+  "startMs": 33120,
+  "endMs": 33340,
+  "timestampMs": 33230,
+  "confidence": null
+ },
+ {
+  "text": " address.",
+  "startMs": 33340,
+  "endMs": 33800,
+  "timestampMs": 33570,
+  "confidence": null
+ },
+ {
+  "text": " Two.",
+  "startMs": 34880,
+  "endMs": 34960,
+  "timestampMs": 34920,
+  "confidence": null
+ },
+ {
+  "text": " curl cheat.sh/tar.",
+  "startMs": 35880,
+  "endMs": 38200,
+  "timestampMs": 37040,
+  "confidence": null
+ },
+ {
+  "text": " Forget",
+  "startMs": 38780,
+  "endMs": 39260,
+  "timestampMs": 39020,
+  "confidence": null
+ },
+ {
+  "text": " clicking",
+  "startMs": 39260,
+  "endMs": 39640,
+  "timestampMs": 39450,
+  "confidence": null
+ },
+ {
+  "text": " through",
+  "startMs": 39640,
+  "endMs": 39960,
+  "timestampMs": 39800,
+  "confidence": null
+ },
+ {
+  "text": " ten",
+  "startMs": 39960,
+  "endMs": 40280,
+  "timestampMs": 40120,
+  "confidence": null
+ },
+ {
+  "text": " blog",
+  "startMs": 40280,
+  "endMs": 40640,
+  "timestampMs": 40460,
+  "confidence": null
+ },
+ {
+  "text": " posts",
+  "startMs": 40640,
+  "endMs": 40860,
+  "timestampMs": 40750,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 40860,
+  "endMs": 41120,
+  "timestampMs": 40990,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 41120,
+  "endMs": 41560,
+  "timestampMs": 41340,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 41560,
+  "endMs": 42080,
+  "timestampMs": 41820,
+  "confidence": null
+ },
+ {
+  "text": " flag.",
+  "startMs": 42080,
+  "endMs": 42400,
+  "timestampMs": 42240,
+  "confidence": null
+ },
+ {
+  "text": " This",
+  "startMs": 42820,
+  "endMs": 43100,
+  "timestampMs": 42960,
+  "confidence": null
+ },
+ {
+  "text": " gives",
+  "startMs": 43100,
+  "endMs": 43300,
+  "timestampMs": 43200,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 43300,
+  "endMs": 43520,
+  "timestampMs": 43410,
+  "confidence": null
+ },
+ {
+  "text": " community",
+  "startMs": 43520,
+  "endMs": 44000,
+  "timestampMs": 43760,
+  "confidence": null
+ },
+ {
+  "text": " cheat",
+  "startMs": 44000,
+  "endMs": 44340,
+  "timestampMs": 44170,
+  "confidence": null
+ },
+ {
+  "text": " sheets",
+  "startMs": 44340,
+  "endMs": 44560,
+  "timestampMs": 44450,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 44560,
+  "endMs": 44780,
+  "timestampMs": 44670,
+  "confidence": null
+ },
+ {
+  "text": " working",
+  "startMs": 44780,
+  "endMs": 45120,
+  "timestampMs": 44950,
+  "confidence": null
+ },
+ {
+  "text": " examples,",
+  "startMs": 45120,
+  "endMs": 45620,
+  "timestampMs": 45370,
+  "confidence": null
+ },
+ {
+  "text": " zero",
+  "startMs": 46080,
+  "endMs": 46200,
+  "timestampMs": 46140,
+  "confidence": null
+ },
+ {
+  "text": " ads,",
+  "startMs": 46200,
+  "endMs": 46520,
+  "timestampMs": 46360,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 46720,
+  "endMs": 46840,
+  "timestampMs": 46780,
+  "confidence": null
+ },
+ {
+  "text": " zero",
+  "startMs": 46840,
+  "endMs": 47100,
+  "timestampMs": 46970,
+  "confidence": null
+ },
+ {
+  "text": " popups.",
+  "startMs": 47100,
+  "endMs": 47460,
+  "timestampMs": 47280,
+  "confidence": null
+ },
+ {
+  "text": " You",
+  "startMs": 48020,
+  "endMs": 48160,
+  "timestampMs": 48090,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 48160,
+  "endMs": 48280,
+  "timestampMs": 48220,
+  "confidence": null
+ },
+ {
+  "text": " even",
+  "startMs": 48280,
+  "endMs": 48460,
+  "timestampMs": 48370,
+  "confidence": null
+ },
+ {
+  "text": " ask",
+  "startMs": 48460,
+  "endMs": 48740,
+  "timestampMs": 48600,
+  "confidence": null
+ },
+ {
+  "text": " coding",
+  "startMs": 48740,
+  "endMs": 49120,
+  "timestampMs": 48930,
+  "confidence": null
+ },
+ {
+  "text": " questions,",
+  "startMs": 49120,
+  "endMs": 49560,
+  "timestampMs": 49340,
+  "confidence": null
+ },
+ {
+  "text": " like",
+  "startMs": 49560,
+  "endMs": 49900,
+  "timestampMs": 49730,
+  "confidence": null
+ },
+ {
+  "text": " curl cheat.sh",
+  "startMs": 49900,
+  "endMs": 51950,
+  "timestampMs": 50925,
+  "confidence": null
+ },
+ {
+  "text": " /python/reverse+a+list.",
+  "startMs": 51950,
+  "endMs": 54000,
+  "timestampMs": 52975,
+  "confidence": null
+ },
+ {
+  "text": " Three.",
+  "startMs": 54860,
+  "endMs": 55420,
+  "timestampMs": 55140,
+  "confidence": null
+ },
+ {
+  "text": " curl qrenco.de/snacks.",
+  "startMs": 56340,
+  "endMs": 59500,
+  "timestampMs": 57920,
+  "confidence": null
+ },
+ {
+  "text": " Anything",
+  "startMs": 60080,
+  "endMs": 60500,
+  "timestampMs": 60290,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 60500,
+  "endMs": 60780,
+  "timestampMs": 60640,
+  "confidence": null
+ },
+ {
+  "text": " put",
+  "startMs": 60780,
+  "endMs": 60900,
+  "timestampMs": 60840,
+  "confidence": null
+ },
+ {
+  "text": " after",
+  "startMs": 60900,
+  "endMs": 61120,
+  "timestampMs": 61010,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 61120,
+  "endMs": 61280,
+  "timestampMs": 61200,
+  "confidence": null
+ },
+ {
+  "text": " slash",
+  "startMs": 61280,
+  "endMs": 61500,
+  "timestampMs": 61390,
+  "confidence": null
+ },
+ {
+  "text": " turns",
+  "startMs": 61500,
+  "endMs": 61800,
+  "timestampMs": 61650,
+  "confidence": null
+ },
+ {
+  "text": " into",
+  "startMs": 61800,
+  "endMs": 62120,
+  "timestampMs": 61960,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 62120,
+  "endMs": 62280,
+  "timestampMs": 62200,
+  "confidence": null
+ },
+ {
+  "text": " real,",
+  "startMs": 62280,
+  "endMs": 62600,
+  "timestampMs": 62440,
+  "confidence": null
+ },
+ {
+  "text": " scannable",
+  "startMs": 62740,
+  "endMs": 63260,
+  "timestampMs": 63000,
+  "confidence": null
+ },
+ {
+  "text": " QR",
+  "startMs": 63260,
+  "endMs": 63580,
+  "timestampMs": 63420,
+  "confidence": null
+ },
+ {
+  "text": " code",
+  "startMs": 63580,
+  "endMs": 63920,
+  "timestampMs": 63750,
+  "confidence": null
+ },
+ {
+  "text": " made",
+  "startMs": 63920,
+  "endMs": 64180,
+  "timestampMs": 64050,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 64180,
+  "endMs": 64380,
+  "timestampMs": 64280,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 64380,
+  "endMs": 64600,
+  "timestampMs": 64490,
+  "confidence": null
+ },
+ {
+  "text": " blocks.",
+  "startMs": 64600,
+  "endMs": 64940,
+  "timestampMs": 64770,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 65740,
+  "endMs": 65960,
+  "timestampMs": 65850,
+  "confidence": null
+ },
+ {
+  "text": " sends",
+  "startMs": 65960,
+  "endMs": 66240,
+  "timestampMs": 66100,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 66240,
+  "endMs": 66480,
+  "timestampMs": 66360,
+  "confidence": null
+ },
+ {
+  "text": " snack",
+  "startMs": 66480,
+  "endMs": 66800,
+  "timestampMs": 66640,
+  "confidence": null
+ },
+ {
+  "text": " raid",
+  "startMs": 66800,
+  "endMs": 66980,
+  "timestampMs": 66890,
+  "confidence": null
+ },
+ {
+  "text": " map",
+  "startMs": 66980,
+  "endMs": 67180,
+  "timestampMs": 67080,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 67180,
+  "endMs": 67360,
+  "timestampMs": 67270,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 67360,
+  "endMs": 67480,
+  "timestampMs": 67420,
+  "confidence": null
+ },
+ {
+  "text": " whole",
+  "startMs": 67480,
+  "endMs": 67760,
+  "timestampMs": 67620,
+  "confidence": null
+ },
+ {
+  "text": " gang,",
+  "startMs": 67760,
+  "endMs": 67980,
+  "timestampMs": 67870,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 68480,
+  "endMs": 68580,
+  "timestampMs": 68530,
+  "confidence": null
+ },
+ {
+  "text": " yes,",
+  "startMs": 68580,
+  "endMs": 68780,
+  "timestampMs": 68680,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 69080,
+  "endMs": 69200,
+  "timestampMs": 69140,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 69200,
+  "endMs": 69340,
+  "timestampMs": 69270,
+  "confidence": null
+ },
+ {
+  "text": " scan",
+  "startMs": 69340,
+  "endMs": 69560,
+  "timestampMs": 69450,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 69560,
+  "endMs": 69680,
+  "timestampMs": 69620,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 69680,
+  "endMs": 69800,
+  "timestampMs": 69740,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 69800,
+  "endMs": 69920,
+  "timestampMs": 69860,
+  "confidence": null
+ },
+ {
+  "text": " screen",
+  "startMs": 69920,
+  "endMs": 70140,
+  "timestampMs": 70030,
+  "confidence": null
+ },
+ {
+  "text": " right",
+  "startMs": 70140,
+  "endMs": 70340,
+  "timestampMs": 70240,
+  "confidence": null
+ },
+ {
+  "text": " now.",
+  "startMs": 70340,
+  "endMs": 70660,
+  "timestampMs": 70500,
+  "confidence": null
+ },
+ {
+  "text": " Four.",
+  "startMs": 71540,
+  "endMs": 71940,
+  "timestampMs": 71740,
+  "confidence": null
+ },
+ {
+  "text": " curl ifconfig.me.",
+  "startMs": 72700,
+  "endMs": 74240,
+  "timestampMs": 73470,
+  "confidence": null
+ },
+ {
+  "text": " One",
+  "startMs": 74240,
+  "endMs": 75060,
+  "timestampMs": 74650,
+  "confidence": null
+ },
+ {
+  "text": " line",
+  "startMs": 75060,
+  "endMs": 75260,
+  "timestampMs": 75160,
+  "confidence": null
+ },
+ {
+  "text": " back:",
+  "startMs": 75260,
+  "endMs": 75540,
+  "timestampMs": 75400,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 75800,
+  "endMs": 75940,
+  "timestampMs": 75870,
+  "confidence": null
+ },
+ {
+  "text": " public",
+  "startMs": 75940,
+  "endMs": 76220,
+  "timestampMs": 76080,
+  "confidence": null
+ },
+ {
+  "text": " IP",
+  "startMs": 76220,
+  "endMs": 76500,
+  "timestampMs": 76360,
+  "confidence": null
+ },
+ {
+  "text": " address,",
+  "startMs": 76500,
+  "endMs": 76900,
+  "timestampMs": 76700,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 77120,
+  "endMs": 77380,
+  "timestampMs": 77250,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 77380,
+  "endMs": 77540,
+  "timestampMs": 77460,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 77540,
+  "endMs": 77960,
+  "timestampMs": 77750,
+  "confidence": null
+ },
+ {
+  "text": " website",
+  "startMs": 77960,
+  "endMs": 78280,
+  "timestampMs": 78120,
+  "confidence": null
+ },
+ {
+  "text": " sees",
+  "startMs": 78280,
+  "endMs": 78560,
+  "timestampMs": 78420,
+  "confidence": null
+ },
+ {
+  "text": " when",
+  "startMs": 78560,
+  "endMs": 78760,
+  "timestampMs": 78660,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 78760,
+  "endMs": 78900,
+  "timestampMs": 78830,
+  "confidence": null
+ },
+ {
+  "text": " connect.",
+  "startMs": 78900,
+  "endMs": 79180,
+  "timestampMs": 79040,
+  "confidence": null
+ },
+ {
+  "text": " Run",
+  "startMs": 79180,
+  "endMs": 79880,
+  "timestampMs": 79530,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 79880,
+  "endMs": 80000,
+  "timestampMs": 79940,
+  "confidence": null
+ },
+ {
+  "text": " before",
+  "startMs": 80000,
+  "endMs": 80500,
+  "timestampMs": 80250,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 80500,
+  "endMs": 80980,
+  "timestampMs": 80740,
+  "confidence": null
+ },
+ {
+  "text": " after",
+  "startMs": 80980,
+  "endMs": 81320,
+  "timestampMs": 81150,
+  "confidence": null
+ },
+ {
+  "text": " turning",
+  "startMs": 81320,
+  "endMs": 81600,
+  "timestampMs": 81460,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 81600,
+  "endMs": 81800,
+  "timestampMs": 81700,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 81800,
+  "endMs": 81920,
+  "timestampMs": 81860,
+  "confidence": null
+ },
+ {
+  "text": " VPN",
+  "startMs": 81920,
+  "endMs": 82220,
+  "timestampMs": 82070,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 82220,
+  "endMs": 82560,
+  "timestampMs": 82390,
+  "confidence": null
+ },
+ {
+  "text": " make",
+  "startMs": 82560,
+  "endMs": 82680,
+  "timestampMs": 82620,
+  "confidence": null
+ },
+ {
+  "text": " sure",
+  "startMs": 82680,
+  "endMs": 82840,
+  "timestampMs": 82760,
+  "confidence": null
+ },
+ {
+  "text": " it's",
+  "startMs": 82840,
+  "endMs": 83120,
+  "timestampMs": 82980,
+  "confidence": null
+ },
+ {
+  "text": " actually",
+  "startMs": 83120,
+  "endMs": 83440,
+  "timestampMs": 83280,
+  "confidence": null
+ },
+ {
+  "text": " working.",
+  "startMs": 83440,
+  "endMs": 84020,
+  "timestampMs": 83730,
+  "confidence": null
+ },
+ {
+  "text": " Five.",
+  "startMs": 84880,
+  "endMs": 85060,
+  "timestampMs": 84970,
+  "confidence": null
+ },
+ {
+  "text": " curl parrot.live.",
+  "startMs": 85940,
+  "endMs": 87280,
+  "timestampMs": 86610,
+  "confidence": null
+ },
+ {
+  "text": " When",
+  "startMs": 87820,
+  "endMs": 88140,
+  "timestampMs": 87980,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 88140,
+  "endMs": 88280,
+  "timestampMs": 88210,
+  "confidence": null
+ },
+ {
+  "text": " raid",
+  "startMs": 88280,
+  "endMs": 88480,
+  "timestampMs": 88380,
+  "confidence": null
+ },
+ {
+  "text": " succeeds,",
+  "startMs": 88480,
+  "endMs": 88920,
+  "timestampMs": 88700,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 89480,
+  "endMs": 89540,
+  "timestampMs": 89510,
+  "confidence": null
+ },
+ {
+  "text": " streams",
+  "startMs": 89540,
+  "endMs": 89780,
+  "timestampMs": 89660,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 89780,
+  "endMs": 89980,
+  "timestampMs": 89880,
+  "confidence": null
+ },
+ {
+  "text": " animated,",
+  "startMs": 89980,
+  "endMs": 90560,
+  "timestampMs": 90270,
+  "confidence": null
+ },
+ {
+  "text": " colorful",
+  "startMs": 90820,
+  "endMs": 91020,
+  "timestampMs": 90920,
+  "confidence": null
+ },
+ {
+  "text": " party",
+  "startMs": 91020,
+  "endMs": 91420,
+  "timestampMs": 91220,
+  "confidence": null
+ },
+ {
+  "text": " parrot",
+  "startMs": 91420,
+  "endMs": 91720,
+  "timestampMs": 91570,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 91720,
+  "endMs": 91880,
+  "timestampMs": 91800,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 91880,
+  "endMs": 92000,
+  "timestampMs": 91940,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 92000,
+  "endMs": 92340,
+  "timestampMs": 92170,
+  "confidence": null
+ },
+ {
+  "text": " forever,",
+  "startMs": 92340,
+  "endMs": 93040,
+  "timestampMs": 92690,
+  "confidence": null
+ },
+ {
+  "text": " until",
+  "startMs": 93040,
+  "endMs": 93580,
+  "timestampMs": 93310,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 93580,
+  "endMs": 93720,
+  "timestampMs": 93650,
+  "confidence": null
+ },
+ {
+  "text": " press",
+  "startMs": 93720,
+  "endMs": 93900,
+  "timestampMs": 93810,
+  "confidence": null
+ },
+ {
+  "text": " Ctrl+C.",
+  "startMs": 93900,
+  "endMs": 94440,
+  "timestampMs": 94170,
+  "confidence": null
+ },
+ {
+  "text": " Save",
+  "startMs": 95180,
+  "endMs": 95560,
+  "timestampMs": 95370,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 95560,
+  "endMs": 95780,
+  "timestampMs": 95670,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 95780,
+  "endMs": 95980,
+  "timestampMs": 95880,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 95980,
+  "endMs": 96120,
+  "timestampMs": 96050,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 96120,
+  "endMs": 96440,
+  "timestampMs": 96280,
+  "confidence": null
+ },
+ {
+  "text": " late-night",
+  "startMs": 96440,
+  "endMs": 96860,
+  "timestampMs": 96650,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 96860,
+  "endMs": 97120,
+  "timestampMs": 96990,
+  "confidence": null
+ },
+ {
+  "text": " session.",
+  "startMs": 97120,
+  "endMs": 97520,
+  "timestampMs": 97320,
+  "confidence": null
+ },
+ {
+  "text": " Follow",
+  "startMs": 97880,
+  "endMs": 98140,
+  "timestampMs": 98010,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 98140,
+  "endMs": 98360,
+  "timestampMs": 98250,
+  "confidence": null
+ },
+ {
+  "text": " more",
+  "startMs": 98360,
+  "endMs": 98500,
+  "timestampMs": 98430,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 98500,
+  "endMs": 98780,
+  "timestampMs": 98640,
+  "confidence": null
+ },
+ {
+  "text": " tricks,",
+  "startMs": 98780,
+  "endMs": 99060,
+  "timestampMs": 98920,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 99220,
+  "endMs": 99340,
+  "timestampMs": 99280,
+  "confidence": null
+ },
+ {
+  "text": " comment",
+  "startMs": 99340,
+  "endMs": 99580,
+  "timestampMs": 99460,
+  "confidence": null
+ },
+ {
+  "text": " which",
+  "startMs": 99580,
+  "endMs": 99880,
+  "timestampMs": 99730,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 99880,
+  "endMs": 100040,
+  "timestampMs": 99960,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 100040,
+  "endMs": 100140,
+  "timestampMs": 100090,
+  "confidence": null
+ },
+ {
+  "text": " tried",
+  "startMs": 100140,
+  "endMs": 100320,
+  "timestampMs": 100230,
+  "confidence": null
+ },
+ {
+  "text": " first.",
+  "startMs": 100320,
+  "endMs": 100580,
+  "timestampMs": 100450,
+  "confidence": null
+ }
+]

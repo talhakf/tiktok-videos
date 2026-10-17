@@ -1,0 +1,16 @@
+node_modules
+/dist
+.DS_Store
+.env
+.secrets/
+
+# Ignore the output video from Git but not videos you import into src/.
+
+.venv/
+out/
+
+# Obsidian UI state
+SudoRaccoon/.obsidian/workspace.json
+
+# Python bytecode
+__pycache__/

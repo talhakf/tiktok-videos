@@ -1,0 +1,1787 @@
+[
+ {
+  "text": " You",
+  "startMs": 0,
+  "endMs": 400,
+  "timestampMs": 200,
+  "confidence": null
+ },
+ {
+  "text": " don't",
+  "startMs": 400,
+  "endMs": 580,
+  "timestampMs": 490,
+  "confidence": null
+ },
+ {
+  "text": " need",
+  "startMs": 580,
+  "endMs": 760,
+  "timestampMs": 670,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 760,
+  "endMs": 920,
+  "timestampMs": 840,
+  "confidence": null
+ },
+ {
+  "text": " hundred",
+  "startMs": 920,
+  "endMs": 1260,
+  "timestampMs": 1090,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 1260,
+  "endMs": 1660,
+  "timestampMs": 1460,
+  "confidence": null
+ },
+ {
+  "text": " commands.",
+  "startMs": 1660,
+  "endMs": 2180,
+  "timestampMs": 1920,
+  "confidence": null
+ },
+ {
+  "text": " These",
+  "startMs": 2640,
+  "endMs": 2800,
+  "timestampMs": 2720,
+  "confidence": null
+ },
+ {
+  "text": " eight",
+  "startMs": 2800,
+  "endMs": 3060,
+  "timestampMs": 2930,
+  "confidence": null
+ },
+ {
+  "text": " do",
+  "startMs": 3060,
+  "endMs": 3300,
+  "timestampMs": 3180,
+  "confidence": null
+ },
+ {
+  "text": " almost",
+  "startMs": 3300,
+  "endMs": 3680,
+  "timestampMs": 3490,
+  "confidence": null
+ },
+ {
+  "text": " everything",
+  "startMs": 3680,
+  "endMs": 4260,
+  "timestampMs": 3970,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 4260,
+  "endMs": 4580,
+  "timestampMs": 4420,
+  "confidence": null
+ },
+ {
+  "text": " do",
+  "startMs": 4580,
+  "endMs": 4760,
+  "timestampMs": 4670,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 4760,
+  "endMs": 5040,
+  "timestampMs": 4900,
+  "confidence": null
+ },
+ {
+  "text": " day.",
+  "startMs": 5040,
+  "endMs": 5340,
+  "timestampMs": 5190,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 6240,
+  "endMs": 6430,
+  "timestampMs": 6335,
+  "confidence": null
+ },
+ {
+  "text": " just",
+  "startMs": 6430,
+  "endMs": 6620,
+  "timestampMs": 6525,
+  "confidence": null
+ },
+ {
+  "text": " opened",
+  "startMs": 6620,
+  "endMs": 6940,
+  "timestampMs": 6780,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 6940,
+  "endMs": 7080,
+  "timestampMs": 7010,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 7080,
+  "endMs": 7360,
+  "timestampMs": 7220,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 7360,
+  "endMs": 7560,
+  "timestampMs": 7460,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 7560,
+  "endMs": 7720,
+  "timestampMs": 7640,
+  "confidence": null
+ },
+ {
+  "text": " first",
+  "startMs": 7720,
+  "endMs": 7960,
+  "timestampMs": 7840,
+  "confidence": null
+ },
+ {
+  "text": " time,",
+  "startMs": 7960,
+  "endMs": 8400,
+  "timestampMs": 8180,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 8660,
+  "endMs": 8740,
+  "timestampMs": 8700,
+  "confidence": null
+ },
+ {
+  "text": " he's",
+  "startMs": 8740,
+  "endMs": 8940,
+  "timestampMs": 8840,
+  "confidence": null
+ },
+ {
+  "text": " moving",
+  "startMs": 8940,
+  "endMs": 9220,
+  "timestampMs": 9080,
+  "confidence": null
+ },
+ {
+  "text": " into",
+  "startMs": 9220,
+  "endMs": 9500,
+  "timestampMs": 9360,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 9500,
+  "endMs": 9680,
+  "timestampMs": 9590,
+  "confidence": null
+ },
+ {
+  "text": " brand",
+  "startMs": 9680,
+  "endMs": 9940,
+  "timestampMs": 9810,
+  "confidence": null
+ },
+ {
+  "text": " new",
+  "startMs": 9940,
+  "endMs": 10160,
+  "timestampMs": 10050,
+  "confidence": null
+ },
+ {
+  "text": " trash",
+  "startMs": 10160,
+  "endMs": 10420,
+  "timestampMs": 10290,
+  "confidence": null
+ },
+ {
+  "text": " can.",
+  "startMs": 10420,
+  "endMs": 10860,
+  "timestampMs": 10640,
+  "confidence": null
+ },
+ {
+  "text": " One.",
+  "startMs": 11840,
+  "endMs": 11920,
+  "timestampMs": 11880,
+  "confidence": null
+ },
+ {
+  "text": " pwd,",
+  "startMs": 12660,
+  "endMs": 13460,
+  "timestampMs": 13060,
+  "confidence": null
+ },
+ {
+  "text": " print",
+  "startMs": 14020,
+  "endMs": 14340,
+  "timestampMs": 14180,
+  "confidence": null
+ },
+ {
+  "text": " working",
+  "startMs": 14340,
+  "endMs": 14800,
+  "timestampMs": 14570,
+  "confidence": null
+ },
+ {
+  "text": " directory.",
+  "startMs": 14800,
+  "endMs": 15280,
+  "timestampMs": 15040,
+  "confidence": null
+ },
+ {
+  "text": " It",
+  "startMs": 15720,
+  "endMs": 15940,
+  "timestampMs": 15830,
+  "confidence": null
+ },
+ {
+  "text": " tells",
+  "startMs": 15940,
+  "endMs": 16120,
+  "timestampMs": 16030,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 16120,
+  "endMs": 16300,
+  "timestampMs": 16210,
+  "confidence": null
+ },
+ {
+  "text": " which",
+  "startMs": 16300,
+  "endMs": 16420,
+  "timestampMs": 16360,
+  "confidence": null
+ },
+ {
+  "text": " folder",
+  "startMs": 16420,
+  "endMs": 16760,
+  "timestampMs": 16590,
+  "confidence": null
+ },
+ {
+  "text": " you're",
+  "startMs": 16760,
+  "endMs": 17040,
+  "timestampMs": 16900,
+  "confidence": null
+ },
+ {
+  "text": " standing",
+  "startMs": 17040,
+  "endMs": 17260,
+  "timestampMs": 17150,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 17260,
+  "endMs": 17520,
+  "timestampMs": 17390,
+  "confidence": null
+ },
+ {
+  "text": " right",
+  "startMs": 17520,
+  "endMs": 17680,
+  "timestampMs": 17600,
+  "confidence": null
+ },
+ {
+  "text": " now,",
+  "startMs": 17680,
+  "endMs": 18020,
+  "timestampMs": 17850,
+  "confidence": null
+ },
+ {
+  "text": " like",
+  "startMs": 18380,
+  "endMs": 18460,
+  "timestampMs": 18420,
+  "confidence": null
+ },
+ {
+  "text": " /Users/sudo.",
+  "startMs": 18460,
+  "endMs": 20320,
+  "timestampMs": 19390,
+  "confidence": null
+ },
+ {
+  "text": " Two.",
+  "startMs": 21100,
+  "endMs": 21480,
+  "timestampMs": 21290,
+  "confidence": null
+ },
+ {
+  "text": " ls,",
+  "startMs": 22360,
+  "endMs": 22380,
+  "timestampMs": 22370,
+  "confidence": null
+ },
+ {
+  "text": " list.",
+  "startMs": 22380,
+  "endMs": 23020,
+  "timestampMs": 22700,
+  "confidence": null
+ },
+ {
+  "text": " It",
+  "startMs": 23740,
+  "endMs": 23860,
+  "timestampMs": 23800,
+  "confidence": null
+ },
+ {
+  "text": " shows",
+  "startMs": 23860,
+  "endMs": 24060,
+  "timestampMs": 23960,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 24060,
+  "endMs": 24280,
+  "timestampMs": 24170,
+  "confidence": null
+ },
+ {
+  "text": " files",
+  "startMs": 24280,
+  "endMs": 24600,
+  "timestampMs": 24440,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 24600,
+  "endMs": 24820,
+  "timestampMs": 24710,
+  "confidence": null
+ },
+ {
+  "text": " folders",
+  "startMs": 24820,
+  "endMs": 25120,
+  "timestampMs": 24970,
+  "confidence": null
+ },
+ {
+  "text": " around",
+  "startMs": 25120,
+  "endMs": 25400,
+  "timestampMs": 25260,
+  "confidence": null
+ },
+ {
+  "text": " you.",
+  "startMs": 25400,
+  "endMs": 25760,
+  "timestampMs": 25580,
+  "confidence": null
+ },
+ {
+  "text": " Add",
+  "startMs": 26180,
+  "endMs": 26500,
+  "timestampMs": 26340,
+  "confidence": null
+ },
+ {
+  "text": " -la,",
+  "startMs": 26500,
+  "endMs": 27480,
+  "timestampMs": 26990,
+  "confidence": null
+ },
+ {
+  "text": " so",
+  "startMs": 27860,
+  "endMs": 27940,
+  "timestampMs": 27900,
+  "confidence": null
+ },
+ {
+  "text": " ls -la,",
+  "startMs": 27940,
+  "endMs": 29120,
+  "timestampMs": 28530,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 29120,
+  "endMs": 29620,
+  "timestampMs": 29370,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 29620,
+  "endMs": 29720,
+  "timestampMs": 29670,
+  "confidence": null
+ },
+ {
+  "text": " also",
+  "startMs": 29720,
+  "endMs": 29960,
+  "timestampMs": 29840,
+  "confidence": null
+ },
+ {
+  "text": " see",
+  "startMs": 29960,
+  "endMs": 30240,
+  "timestampMs": 30100,
+  "confidence": null
+ },
+ {
+  "text": " file",
+  "startMs": 30240,
+  "endMs": 30620,
+  "timestampMs": 30430,
+  "confidence": null
+ },
+ {
+  "text": " sizes,",
+  "startMs": 30620,
+  "endMs": 31100,
+  "timestampMs": 30860,
+  "confidence": null
+ },
+ {
+  "text": " dates,",
+  "startMs": 31360,
+  "endMs": 31620,
+  "timestampMs": 31490,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 31820,
+  "endMs": 31960,
+  "timestampMs": 31890,
+  "confidence": null
+ },
+ {
+  "text": " hidden",
+  "startMs": 31960,
+  "endMs": 32200,
+  "timestampMs": 32080,
+  "confidence": null
+ },
+ {
+  "text": " files",
+  "startMs": 32200,
+  "endMs": 32580,
+  "timestampMs": 32390,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 32580,
+  "endMs": 32800,
+  "timestampMs": 32690,
+  "confidence": null
+ },
+ {
+  "text": " start",
+  "startMs": 32800,
+  "endMs": 33020,
+  "timestampMs": 32910,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 33020,
+  "endMs": 33180,
+  "timestampMs": 33100,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 33180,
+  "endMs": 33320,
+  "timestampMs": 33250,
+  "confidence": null
+ },
+ {
+  "text": " dot,",
+  "startMs": 33320,
+  "endMs": 33520,
+  "timestampMs": 33420,
+  "confidence": null
+ },
+ {
+  "text": " like",
+  "startMs": 33880,
+  "endMs": 33980,
+  "timestampMs": 33930,
+  "confidence": null
+ },
+ {
+  "text": " .zshrc.",
+  "startMs": 33980,
+  "endMs": 35700,
+  "timestampMs": 34840,
+  "confidence": null
+ },
+ {
+  "text": " Three.",
+  "startMs": 36340,
+  "endMs": 36900,
+  "timestampMs": 36620,
+  "confidence": null
+ },
+ {
+  "text": " cd,",
+  "startMs": 38020,
+  "endMs": 38270,
+  "timestampMs": 38145,
+  "confidence": null
+ },
+ {
+  "text": " change",
+  "startMs": 38340,
+  "endMs": 38720,
+  "timestampMs": 38530,
+  "confidence": null
+ },
+ {
+  "text": " directory.",
+  "startMs": 38720,
+  "endMs": 39260,
+  "timestampMs": 38990,
+  "confidence": null
+ },
+ {
+  "text": " Type",
+  "startMs": 39920,
+  "endMs": 40200,
+  "timestampMs": 40060,
+  "confidence": null
+ },
+ {
+  "text": " cd Desktop",
+  "startMs": 40200,
+  "endMs": 41520,
+  "timestampMs": 40860,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 41520,
+  "endMs": 41940,
+  "timestampMs": 41730,
+  "confidence": null
+ },
+ {
+  "text": " step",
+  "startMs": 41940,
+  "endMs": 42160,
+  "timestampMs": 42050,
+  "confidence": null
+ },
+ {
+  "text": " inside",
+  "startMs": 42160,
+  "endMs": 42480,
+  "timestampMs": 42320,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 42480,
+  "endMs": 42640,
+  "timestampMs": 42560,
+  "confidence": null
+ },
+ {
+  "text": " folder,",
+  "startMs": 42640,
+  "endMs": 42940,
+  "timestampMs": 42790,
+  "confidence": null
+ },
+ {
+  "text": " cd ..",
+  "startMs": 43660,
+  "endMs": 44620,
+  "timestampMs": 44140,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 44620,
+  "endMs": 44960,
+  "timestampMs": 44790,
+  "confidence": null
+ },
+ {
+  "text": " step",
+  "startMs": 44960,
+  "endMs": 45180,
+  "timestampMs": 45070,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 45180,
+  "endMs": 45440,
+  "timestampMs": 45310,
+  "confidence": null
+ },
+ {
+  "text": " level",
+  "startMs": 45440,
+  "endMs": 45660,
+  "timestampMs": 45550,
+  "confidence": null
+ },
+ {
+  "text": " back",
+  "startMs": 45660,
+  "endMs": 45920,
+  "timestampMs": 45790,
+  "confidence": null
+ },
+ {
+  "text": " out,",
+  "startMs": 45920,
+  "endMs": 46220,
+  "timestampMs": 46070,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 46440,
+  "endMs": 46760,
+  "timestampMs": 46600,
+  "confidence": null
+ },
+ {
+  "text": " just",
+  "startMs": 46760,
+  "endMs": 47020,
+  "timestampMs": 46890,
+  "confidence": null
+ },
+ {
+  "text": " cd ~",
+  "startMs": 47020,
+  "endMs": 48120,
+  "timestampMs": 47570,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 48120,
+  "endMs": 48540,
+  "timestampMs": 48330,
+  "confidence": null
+ },
+ {
+  "text": " jump",
+  "startMs": 48540,
+  "endMs": 48740,
+  "timestampMs": 48640,
+  "confidence": null
+ },
+ {
+  "text": " straight",
+  "startMs": 48740,
+  "endMs": 49020,
+  "timestampMs": 48880,
+  "confidence": null
+ },
+ {
+  "text": " home",
+  "startMs": 49020,
+  "endMs": 49240,
+  "timestampMs": 49130,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 49240,
+  "endMs": 49460,
+  "timestampMs": 49350,
+  "confidence": null
+ },
+ {
+  "text": " anywhere.",
+  "startMs": 49460,
+  "endMs": 49840,
+  "timestampMs": 49650,
+  "confidence": null
+ },
+ {
+  "text": " Four.",
+  "startMs": 50460,
+  "endMs": 51020,
+  "timestampMs": 50740,
+  "confidence": null
+ },
+ {
+  "text": " mkdir,",
+  "startMs": 51780,
+  "endMs": 52160,
+  "timestampMs": 51970,
+  "confidence": null
+ },
+ {
+  "text": " make",
+  "startMs": 52520,
+  "endMs": 52800,
+  "timestampMs": 52660,
+  "confidence": null
+ },
+ {
+  "text": " directory.",
+  "startMs": 52800,
+  "endMs": 53320,
+  "timestampMs": 53060,
+  "confidence": null
+ },
+ {
+  "text": " mkdir trash-can",
+  "startMs": 54160,
+  "endMs": 55480,
+  "timestampMs": 54820,
+  "confidence": null
+ },
+ {
+  "text": " creates",
+  "startMs": 55480,
+  "endMs": 55960,
+  "timestampMs": 55720,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 55960,
+  "endMs": 56120,
+  "timestampMs": 56040,
+  "confidence": null
+ },
+ {
+  "text": " fresh",
+  "startMs": 56120,
+  "endMs": 56380,
+  "timestampMs": 56250,
+  "confidence": null
+ },
+ {
+  "text": " folder",
+  "startMs": 56380,
+  "endMs": 56740,
+  "timestampMs": 56560,
+  "confidence": null
+ },
+ {
+  "text": " right",
+  "startMs": 56740,
+  "endMs": 56940,
+  "timestampMs": 56840,
+  "confidence": null
+ },
+ {
+  "text": " where",
+  "startMs": 56940,
+  "endMs": 57080,
+  "timestampMs": 57010,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 57080,
+  "endMs": 57220,
+  "timestampMs": 57150,
+  "confidence": null
+ },
+ {
+  "text": " are.",
+  "startMs": 57220,
+  "endMs": 57500,
+  "timestampMs": 57360,
+  "confidence": null
+ },
+ {
+  "text": " Add",
+  "startMs": 57500,
+  "endMs": 58260,
+  "timestampMs": 57880,
+  "confidence": null
+ },
+ {
+  "text": " -p",
+  "startMs": 58260,
+  "endMs": 59140,
+  "timestampMs": 58700,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 59140,
+  "endMs": 59540,
+  "timestampMs": 59340,
+  "confidence": null
+ },
+ {
+  "text": " build",
+  "startMs": 59540,
+  "endMs": 59740,
+  "timestampMs": 59640,
+  "confidence": null
+ },
+ {
+  "text": " nested",
+  "startMs": 59740,
+  "endMs": 60080,
+  "timestampMs": 59910,
+  "confidence": null
+ },
+ {
+  "text": " folders",
+  "startMs": 60080,
+  "endMs": 60440,
+  "timestampMs": 60260,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 60440,
+  "endMs": 60640,
+  "timestampMs": 60540,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 60640,
+  "endMs": 60800,
+  "timestampMs": 60720,
+  "confidence": null
+ },
+ {
+  "text": " go.",
+  "startMs": 60800,
+  "endMs": 61380,
+  "timestampMs": 61090,
+  "confidence": null
+ },
+ {
+  "text": " Five.",
+  "startMs": 62300,
+  "endMs": 62550,
+  "timestampMs": 62425,
+  "confidence": null
+ },
+ {
+  "text": " touch.",
+  "startMs": 63060,
+  "endMs": 63200,
+  "timestampMs": 63130,
+  "confidence": null
+ },
+ {
+  "text": " touch snacks.txt",
+  "startMs": 64300,
+  "endMs": 65600,
+  "timestampMs": 64950,
+  "confidence": null
+ },
+ {
+  "text": " drops",
+  "startMs": 65600,
+  "endMs": 66080,
+  "timestampMs": 65840,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 66080,
+  "endMs": 66320,
+  "timestampMs": 66200,
+  "confidence": null
+ },
+ {
+  "text": " brand",
+  "startMs": 66320,
+  "endMs": 66600,
+  "timestampMs": 66460,
+  "confidence": null
+ },
+ {
+  "text": " new",
+  "startMs": 66600,
+  "endMs": 66840,
+  "timestampMs": 66720,
+  "confidence": null
+ },
+ {
+  "text": " empty",
+  "startMs": 66840,
+  "endMs": 67120,
+  "timestampMs": 66980,
+  "confidence": null
+ },
+ {
+  "text": " file",
+  "startMs": 67120,
+  "endMs": 67480,
+  "timestampMs": 67300,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 67480,
+  "endMs": 67680,
+  "timestampMs": 67580,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 67680,
+  "endMs": 67800,
+  "timestampMs": 67740,
+  "confidence": null
+ },
+ {
+  "text": " spot.",
+  "startMs": 67800,
+  "endMs": 68100,
+  "timestampMs": 67950,
+  "confidence": null
+ },
+ {
+  "text": " Six.",
+  "startMs": 68840,
+  "endMs": 69200,
+  "timestampMs": 69020,
+  "confidence": null
+ },
+ {
+  "text": " cp,",
+  "startMs": 70240,
+  "endMs": 70490,
+  "timestampMs": 70365,
+  "confidence": null
+ },
+ {
+  "text": " copy.",
+  "startMs": 70680,
+  "endMs": 71100,
+  "timestampMs": 70890,
+  "confidence": null
+ },
+ {
+  "text": " Give",
+  "startMs": 71820,
+  "endMs": 72020,
+  "timestampMs": 71920,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 72020,
+  "endMs": 72140,
+  "timestampMs": 72080,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 72140,
+  "endMs": 72260,
+  "timestampMs": 72200,
+  "confidence": null
+ },
+ {
+  "text": " file",
+  "startMs": 72260,
+  "endMs": 72460,
+  "timestampMs": 72360,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 72460,
+  "endMs": 72640,
+  "timestampMs": 72550,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 72640,
+  "endMs": 72920,
+  "timestampMs": 72780,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 72920,
+  "endMs": 73120,
+  "timestampMs": 73020,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 73120,
+  "endMs": 73240,
+  "timestampMs": 73180,
+  "confidence": null
+ },
+ {
+  "text": " new",
+  "startMs": 73240,
+  "endMs": 73400,
+  "timestampMs": 73320,
+  "confidence": null
+ },
+ {
+  "text": " name",
+  "startMs": 73400,
+  "endMs": 73540,
+  "timestampMs": 73470,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 73540,
+  "endMs": 73700,
+  "timestampMs": 73620,
+  "confidence": null
+ },
+ {
+  "text": " want,",
+  "startMs": 73700,
+  "endMs": 73960,
+  "timestampMs": 73830,
+  "confidence": null
+ },
+ {
+  "text": " like",
+  "startMs": 74300,
+  "endMs": 74400,
+  "timestampMs": 74350,
+  "confidence": null
+ },
+ {
+  "text": " cp snacks.txt backup.txt.",
+  "startMs": 74400,
+  "endMs": 77920,
+  "timestampMs": 76160,
+  "confidence": null
+ },
+ {
+  "text": " Copying",
+  "startMs": 78700,
+  "endMs": 78960,
+  "timestampMs": 78830,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 78960,
+  "endMs": 79060,
+  "timestampMs": 79010,
+  "confidence": null
+ },
+ {
+  "text": " whole",
+  "startMs": 79060,
+  "endMs": 79200,
+  "timestampMs": 79130,
+  "confidence": null
+ },
+ {
+  "text": " folder?",
+  "startMs": 79200,
+  "endMs": 79580,
+  "timestampMs": 79390,
+  "confidence": null
+ },
+ {
+  "text": " Add",
+  "startMs": 79940,
+  "endMs": 80280,
+  "timestampMs": 80110,
+  "confidence": null
+ },
+ {
+  "text": " -r.",
+  "startMs": 80280,
+  "endMs": 81040,
+  "timestampMs": 80660,
+  "confidence": null
+ },
+ {
+  "text": " Seven.",
+  "startMs": 81580,
+  "endMs": 82060,
+  "timestampMs": 81820,
+  "confidence": null
+ },
+ {
+  "text": " mv,",
+  "startMs": 82620,
+  "endMs": 83060,
+  "timestampMs": 82840,
+  "confidence": null
+ },
+ {
+  "text": " move.",
+  "startMs": 83360,
+  "endMs": 83720,
+  "timestampMs": 83540,
+  "confidence": null
+ },
+ {
+  "text": " It",
+  "startMs": 84240,
+  "endMs": 84360,
+  "timestampMs": 84300,
+  "confidence": null
+ },
+ {
+  "text": " does",
+  "startMs": 84360,
+  "endMs": 84500,
+  "timestampMs": 84430,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 84500,
+  "endMs": 84780,
+  "timestampMs": 84640,
+  "confidence": null
+ },
+ {
+  "text": " jobs:",
+  "startMs": 84780,
+  "endMs": 85140,
+  "timestampMs": 84960,
+  "confidence": null
+ },
+ {
+  "text": " mv snacks.txt trash-can/",
+  "startMs": 85700,
+  "endMs": 88220,
+  "timestampMs": 86960,
+  "confidence": null
+ },
+ {
+  "text": " moves",
+  "startMs": 88220,
+  "endMs": 88700,
+  "timestampMs": 88460,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 88700,
+  "endMs": 88880,
+  "timestampMs": 88790,
+  "confidence": null
+ },
+ {
+  "text": " file",
+  "startMs": 88880,
+  "endMs": 89200,
+  "timestampMs": 89040,
+  "confidence": null
+ },
+ {
+  "text": " into",
+  "startMs": 89200,
+  "endMs": 89440,
+  "timestampMs": 89320,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 89440,
+  "endMs": 89600,
+  "timestampMs": 89520,
+  "confidence": null
+ },
+ {
+  "text": " folder,",
+  "startMs": 89600,
+  "endMs": 89980,
+  "timestampMs": 89790,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 90380,
+  "endMs": 90740,
+  "timestampMs": 90560,
+  "confidence": null
+ },
+ {
+  "text": " mv backup.txt pizza.txt",
+  "startMs": 90740,
+  "endMs": 94120,
+  "timestampMs": 92430,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 94120,
+  "endMs": 94300,
+  "timestampMs": 94210,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 94300,
+  "endMs": 94420,
+  "timestampMs": 94360,
+  "confidence": null
+ },
+ {
+  "text": " same",
+  "startMs": 94420,
+  "endMs": 94600,
+  "timestampMs": 94510,
+  "confidence": null
+ },
+ {
+  "text": " place",
+  "startMs": 94600,
+  "endMs": 95000,
+  "timestampMs": 94800,
+  "confidence": null
+ },
+ {
+  "text": " renames",
+  "startMs": 95340,
+  "endMs": 95620,
+  "timestampMs": 95480,
+  "confidence": null
+ },
+ {
+  "text": " it.",
+  "startMs": 95620,
+  "endMs": 96240,
+  "timestampMs": 95930,
+  "confidence": null
+ },
+ {
+  "text": " Eight.",
+  "startMs": 96540,
+  "endMs": 96660,
+  "timestampMs": 96600,
+  "confidence": null
+ },
+ {
+  "text": " rm,",
+  "startMs": 97700,
+  "endMs": 98040,
+  "timestampMs": 97870,
+  "confidence": null
+ },
+ {
+  "text": " remove.",
+  "startMs": 98040,
+  "endMs": 98380,
+  "timestampMs": 98210,
+  "confidence": null
+ },
+ {
+  "text": " Careful",
+  "startMs": 99240,
+  "endMs": 99560,
+  "timestampMs": 99400,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 99560,
+  "endMs": 99680,
+  "timestampMs": 99620,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 99680,
+  "endMs": 99840,
+  "timestampMs": 99760,
+  "confidence": null
+ },
+ {
+  "text": " one:",
+  "startMs": 99840,
+  "endMs": 100080,
+  "timestampMs": 99960,
+  "confidence": null
+ },
+ {
+  "text": " rm pizza.txt",
+  "startMs": 100700,
+  "endMs": 102220,
+  "timestampMs": 101460,
+  "confidence": null
+ },
+ {
+  "text": " does",
+  "startMs": 102220,
+  "endMs": 102560,
+  "timestampMs": 102390,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 102560,
+  "endMs": 102960,
+  "timestampMs": 102760,
+  "confidence": null
+ },
+ {
+  "text": " use",
+  "startMs": 102960,
+  "endMs": 103240,
+  "timestampMs": 103100,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 103240,
+  "endMs": 103400,
+  "timestampMs": 103320,
+  "confidence": null
+ },
+ {
+  "text": " Trash",
+  "startMs": 103400,
+  "endMs": 103680,
+  "timestampMs": 103540,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 103680,
+  "endMs": 103880,
+  "timestampMs": 103780,
+  "confidence": null
+ },
+ {
+  "text": " Recycle",
+  "startMs": 103880,
+  "endMs": 104220,
+  "timestampMs": 104050,
+  "confidence": null
+ },
+ {
+  "text": " Bin.",
+  "startMs": 104220,
+  "endMs": 104440,
+  "timestampMs": 104330,
+  "confidence": null
+ },
+ {
+  "text": " It",
+  "startMs": 104900,
+  "endMs": 105020,
+  "timestampMs": 104960,
+  "confidence": null
+ },
+ {
+  "text": " deletes",
+  "startMs": 105020,
+  "endMs": 105460,
+  "timestampMs": 105240,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 105460,
+  "endMs": 105580,
+  "timestampMs": 105520,
+  "confidence": null
+ },
+ {
+  "text": " file",
+  "startMs": 105580,
+  "endMs": 105820,
+  "timestampMs": 105700,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 105820,
+  "endMs": 106160,
+  "timestampMs": 105990,
+  "confidence": null
+ },
+ {
+  "text": " good,",
+  "startMs": 106160,
+  "endMs": 106460,
+  "timestampMs": 106310,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 106940,
+  "endMs": 107100,
+  "timestampMs": 107020,
+  "confidence": null
+ },
+ {
+  "text": " even",
+  "startMs": 107100,
+  "endMs": 107420,
+  "timestampMs": 107260,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 107420,
+  "endMs": 107700,
+  "timestampMs": 107560,
+  "confidence": null
+ },
+ {
+  "text": " can't",
+  "startMs": 107700,
+  "endMs": 108200,
+  "timestampMs": 107950,
+  "confidence": null
+ },
+ {
+  "text": " dig",
+  "startMs": 108200,
+  "endMs": 108300,
+  "timestampMs": 108250,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 108300,
+  "endMs": 108440,
+  "timestampMs": 108370,
+  "confidence": null
+ },
+ {
+  "text": " back",
+  "startMs": 108440,
+  "endMs": 108580,
+  "timestampMs": 108510,
+  "confidence": null
+ },
+ {
+  "text": " out.",
+  "startMs": 108580,
+  "endMs": 109020,
+  "timestampMs": 108800,
+  "confidence": null
+ },
+ {
+  "text": " Add",
+  "startMs": 109600,
+  "endMs": 109840,
+  "timestampMs": 109720,
+  "confidence": null
+ },
+ {
+  "text": " -i,",
+  "startMs": 109840,
+  "endMs": 110720,
+  "timestampMs": 110280,
+  "confidence": null
+ },
+ {
+  "text": " rm -i,",
+  "startMs": 111140,
+  "endMs": 112200,
+  "timestampMs": 111670,
+  "confidence": null
+ },
+ {
+  "text": " so",
+  "startMs": 112340,
+  "endMs": 112580,
+  "timestampMs": 112460,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 112580,
+  "endMs": 112700,
+  "timestampMs": 112640,
+  "confidence": null
+ },
+ {
+  "text": " asks",
+  "startMs": 112700,
+  "endMs": 113000,
+  "timestampMs": 112850,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 113000,
+  "endMs": 113240,
+  "timestampMs": 113120,
+  "confidence": null
+ },
+ {
+  "text": " before",
+  "startMs": 113240,
+  "endMs": 113480,
+  "timestampMs": 113360,
+  "confidence": null
+ },
+ {
+  "text": " anything",
+  "startMs": 113480,
+  "endMs": 113760,
+  "timestampMs": 113620,
+  "confidence": null
+ },
+ {
+  "text": " disappears.",
+  "startMs": 113760,
+  "endMs": 114200,
+  "timestampMs": 113980,
+  "confidence": null
+ },
+ {
+  "text": " Save",
+  "startMs": 114780,
+  "endMs": 115220,
+  "timestampMs": 115000,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 115220,
+  "endMs": 115460,
+  "timestampMs": 115340,
+  "confidence": null
+ },
+ {
+  "text": " cheat",
+  "startMs": 115460,
+  "endMs": 115680,
+  "timestampMs": 115570,
+  "confidence": null
+ },
+ {
+  "text": " sheet",
+  "startMs": 115680,
+  "endMs": 115880,
+  "timestampMs": 115780,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 115880,
+  "endMs": 116100,
+  "timestampMs": 115990,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 116100,
+  "endMs": 116240,
+  "timestampMs": 116170,
+  "confidence": null
+ },
+ {
+  "text": " first",
+  "startMs": 116240,
+  "endMs": 116480,
+  "timestampMs": 116360,
+  "confidence": null
+ },
+ {
+  "text": " week",
+  "startMs": 116480,
+  "endMs": 116680,
+  "timestampMs": 116580,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 116680,
+  "endMs": 116840,
+  "timestampMs": 116760,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 116840,
+  "endMs": 116920,
+  "timestampMs": 116880,
+  "confidence": null
+ },
+ {
+  "text": " terminal.",
+  "startMs": 116920,
+  "endMs": 117200,
+  "timestampMs": 117060,
+  "confidence": null
+ },
+ {
+  "text": " Follow",
+  "startMs": 117800,
+  "endMs": 117940,
+  "timestampMs": 117870,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 117940,
+  "endMs": 118140,
+  "timestampMs": 118040,
+  "confidence": null
+ },
+ {
+  "text": " more",
+  "startMs": 118140,
+  "endMs": 118300,
+  "timestampMs": 118220,
+  "confidence": null
+ },
+ {
+  "text": " terminal",
+  "startMs": 118300,
+  "endMs": 118580,
+  "timestampMs": 118440,
+  "confidence": null
+ },
+ {
+  "text": " tricks,",
+  "startMs": 118580,
+  "endMs": 118840,
+  "timestampMs": 118710,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 118840,
+  "endMs": 119100,
+  "timestampMs": 118970,
+  "confidence": null
+ },
+ {
+  "text": " comment:",
+  "startMs": 119100,
+  "endMs": 119440,
+  "timestampMs": 119270,
+  "confidence": null
+ },
+ {
+  "text": " which",
+  "startMs": 120000,
+  "endMs": 120100,
+  "timestampMs": 120050,
+  "confidence": null
+ },
+ {
+  "text": " command",
+  "startMs": 120100,
+  "endMs": 120340,
+  "timestampMs": 120220,
+  "confidence": null
+ },
+ {
+  "text": " did",
+  "startMs": 120340,
+  "endMs": 120500,
+  "timestampMs": 120420,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 120500,
+  "endMs": 120700,
+  "timestampMs": 120600,
+  "confidence": null
+ },
+ {
+  "text": " learn",
+  "startMs": 120700,
+  "endMs": 120960,
+  "timestampMs": 120830,
+  "confidence": null
+ },
+ {
+  "text": " way",
+  "startMs": 120960,
+  "endMs": 121200,
+  "timestampMs": 121080,
+  "confidence": null
+ },
+ {
+  "text": " too",
+  "startMs": 121200,
+  "endMs": 121420,
+  "timestampMs": 121310,
+  "confidence": null
+ },
+ {
+  "text": " late?",
+  "startMs": 121420,
+  "endMs": 121620,
+  "timestampMs": 121520,
+  "confidence": null
+ }
+]

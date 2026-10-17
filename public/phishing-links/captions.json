@@ -1,0 +1,1136 @@
+[
+ {
+  "text": " Spot",
+  "startMs": 0,
+  "endMs": 560,
+  "timestampMs": 280,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 560,
+  "endMs": 740,
+  "timestampMs": 650,
+  "confidence": null
+ },
+ {
+  "text": " fake",
+  "startMs": 740,
+  "endMs": 940,
+  "timestampMs": 840,
+  "confidence": null
+ },
+ {
+  "text": " link",
+  "startMs": 940,
+  "endMs": 1220,
+  "timestampMs": 1080,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 1220,
+  "endMs": 1620,
+  "timestampMs": 1420,
+  "confidence": null
+ },
+ {
+  "text": " three",
+  "startMs": 1620,
+  "endMs": 2000,
+  "timestampMs": 1810,
+  "confidence": null
+ },
+ {
+  "text": " seconds.",
+  "startMs": 2000,
+  "endMs": 2460,
+  "timestampMs": 2230,
+  "confidence": null
+ },
+ {
+  "text": " Only",
+  "startMs": 2840,
+  "endMs": 2880,
+  "timestampMs": 2860,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 2880,
+  "endMs": 3120,
+  "timestampMs": 3000,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 3120,
+  "endMs": 3260,
+  "timestampMs": 3190,
+  "confidence": null
+ },
+ {
+  "text": " these",
+  "startMs": 3260,
+  "endMs": 3380,
+  "timestampMs": 3320,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 3380,
+  "endMs": 3540,
+  "timestampMs": 3460,
+  "confidence": null
+ },
+ {
+  "text": " really",
+  "startMs": 3540,
+  "endMs": 3780,
+  "timestampMs": 3660,
+  "confidence": null
+ },
+ {
+  "text": " PayPal.",
+  "startMs": 3780,
+  "endMs": 4100,
+  "timestampMs": 3940,
+  "confidence": null
+ },
+ {
+  "text": " Three.",
+  "startMs": 5100,
+  "endMs": 5200,
+  "timestampMs": 5150,
+  "confidence": null
+ },
+ {
+  "text": " Two.",
+  "startMs": 5820,
+  "endMs": 6300,
+  "timestampMs": 6060,
+  "confidence": null
+ },
+ {
+  "text": " One.",
+  "startMs": 6960,
+  "endMs": 7400,
+  "timestampMs": 7180,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 8440,
+  "endMs": 8620,
+  "timestampMs": 8530,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 8620,
+  "endMs": 8880,
+  "timestampMs": 8750,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 8880,
+  "endMs": 9060,
+  "timestampMs": 8970,
+  "confidence": null
+ },
+ {
+  "text": " masked",
+  "startMs": 9060,
+  "endMs": 9440,
+  "timestampMs": 9250,
+  "confidence": null
+ },
+ {
+  "text": " bandit,",
+  "startMs": 9440,
+  "endMs": 9900,
+  "timestampMs": 9670,
+  "confidence": null
+ },
+ {
+  "text": " so",
+  "startMs": 10000,
+  "endMs": 10100,
+  "timestampMs": 10050,
+  "confidence": null
+ },
+ {
+  "text": " he",
+  "startMs": 10100,
+  "endMs": 10220,
+  "timestampMs": 10160,
+  "confidence": null
+ },
+ {
+  "text": " knows",
+  "startMs": 10220,
+  "endMs": 10380,
+  "timestampMs": 10300,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 10380,
+  "endMs": 10980,
+  "timestampMs": 10680,
+  "confidence": null
+ },
+ {
+  "text": " trick",
+  "startMs": 10980,
+  "endMs": 11160,
+  "timestampMs": 11070,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 11160,
+  "endMs": 11300,
+  "timestampMs": 11230,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 11300,
+  "endMs": 11400,
+  "timestampMs": 11350,
+  "confidence": null
+ },
+ {
+  "text": " book.",
+  "startMs": 11400,
+  "endMs": 11580,
+  "timestampMs": 11490,
+  "confidence": null
+ },
+ {
+  "text": " Here's",
+  "startMs": 12000,
+  "endMs": 12200,
+  "timestampMs": 12100,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 12200,
+  "endMs": 12320,
+  "timestampMs": 12260,
+  "confidence": null
+ },
+ {
+  "text": " rule.",
+  "startMs": 12320,
+  "endMs": 12520,
+  "timestampMs": 12420,
+  "confidence": null
+ },
+ {
+  "text": " Find",
+  "startMs": 13200,
+  "endMs": 13320,
+  "timestampMs": 13260,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 13320,
+  "endMs": 13460,
+  "timestampMs": 13390,
+  "confidence": null
+ },
+ {
+  "text": " first",
+  "startMs": 13460,
+  "endMs": 13840,
+  "timestampMs": 13650,
+  "confidence": null
+ },
+ {
+  "text": " single",
+  "startMs": 13840,
+  "endMs": 14380,
+  "timestampMs": 14110,
+  "confidence": null
+ },
+ {
+  "text": " slash",
+  "startMs": 14380,
+  "endMs": 14740,
+  "timestampMs": 14560,
+  "confidence": null
+ },
+ {
+  "text": " after",
+  "startMs": 14740,
+  "endMs": 15200,
+  "timestampMs": 14970,
+  "confidence": null
+ },
+ {
+  "text": " https.",
+  "startMs": 15200,
+  "endMs": 16220,
+  "timestampMs": 15710,
+  "confidence": null
+ },
+ {
+  "text": " The",
+  "startMs": 16500,
+  "endMs": 16720,
+  "timestampMs": 16610,
+  "confidence": null
+ },
+ {
+  "text": " name",
+  "startMs": 16720,
+  "endMs": 16880,
+  "timestampMs": 16800,
+  "confidence": null
+ },
+ {
+  "text": " right",
+  "startMs": 16880,
+  "endMs": 17260,
+  "timestampMs": 17070,
+  "confidence": null
+ },
+ {
+  "text": " before",
+  "startMs": 17260,
+  "endMs": 17660,
+  "timestampMs": 17460,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 17660,
+  "endMs": 17840,
+  "timestampMs": 17750,
+  "confidence": null
+ },
+ {
+  "text": " ending,",
+  "startMs": 17840,
+  "endMs": 18200,
+  "timestampMs": 18020,
+  "confidence": null
+ },
+ {
+  "text": " like",
+  "startMs": 18400,
+  "endMs": 18500,
+  "timestampMs": 18450,
+  "confidence": null
+ },
+ {
+  "text": " .com,",
+  "startMs": 18500,
+  "endMs": 18960,
+  "timestampMs": 18730,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 19160,
+  "endMs": 19280,
+  "timestampMs": 19220,
+  "confidence": null
+ },
+ {
+  "text": " who",
+  "startMs": 19280,
+  "endMs": 19480,
+  "timestampMs": 19380,
+  "confidence": null
+ },
+ {
+  "text": " really",
+  "startMs": 19480,
+  "endMs": 19900,
+  "timestampMs": 19690,
+  "confidence": null
+ },
+ {
+  "text": " owns",
+  "startMs": 19900,
+  "endMs": 20240,
+  "timestampMs": 20070,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 20240,
+  "endMs": 20420,
+  "timestampMs": 20330,
+  "confidence": null
+ },
+ {
+  "text": " link.",
+  "startMs": 20420,
+  "endMs": 20620,
+  "timestampMs": 20520,
+  "confidence": null
+ },
+ {
+  "text": " The",
+  "startMs": 21080,
+  "endMs": 21160,
+  "timestampMs": 21120,
+  "confidence": null
+ },
+ {
+  "text": " owner",
+  "startMs": 21160,
+  "endMs": 21300,
+  "timestampMs": 21230,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 21300,
+  "endMs": 21500,
+  "timestampMs": 21400,
+  "confidence": null
+ },
+ {
+  "text": " make",
+  "startMs": 21500,
+  "endMs": 21660,
+  "timestampMs": 21580,
+  "confidence": null
+ },
+ {
+  "text": " up",
+  "startMs": 21660,
+  "endMs": 21800,
+  "timestampMs": 21730,
+  "confidence": null
+ },
+ {
+  "text": " anything",
+  "startMs": 21800,
+  "endMs": 22100,
+  "timestampMs": 21950,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 22100,
+  "endMs": 22360,
+  "timestampMs": 22230,
+  "confidence": null
+ },
+ {
+  "text": " front",
+  "startMs": 22360,
+  "endMs": 22500,
+  "timestampMs": 22430,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 22500,
+  "endMs": 22620,
+  "timestampMs": 22560,
+  "confidence": null
+ },
+ {
+  "text": " it.",
+  "startMs": 22620,
+  "endMs": 22880,
+  "timestampMs": 22750,
+  "confidence": null
+ },
+ {
+  "text": " Trick",
+  "startMs": 23520,
+  "endMs": 23640,
+  "timestampMs": 23580,
+  "confidence": null
+ },
+ {
+  "text": " one:",
+  "startMs": 23640,
+  "endMs": 23900,
+  "timestampMs": 23770,
+  "confidence": null
+ },
+ {
+  "text": " PayPal",
+  "startMs": 24300,
+  "endMs": 24580,
+  "timestampMs": 24440,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 24580,
+  "endMs": 24840,
+  "timestampMs": 24710,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 24840,
+  "endMs": 25020,
+  "timestampMs": 24930,
+  "confidence": null
+ },
+ {
+  "text": " front.",
+  "startMs": 25020,
+  "endMs": 25400,
+  "timestampMs": 25210,
+  "confidence": null
+ },
+ {
+  "text": " This",
+  "startMs": 26060,
+  "endMs": 26240,
+  "timestampMs": 26150,
+  "confidence": null
+ },
+ {
+  "text": " link",
+  "startMs": 26240,
+  "endMs": 26480,
+  "timestampMs": 26360,
+  "confidence": null
+ },
+ {
+  "text": " belongs",
+  "startMs": 26480,
+  "endMs": 26780,
+  "timestampMs": 26630,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 26780,
+  "endMs": 27060,
+  "timestampMs": 26920,
+  "confidence": null
+ },
+ {
+  "text": " secure-login.xyz.",
+  "startMs": 27060,
+  "endMs": 28820,
+  "timestampMs": 27940,
+  "confidence": null
+ },
+ {
+  "text": " Not",
+  "startMs": 29060,
+  "endMs": 29300,
+  "timestampMs": 29180,
+  "confidence": null
+ },
+ {
+  "text": " PayPal.",
+  "startMs": 29300,
+  "endMs": 29560,
+  "timestampMs": 29430,
+  "confidence": null
+ },
+ {
+  "text": " Trick",
+  "startMs": 30120,
+  "endMs": 30560,
+  "timestampMs": 30340,
+  "confidence": null
+ },
+ {
+  "text": " two:",
+  "startMs": 30560,
+  "endMs": 30900,
+  "timestampMs": 30730,
+  "confidence": null
+ },
+ {
+  "text": " PayPal",
+  "startMs": 31720,
+  "endMs": 31980,
+  "timestampMs": 31850,
+  "confidence": null
+ },
+ {
+  "text": " after",
+  "startMs": 31980,
+  "endMs": 32240,
+  "timestampMs": 32110,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 32240,
+  "endMs": 32480,
+  "timestampMs": 32360,
+  "confidence": null
+ },
+ {
+  "text": " slash.",
+  "startMs": 32480,
+  "endMs": 32720,
+  "timestampMs": 32600,
+  "confidence": null
+ },
+ {
+  "text": " That's",
+  "startMs": 33460,
+  "endMs": 33580,
+  "timestampMs": 33520,
+  "confidence": null
+ },
+ {
+  "text": " just",
+  "startMs": 33580,
+  "endMs": 33700,
+  "timestampMs": 33640,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 33700,
+  "endMs": 33880,
+  "timestampMs": 33790,
+  "confidence": null
+ },
+ {
+  "text": " page",
+  "startMs": 33880,
+  "endMs": 34160,
+  "timestampMs": 34020,
+  "confidence": null
+ },
+ {
+  "text": " name,",
+  "startMs": 34160,
+  "endMs": 34440,
+  "timestampMs": 34300,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 34560,
+  "endMs": 34660,
+  "timestampMs": 34610,
+  "confidence": null
+ },
+ {
+  "text": " anyone",
+  "startMs": 34660,
+  "endMs": 35000,
+  "timestampMs": 34830,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 35000,
+  "endMs": 35280,
+  "timestampMs": 35140,
+  "confidence": null
+ },
+ {
+  "text": " name",
+  "startMs": 35280,
+  "endMs": 35400,
+  "timestampMs": 35340,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 35400,
+  "endMs": 35540,
+  "timestampMs": 35470,
+  "confidence": null
+ },
+ {
+  "text": " page",
+  "startMs": 35540,
+  "endMs": 35740,
+  "timestampMs": 35640,
+  "confidence": null
+ },
+ {
+  "text": " PayPal.",
+  "startMs": 35740,
+  "endMs": 36120,
+  "timestampMs": 35930,
+  "confidence": null
+ },
+ {
+  "text": " Trick",
+  "startMs": 37000,
+  "endMs": 37100,
+  "timestampMs": 37050,
+  "confidence": null
+ },
+ {
+  "text": " three:",
+  "startMs": 37100,
+  "endMs": 37400,
+  "timestampMs": 37250,
+  "confidence": null
+ },
+ {
+  "text": " look-alike",
+  "startMs": 37800,
+  "endMs": 38340,
+  "timestampMs": 38070,
+  "confidence": null
+ },
+ {
+  "text": " letters.",
+  "startMs": 38340,
+  "endMs": 38620,
+  "timestampMs": 38480,
+  "confidence": null
+ },
+ {
+  "text": " That's",
+  "startMs": 39060,
+  "endMs": 39200,
+  "timestampMs": 39130,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 39200,
+  "endMs": 39300,
+  "timestampMs": 39250,
+  "confidence": null
+ },
+ {
+  "text": " 1,",
+  "startMs": 39300,
+  "endMs": 39600,
+  "timestampMs": 39450,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 39820,
+  "endMs": 39940,
+  "timestampMs": 39880,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 39940,
+  "endMs": 40100,
+  "timestampMs": 40020,
+  "confidence": null
+ },
+ {
+  "text": " l.",
+  "startMs": 40100,
+  "endMs": 40320,
+  "timestampMs": 40210,
+  "confidence": null
+ },
+ {
+  "text": " And",
+  "startMs": 40680,
+  "endMs": 40780,
+  "timestampMs": 40730,
+  "confidence": null
+ },
+ {
+  "text": " rn",
+  "startMs": 40780,
+  "endMs": 41360,
+  "timestampMs": 41070,
+  "confidence": null
+ },
+ {
+  "text": " side",
+  "startMs": 41360,
+  "endMs": 41540,
+  "timestampMs": 41450,
+  "confidence": null
+ },
+ {
+  "text": " by",
+  "startMs": 41540,
+  "endMs": 41700,
+  "timestampMs": 41620,
+  "confidence": null
+ },
+ {
+  "text": " side",
+  "startMs": 41700,
+  "endMs": 41980,
+  "timestampMs": 41840,
+  "confidence": null
+ },
+ {
+  "text": " looks",
+  "startMs": 41980,
+  "endMs": 42180,
+  "timestampMs": 42080,
+  "confidence": null
+ },
+ {
+  "text": " like",
+  "startMs": 42180,
+  "endMs": 42400,
+  "timestampMs": 42290,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 42400,
+  "endMs": 42540,
+  "timestampMs": 42470,
+  "confidence": null
+ },
+ {
+  "text": " m.",
+  "startMs": 42540,
+  "endMs": 42840,
+  "timestampMs": 42690,
+  "confidence": null
+ },
+ {
+  "text": " Bonus",
+  "startMs": 43720,
+  "endMs": 43880,
+  "timestampMs": 43800,
+  "confidence": null
+ },
+ {
+  "text": " myth:",
+  "startMs": 43880,
+  "endMs": 44160,
+  "timestampMs": 44020,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 44500,
+  "endMs": 44660,
+  "timestampMs": 44580,
+  "confidence": null
+ },
+ {
+  "text": " padlock",
+  "startMs": 44660,
+  "endMs": 45140,
+  "timestampMs": 44900,
+  "confidence": null
+ },
+ {
+  "text": " means",
+  "startMs": 45140,
+  "endMs": 45400,
+  "timestampMs": 45270,
+  "confidence": null
+ },
+ {
+  "text": " it's",
+  "startMs": 45400,
+  "endMs": 45660,
+  "timestampMs": 45530,
+  "confidence": null
+ },
+ {
+  "text": " safe.",
+  "startMs": 45660,
+  "endMs": 45820,
+  "timestampMs": 45740,
+  "confidence": null
+ },
+ {
+  "text": " Nope.",
+  "startMs": 46440,
+  "endMs": 46560,
+  "timestampMs": 46500,
+  "confidence": null
+ },
+ {
+  "text": " It",
+  "startMs": 46940,
+  "endMs": 47020,
+  "timestampMs": 46980,
+  "confidence": null
+ },
+ {
+  "text": " only",
+  "startMs": 47020,
+  "endMs": 47140,
+  "timestampMs": 47080,
+  "confidence": null
+ },
+ {
+  "text": " means",
+  "startMs": 47140,
+  "endMs": 47380,
+  "timestampMs": 47260,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 47380,
+  "endMs": 47560,
+  "timestampMs": 47470,
+  "confidence": null
+ },
+ {
+  "text": " connection",
+  "startMs": 47560,
+  "endMs": 47820,
+  "timestampMs": 47690,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 47820,
+  "endMs": 48020,
+  "timestampMs": 47920,
+  "confidence": null
+ },
+ {
+  "text": " encrypted,",
+  "startMs": 48020,
+  "endMs": 48360,
+  "timestampMs": 48190,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 48580,
+  "endMs": 48740,
+  "timestampMs": 48660,
+  "confidence": null
+ },
+ {
+  "text": " scammers",
+  "startMs": 48740,
+  "endMs": 49100,
+  "timestampMs": 48920,
+  "confidence": null
+ },
+ {
+  "text": " get",
+  "startMs": 49100,
+  "endMs": 49280,
+  "timestampMs": 49190,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 49280,
+  "endMs": 49400,
+  "timestampMs": 49340,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 49400,
+  "endMs": 49540,
+  "timestampMs": 49470,
+  "confidence": null
+ },
+ {
+  "text": " free.",
+  "startMs": 49540,
+  "endMs": 49740,
+  "timestampMs": 49640,
+  "confidence": null
+ },
+ {
+  "text": " So",
+  "startMs": 50360,
+  "endMs": 50480,
+  "timestampMs": 50420,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 50480,
+  "endMs": 50600,
+  "timestampMs": 50540,
+  "confidence": null
+ },
+ {
+  "text": " real",
+  "startMs": 50600,
+  "endMs": 50860,
+  "timestampMs": 50730,
+  "confidence": null
+ },
+ {
+  "text": " PayPal",
+  "startMs": 50860,
+  "endMs": 51240,
+  "timestampMs": 51050,
+  "confidence": null
+ },
+ {
+  "text": " was",
+  "startMs": 51240,
+  "endMs": 51560,
+  "timestampMs": 51400,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 51560,
+  "endMs": 51760,
+  "timestampMs": 51660,
+  "confidence": null
+ },
+ {
+  "text": " third",
+  "startMs": 51760,
+  "endMs": 52080,
+  "timestampMs": 51920,
+  "confidence": null
+ },
+ {
+  "text": " one.",
+  "startMs": 52080,
+  "endMs": 52360,
+  "timestampMs": 52220,
+  "confidence": null
+ },
+ {
+  "text": " Save",
+  "startMs": 52660,
+  "endMs": 52840,
+  "timestampMs": 52750,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 52840,
+  "endMs": 52980,
+  "timestampMs": 52910,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 52980,
+  "endMs": 53160,
+  "timestampMs": 53070,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 53160,
+  "endMs": 53260,
+  "timestampMs": 53210,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 53260,
+  "endMs": 53440,
+  "timestampMs": 53350,
+  "confidence": null
+ },
+ {
+  "text": " weird",
+  "startMs": 53440,
+  "endMs": 53660,
+  "timestampMs": 53550,
+  "confidence": null
+ },
+ {
+  "text": " text.",
+  "startMs": 53660,
+  "endMs": 54020,
+  "timestampMs": 53840,
+  "confidence": null
+ },
+ {
+  "text": " Follow",
+  "startMs": 54500,
+  "endMs": 54560,
+  "timestampMs": 54530,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 54560,
+  "endMs": 54740,
+  "timestampMs": 54650,
+  "confidence": null
+ },
+ {
+  "text": " more,",
+  "startMs": 54740,
+  "endMs": 54900,
+  "timestampMs": 54820,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 55020,
+  "endMs": 55200,
+  "timestampMs": 55110,
+  "confidence": null
+ },
+ {
+  "text": " comment",
+  "startMs": 55200,
+  "endMs": 55460,
+  "timestampMs": 55330,
+  "confidence": null
+ },
+ {
+  "text": " if",
+  "startMs": 55460,
+  "endMs": 55640,
+  "timestampMs": 55550,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 55640,
+  "endMs": 55740,
+  "timestampMs": 55690,
+  "confidence": null
+ },
+ {
+  "text": " got",
+  "startMs": 55740,
+  "endMs": 55880,
+  "timestampMs": 55810,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 55880,
+  "endMs": 56000,
+  "timestampMs": 55940,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 56000,
+  "endMs": 56120,
+  "timestampMs": 56060,
+  "confidence": null
+ },
+ {
+  "text": " three",
+  "startMs": 56120,
+  "endMs": 56260,
+  "timestampMs": 56190,
+  "confidence": null
+ },
+ {
+  "text": " seconds.",
+  "startMs": 56260,
+  "endMs": 56540,
+  "timestampMs": 56400,
+  "confidence": null
+ }
+]

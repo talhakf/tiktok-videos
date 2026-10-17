@@ -1,0 +1,2333 @@
+[
+ {
+  "text": " This",
+  "startMs": 0,
+  "endMs": 380,
+  "timestampMs": 190,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 380,
+  "endMs": 540,
+  "timestampMs": 460,
+  "confidence": null
+ },
+ {
+  "text": " how",
+  "startMs": 540,
+  "endMs": 740,
+  "timestampMs": 640,
+  "confidence": null
+ },
+ {
+  "text": " hackers",
+  "startMs": 740,
+  "endMs": 1080,
+  "timestampMs": 910,
+  "confidence": null
+ },
+ {
+  "text": " crack",
+  "startMs": 1080,
+  "endMs": 1460,
+  "timestampMs": 1270,
+  "confidence": null
+ },
+ {
+  "text": " Wi-Fi",
+  "startMs": 1460,
+  "endMs": 1840,
+  "timestampMs": 1650,
+  "confidence": null
+ },
+ {
+  "text": " passwords.",
+  "startMs": 1840,
+  "endMs": 2260,
+  "timestampMs": 2050,
+  "confidence": null
+ },
+ {
+  "text": " They",
+  "startMs": 2740,
+  "endMs": 2880,
+  "timestampMs": 2810,
+  "confidence": null
+ },
+ {
+  "text": " don't",
+  "startMs": 2880,
+  "endMs": 3060,
+  "timestampMs": 2970,
+  "confidence": null
+ },
+ {
+  "text": " guess",
+  "startMs": 3060,
+  "endMs": 3180,
+  "timestampMs": 3120,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 3180,
+  "endMs": 3340,
+  "timestampMs": 3260,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 3340,
+  "endMs": 3460,
+  "timestampMs": 3400,
+  "confidence": null
+ },
+ {
+  "text": " router.",
+  "startMs": 3460,
+  "endMs": 3720,
+  "timestampMs": 3590,
+  "confidence": null
+ },
+ {
+  "text": " They",
+  "startMs": 4220,
+  "endMs": 4380,
+  "timestampMs": 4300,
+  "confidence": null
+ },
+ {
+  "text": " record",
+  "startMs": 4380,
+  "endMs": 4660,
+  "timestampMs": 4520,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 4660,
+  "endMs": 4940,
+  "timestampMs": 4800,
+  "confidence": null
+ },
+ {
+  "text": " thing,",
+  "startMs": 4940,
+  "endMs": 5200,
+  "timestampMs": 5070,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 5380,
+  "endMs": 5580,
+  "timestampMs": 5480,
+  "confidence": null
+ },
+ {
+  "text": " take",
+  "startMs": 5580,
+  "endMs": 5740,
+  "timestampMs": 5660,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 5740,
+  "endMs": 5880,
+  "timestampMs": 5810,
+  "confidence": null
+ },
+ {
+  "text": " home.",
+  "startMs": 5880,
+  "endMs": 6060,
+  "timestampMs": 5970,
+  "confidence": null
+ },
+ {
+  "text": " Tonight,",
+  "startMs": 6700,
+  "endMs": 7040,
+  "timestampMs": 6870,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 7500,
+  "endMs": 7640,
+  "timestampMs": 7570,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 7640,
+  "endMs": 7980,
+  "timestampMs": 7810,
+  "confidence": null
+ },
+ {
+  "text": " outside",
+  "startMs": 7980,
+  "endMs": 8260,
+  "timestampMs": 8120,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 8260,
+  "endMs": 8440,
+  "timestampMs": 8350,
+  "confidence": null
+ },
+ {
+  "text": " window.",
+  "startMs": 8440,
+  "endMs": 8700,
+  "timestampMs": 8570,
+  "confidence": null
+ },
+ {
+  "text": " Laptop,",
+  "startMs": 9340,
+  "endMs": 9640,
+  "timestampMs": 9490,
+  "confidence": null
+ },
+ {
+  "text": " chips,",
+  "startMs": 10120,
+  "endMs": 10200,
+  "timestampMs": 10160,
+  "confidence": null
+ },
+ {
+  "text": " bad",
+  "startMs": 10720,
+  "endMs": 10760,
+  "timestampMs": 10740,
+  "confidence": null
+ },
+ {
+  "text": " intentions.",
+  "startMs": 10760,
+  "endMs": 11120,
+  "timestampMs": 10940,
+  "confidence": null
+ },
+ {
+  "text": " Every",
+  "startMs": 12100,
+  "endMs": 12320,
+  "timestampMs": 12210,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 12320,
+  "endMs": 12500,
+  "timestampMs": 12410,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 12500,
+  "endMs": 12680,
+  "timestampMs": 12590,
+  "confidence": null
+ },
+ {
+  "text": " phone",
+  "startMs": 12680,
+  "endMs": 12900,
+  "timestampMs": 12790,
+  "confidence": null
+ },
+ {
+  "text": " joins",
+  "startMs": 12900,
+  "endMs": 13160,
+  "timestampMs": 13030,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 13160,
+  "endMs": 13340,
+  "timestampMs": 13250,
+  "confidence": null
+ },
+ {
+  "text": " Wi-Fi,",
+  "startMs": 13340,
+  "endMs": 13720,
+  "timestampMs": 13530,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 13920,
+  "endMs": 13980,
+  "timestampMs": 13950,
+  "confidence": null
+ },
+ {
+  "text": " does",
+  "startMs": 13980,
+  "endMs": 14160,
+  "timestampMs": 14070,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 14160,
+  "endMs": 14380,
+  "timestampMs": 14270,
+  "confidence": null
+ },
+ {
+  "text": " four-way",
+  "startMs": 14380,
+  "endMs": 14820,
+  "timestampMs": 14600,
+  "confidence": null
+ },
+ {
+  "text": " handshake",
+  "startMs": 14820,
+  "endMs": 15240,
+  "timestampMs": 15030,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 15240,
+  "endMs": 15480,
+  "timestampMs": 15360,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 15480,
+  "endMs": 15620,
+  "timestampMs": 15550,
+  "confidence": null
+ },
+ {
+  "text": " router.",
+  "startMs": 15620,
+  "endMs": 15820,
+  "timestampMs": 15720,
+  "confidence": null
+ },
+ {
+  "text": " Your",
+  "startMs": 16360,
+  "endMs": 16500,
+  "timestampMs": 16430,
+  "confidence": null
+ },
+ {
+  "text": " password",
+  "startMs": 16500,
+  "endMs": 16940,
+  "timestampMs": 16720,
+  "confidence": null
+ },
+ {
+  "text": " never",
+  "startMs": 16940,
+  "endMs": 17480,
+  "timestampMs": 17210,
+  "confidence": null
+ },
+ {
+  "text": " goes",
+  "startMs": 17480,
+  "endMs": 17760,
+  "timestampMs": 17620,
+  "confidence": null
+ },
+ {
+  "text": " through",
+  "startMs": 17760,
+  "endMs": 17960,
+  "timestampMs": 17860,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 17960,
+  "endMs": 18140,
+  "timestampMs": 18050,
+  "confidence": null
+ },
+ {
+  "text": " air.",
+  "startMs": 18140,
+  "endMs": 18300,
+  "timestampMs": 18220,
+  "confidence": null
+ },
+ {
+  "text": " But",
+  "startMs": 18820,
+  "endMs": 18960,
+  "timestampMs": 18890,
+  "confidence": null
+ },
+ {
+  "text": " proof",
+  "startMs": 18960,
+  "endMs": 19420,
+  "timestampMs": 19190,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 19420,
+  "endMs": 19600,
+  "timestampMs": 19510,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 19600,
+  "endMs": 19760,
+  "timestampMs": 19680,
+  "confidence": null
+ },
+ {
+  "text": " does.",
+  "startMs": 19760,
+  "endMs": 20020,
+  "timestampMs": 19890,
+  "confidence": null
+ },
+ {
+  "text": " Anyone",
+  "startMs": 20720,
+  "endMs": 21040,
+  "timestampMs": 20880,
+  "confidence": null
+ },
+ {
+  "text": " nearby",
+  "startMs": 21040,
+  "endMs": 21380,
+  "timestampMs": 21210,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 21380,
+  "endMs": 21640,
+  "timestampMs": 21510,
+  "confidence": null
+ },
+ {
+  "text": " record",
+  "startMs": 21640,
+  "endMs": 22020,
+  "timestampMs": 21830,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 22020,
+  "endMs": 22220,
+  "timestampMs": 22120,
+  "confidence": null
+ },
+ {
+  "text": " handshake.",
+  "startMs": 22220,
+  "endMs": 22620,
+  "timestampMs": 22420,
+  "confidence": null
+ },
+ {
+  "text": " Nobody",
+  "startMs": 23240,
+  "endMs": 23540,
+  "timestampMs": 23390,
+  "confidence": null
+ },
+ {
+  "text": " joining?",
+  "startMs": 23540,
+  "endMs": 23840,
+  "timestampMs": 23690,
+  "confidence": null
+ },
+ {
+  "text": " They",
+  "startMs": 24320,
+  "endMs": 24540,
+  "timestampMs": 24430,
+  "confidence": null
+ },
+ {
+  "text": " kick",
+  "startMs": 24540,
+  "endMs": 24680,
+  "timestampMs": 24610,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 24680,
+  "endMs": 24860,
+  "timestampMs": 24770,
+  "confidence": null
+ },
+ {
+  "text": " phone",
+  "startMs": 24860,
+  "endMs": 25040,
+  "timestampMs": 24950,
+  "confidence": null
+ },
+ {
+  "text": " off",
+  "startMs": 25040,
+  "endMs": 25220,
+  "timestampMs": 25130,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 25220,
+  "endMs": 25380,
+  "timestampMs": 25300,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 25380,
+  "endMs": 25500,
+  "timestampMs": 25440,
+  "confidence": null
+ },
+ {
+  "text": " second,",
+  "startMs": 25500,
+  "endMs": 25700,
+  "timestampMs": 25600,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 25840,
+  "endMs": 26000,
+  "timestampMs": 25920,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 26000,
+  "endMs": 26120,
+  "timestampMs": 26060,
+  "confidence": null
+ },
+ {
+  "text": " joins",
+  "startMs": 26120,
+  "endMs": 26340,
+  "timestampMs": 26230,
+  "confidence": null
+ },
+ {
+  "text": " again.",
+  "startMs": 26340,
+  "endMs": 26580,
+  "timestampMs": 26460,
+  "confidence": null
+ },
+ {
+  "text": " Now",
+  "startMs": 26580,
+  "endMs": 27400,
+  "timestampMs": 26990,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 27400,
+  "endMs": 27600,
+  "timestampMs": 27500,
+  "confidence": null
+ },
+ {
+  "text": " guessing",
+  "startMs": 27600,
+  "endMs": 27800,
+  "timestampMs": 27700,
+  "confidence": null
+ },
+ {
+  "text": " happens",
+  "startMs": 27800,
+  "endMs": 28200,
+  "timestampMs": 28000,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 28200,
+  "endMs": 28400,
+  "timestampMs": 28300,
+  "confidence": null
+ },
+ {
+  "text": " home,",
+  "startMs": 28400,
+  "endMs": 28780,
+  "timestampMs": 28590,
+  "confidence": null
+ },
+ {
+  "text": " offline.",
+  "startMs": 29540,
+  "endMs": 29790,
+  "timestampMs": 29665,
+  "confidence": null
+ },
+ {
+  "text": " Every",
+  "startMs": 30180,
+  "endMs": 30440,
+  "timestampMs": 30310,
+  "confidence": null
+ },
+ {
+  "text": " guess",
+  "startMs": 30440,
+  "endMs": 30640,
+  "timestampMs": 30540,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 30640,
+  "endMs": 30880,
+  "timestampMs": 30760,
+  "confidence": null
+ },
+ {
+  "text": " checked",
+  "startMs": 30880,
+  "endMs": 31120,
+  "timestampMs": 31000,
+  "confidence": null
+ },
+ {
+  "text": " against",
+  "startMs": 31120,
+  "endMs": 31340,
+  "timestampMs": 31230,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 31340,
+  "endMs": 31540,
+  "timestampMs": 31440,
+  "confidence": null
+ },
+ {
+  "text": " recording,",
+  "startMs": 31540,
+  "endMs": 32000,
+  "timestampMs": 31770,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 32360,
+  "endMs": 32640,
+  "timestampMs": 32500,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 32640,
+  "endMs": 32840,
+  "timestampMs": 32740,
+  "confidence": null
+ },
+ {
+  "text": " router.",
+  "startMs": 32840,
+  "endMs": 33080,
+  "timestampMs": 32960,
+  "confidence": null
+ },
+ {
+  "text": " No",
+  "startMs": 33500,
+  "endMs": 33640,
+  "timestampMs": 33570,
+  "confidence": null
+ },
+ {
+  "text": " lockout.",
+  "startMs": 33640,
+  "endMs": 33940,
+  "timestampMs": 33790,
+  "confidence": null
+ },
+ {
+  "text": " No",
+  "startMs": 34480,
+  "endMs": 34580,
+  "timestampMs": 34530,
+  "confidence": null
+ },
+ {
+  "text": " alarm.",
+  "startMs": 34580,
+  "endMs": 34840,
+  "timestampMs": 34710,
+  "confidence": null
+ },
+ {
+  "text": " One",
+  "startMs": 35440,
+  "endMs": 35720,
+  "timestampMs": 35580,
+  "confidence": null
+ },
+ {
+  "text": " gaming",
+  "startMs": 35720,
+  "endMs": 36040,
+  "timestampMs": 35880,
+  "confidence": null
+ },
+ {
+  "text": " graphics",
+  "startMs": 36040,
+  "endMs": 36380,
+  "timestampMs": 36210,
+  "confidence": null
+ },
+ {
+  "text": " card",
+  "startMs": 36380,
+  "endMs": 36740,
+  "timestampMs": 36560,
+  "confidence": null
+ },
+ {
+  "text": " checks",
+  "startMs": 36740,
+  "endMs": 36980,
+  "timestampMs": 36860,
+  "confidence": null
+ },
+ {
+  "text": " about",
+  "startMs": 36980,
+  "endMs": 37240,
+  "timestampMs": 37110,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 37240,
+  "endMs": 37620,
+  "timestampMs": 37430,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 37620,
+  "endMs": 37780,
+  "timestampMs": 37700,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 37780,
+  "endMs": 37860,
+  "timestampMs": 37820,
+  "confidence": null
+ },
+ {
+  "text": " half",
+  "startMs": 37860,
+  "endMs": 38060,
+  "timestampMs": 37960,
+  "confidence": null
+ },
+ {
+  "text": " million",
+  "startMs": 38060,
+  "endMs": 38500,
+  "timestampMs": 38280,
+  "confidence": null
+ },
+ {
+  "text": " guesses",
+  "startMs": 38500,
+  "endMs": 39020,
+  "timestampMs": 38760,
+  "confidence": null
+ },
+ {
+  "text": " per",
+  "startMs": 39020,
+  "endMs": 39300,
+  "timestampMs": 39160,
+  "confidence": null
+ },
+ {
+  "text": " second.",
+  "startMs": 39300,
+  "endMs": 39760,
+  "timestampMs": 39530,
+  "confidence": null
+ },
+ {
+  "text": " Every",
+  "startMs": 40240,
+  "endMs": 40460,
+  "timestampMs": 40350,
+  "confidence": null
+ },
+ {
+  "text": " password",
+  "startMs": 40460,
+  "endMs": 40800,
+  "timestampMs": 40630,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 40800,
+  "endMs": 41020,
+  "timestampMs": 40910,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 41020,
+  "endMs": 41140,
+  "timestampMs": 41080,
+  "confidence": null
+ },
+ {
+  "text": " leaked",
+  "startMs": 41140,
+  "endMs": 41300,
+  "timestampMs": 41220,
+  "confidence": null
+ },
+ {
+  "text": " list",
+  "startMs": 41300,
+  "endMs": 41620,
+  "timestampMs": 41460,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 41620,
+  "endMs": 41780,
+  "timestampMs": 41700,
+  "confidence": null
+ },
+ {
+  "text": " 14",
+  "startMs": 41780,
+  "endMs": 42260,
+  "timestampMs": 42020,
+  "confidence": null
+ },
+ {
+  "text": " million?",
+  "startMs": 42260,
+  "endMs": 42560,
+  "timestampMs": 42410,
+  "confidence": null
+ },
+ {
+  "text": " Six",
+  "startMs": 43160,
+  "endMs": 43380,
+  "timestampMs": 43270,
+  "confidence": null
+ },
+ {
+  "text": " seconds.",
+  "startMs": 43380,
+  "endMs": 43780,
+  "timestampMs": 43580,
+  "confidence": null
+ },
+ {
+  "text": " Eight",
+  "startMs": 44380,
+  "endMs": 44560,
+  "timestampMs": 44470,
+  "confidence": null
+ },
+ {
+  "text": " lowercase",
+  "startMs": 44560,
+  "endMs": 45060,
+  "timestampMs": 44810,
+  "confidence": null
+ },
+ {
+  "text": " letters?",
+  "startMs": 45060,
+  "endMs": 45440,
+  "timestampMs": 45250,
+  "confidence": null
+ },
+ {
+  "text": " About",
+  "startMs": 45940,
+  "endMs": 46160,
+  "timestampMs": 46050,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 46160,
+  "endMs": 46300,
+  "timestampMs": 46230,
+  "confidence": null
+ },
+ {
+  "text": " day.",
+  "startMs": 46300,
+  "endMs": 46460,
+  "timestampMs": 46380,
+  "confidence": null
+ },
+ {
+  "text": " Five",
+  "startMs": 46880,
+  "endMs": 47160,
+  "timestampMs": 47020,
+  "confidence": null
+ },
+ {
+  "text": " random",
+  "startMs": 47160,
+  "endMs": 47500,
+  "timestampMs": 47330,
+  "confidence": null
+ },
+ {
+  "text": " words?",
+  "startMs": 47500,
+  "endMs": 47820,
+  "timestampMs": 47660,
+  "confidence": null
+ },
+ {
+  "text": " Over",
+  "startMs": 48360,
+  "endMs": 48640,
+  "timestampMs": 48500,
+  "confidence": null
+ },
+ {
+  "text": " 300,000",
+  "startMs": 48640,
+  "endMs": 49720,
+  "timestampMs": 49180,
+  "confidence": null
+ },
+ {
+  "text": " years.",
+  "startMs": 49720,
+  "endMs": 50000,
+  "timestampMs": 49860,
+  "confidence": null
+ },
+ {
+  "text": " There's",
+  "startMs": 50560,
+  "endMs": 50960,
+  "timestampMs": 50760,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 50960,
+  "endMs": 51080,
+  "timestampMs": 51020,
+  "confidence": null
+ },
+ {
+  "text": " second",
+  "startMs": 51080,
+  "endMs": 51320,
+  "timestampMs": 51200,
+  "confidence": null
+ },
+ {
+  "text": " door:",
+  "startMs": 51320,
+  "endMs": 51560,
+  "timestampMs": 51440,
+  "confidence": null
+ },
+ {
+  "text": " WPS.",
+  "startMs": 52040,
+  "endMs": 52560,
+  "timestampMs": 52300,
+  "confidence": null
+ },
+ {
+  "text": " Its",
+  "startMs": 53340,
+  "endMs": 53460,
+  "timestampMs": 53400,
+  "confidence": null
+ },
+ {
+  "text": " eight-digit",
+  "startMs": 53460,
+  "endMs": 53940,
+  "timestampMs": 53700,
+  "confidence": null
+ },
+ {
+  "text": " PIN",
+  "startMs": 53940,
+  "endMs": 54340,
+  "timestampMs": 54140,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 54340,
+  "endMs": 54660,
+  "timestampMs": 54500,
+  "confidence": null
+ },
+ {
+  "text": " often",
+  "startMs": 54660,
+  "endMs": 54960,
+  "timestampMs": 54810,
+  "confidence": null
+ },
+ {
+  "text": " printed",
+  "startMs": 54960,
+  "endMs": 55260,
+  "timestampMs": 55110,
+  "confidence": null
+ },
+ {
+  "text": " right",
+  "startMs": 55260,
+  "endMs": 55600,
+  "timestampMs": 55430,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 55600,
+  "endMs": 55780,
+  "timestampMs": 55690,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 55780,
+  "endMs": 55940,
+  "timestampMs": 55860,
+  "confidence": null
+ },
+ {
+  "text": " router's",
+  "startMs": 55940,
+  "endMs": 56320,
+  "timestampMs": 56130,
+  "confidence": null
+ },
+ {
+  "text": " sticker.",
+  "startMs": 56320,
+  "endMs": 56560,
+  "timestampMs": 56440,
+  "confidence": null
+ },
+ {
+  "text": " The",
+  "startMs": 57140,
+  "endMs": 57320,
+  "timestampMs": 57230,
+  "confidence": null
+ },
+ {
+  "text": " router",
+  "startMs": 57320,
+  "endMs": 57500,
+  "timestampMs": 57410,
+  "confidence": null
+ },
+ {
+  "text": " checks",
+  "startMs": 57500,
+  "endMs": 57860,
+  "timestampMs": 57680,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 57860,
+  "endMs": 58160,
+  "timestampMs": 58010,
+  "confidence": null
+ },
+ {
+  "text": " PIN",
+  "startMs": 58160,
+  "endMs": 58400,
+  "timestampMs": 58280,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 58400,
+  "endMs": 58640,
+  "timestampMs": 58520,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 58640,
+  "endMs": 58900,
+  "timestampMs": 58770,
+  "confidence": null
+ },
+ {
+  "text": " halves,",
+  "startMs": 58900,
+  "endMs": 59280,
+  "timestampMs": 59090,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 59640,
+  "endMs": 59740,
+  "timestampMs": 59690,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 59740,
+  "endMs": 59880,
+  "timestampMs": 59810,
+  "confidence": null
+ },
+ {
+  "text": " last",
+  "startMs": 59880,
+  "endMs": 60140,
+  "timestampMs": 60010,
+  "confidence": null
+ },
+ {
+  "text": " digit",
+  "startMs": 60140,
+  "endMs": 60480,
+  "timestampMs": 60310,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 60480,
+  "endMs": 60700,
+  "timestampMs": 60590,
+  "confidence": null
+ },
+ {
+  "text": " just",
+  "startMs": 60700,
+  "endMs": 60900,
+  "timestampMs": 60800,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 60900,
+  "endMs": 61020,
+  "timestampMs": 60960,
+  "confidence": null
+ },
+ {
+  "text": " checksum.",
+  "startMs": 61020,
+  "endMs": 61420,
+  "timestampMs": 61220,
+  "confidence": null
+ },
+ {
+  "text": " So",
+  "startMs": 61860,
+  "endMs": 62100,
+  "timestampMs": 61980,
+  "confidence": null
+ },
+ {
+  "text": " it's",
+  "startMs": 62100,
+  "endMs": 62260,
+  "timestampMs": 62180,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 62260,
+  "endMs": 62400,
+  "timestampMs": 62330,
+  "confidence": null
+ },
+ {
+  "text": " 100",
+  "startMs": 62400,
+  "endMs": 62840,
+  "timestampMs": 62620,
+  "confidence": null
+ },
+ {
+  "text": " million",
+  "startMs": 62840,
+  "endMs": 63120,
+  "timestampMs": 62980,
+  "confidence": null
+ },
+ {
+  "text": " guesses.",
+  "startMs": 63120,
+  "endMs": 63580,
+  "timestampMs": 63350,
+  "confidence": null
+ },
+ {
+  "text": " It's",
+  "startMs": 64020,
+  "endMs": 64300,
+  "timestampMs": 64160,
+  "confidence": null
+ },
+ {
+  "text": " 11,000.",
+  "startMs": 64300,
+  "endMs": 65100,
+  "timestampMs": 64700,
+  "confidence": null
+ },
+ {
+  "text": " With",
+  "startMs": 65580,
+  "endMs": 65760,
+  "timestampMs": 65670,
+  "confidence": null
+ },
+ {
+  "text": " no",
+  "startMs": 65760,
+  "endMs": 65940,
+  "timestampMs": 65850,
+  "confidence": null
+ },
+ {
+  "text": " lockout,",
+  "startMs": 65940,
+  "endMs": 66260,
+  "timestampMs": 66100,
+  "confidence": null
+ },
+ {
+  "text": " that's",
+  "startMs": 66740,
+  "endMs": 66960,
+  "timestampMs": 66850,
+  "confidence": null
+ },
+ {
+  "text": " under",
+  "startMs": 66960,
+  "endMs": 67140,
+  "timestampMs": 67050,
+  "confidence": null
+ },
+ {
+  "text": " four",
+  "startMs": 67140,
+  "endMs": 67400,
+  "timestampMs": 67270,
+  "confidence": null
+ },
+ {
+  "text": " hours.",
+  "startMs": 67400,
+  "endMs": 67760,
+  "timestampMs": 67580,
+  "confidence": null
+ },
+ {
+  "text": " Then",
+  "startMs": 68260,
+  "endMs": 68420,
+  "timestampMs": 68340,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 68420,
+  "endMs": 68540,
+  "timestampMs": 68480,
+  "confidence": null
+ },
+ {
+  "text": " router",
+  "startMs": 68540,
+  "endMs": 68740,
+  "timestampMs": 68640,
+  "confidence": null
+ },
+ {
+  "text": " hands",
+  "startMs": 68740,
+  "endMs": 68980,
+  "timestampMs": 68860,
+  "confidence": null
+ },
+ {
+  "text": " over",
+  "startMs": 68980,
+  "endMs": 69180,
+  "timestampMs": 69080,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 69180,
+  "endMs": 69380,
+  "timestampMs": 69280,
+  "confidence": null
+ },
+ {
+  "text": " Wi-Fi",
+  "startMs": 69380,
+  "endMs": 69700,
+  "timestampMs": 69540,
+  "confidence": null
+ },
+ {
+  "text": " password,",
+  "startMs": 69700,
+  "endMs": 70100,
+  "timestampMs": 69900,
+  "confidence": null
+ },
+ {
+  "text": " no",
+  "startMs": 70240,
+  "endMs": 70540,
+  "timestampMs": 70390,
+  "confidence": null
+ },
+ {
+  "text": " matter",
+  "startMs": 70540,
+  "endMs": 70780,
+  "timestampMs": 70660,
+  "confidence": null
+ },
+ {
+  "text": " how",
+  "startMs": 70780,
+  "endMs": 71080,
+  "timestampMs": 70930,
+  "confidence": null
+ },
+ {
+  "text": " long",
+  "startMs": 71080,
+  "endMs": 71300,
+  "timestampMs": 71190,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 71300,
+  "endMs": 71440,
+  "timestampMs": 71370,
+  "confidence": null
+ },
+ {
+  "text": " is.",
+  "startMs": 71440,
+  "endMs": 71680,
+  "timestampMs": 71560,
+  "confidence": null
+ },
+ {
+  "text": " So,",
+  "startMs": 72240,
+  "endMs": 72460,
+  "timestampMs": 72350,
+  "confidence": null
+ },
+ {
+  "text": " four",
+  "startMs": 72460,
+  "endMs": 73060,
+  "timestampMs": 72760,
+  "confidence": null
+ },
+ {
+  "text": " settings",
+  "startMs": 73060,
+  "endMs": 73460,
+  "timestampMs": 73260,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 73460,
+  "endMs": 73820,
+  "timestampMs": 73640,
+  "confidence": null
+ },
+ {
+  "text": " stop",
+  "startMs": 73820,
+  "endMs": 74260,
+  "timestampMs": 74040,
+  "confidence": null
+ },
+ {
+  "text": " all",
+  "startMs": 74260,
+  "endMs": 74700,
+  "timestampMs": 74480,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 74700,
+  "endMs": 74840,
+  "timestampMs": 74770,
+  "confidence": null
+ },
+ {
+  "text": " this.",
+  "startMs": 74840,
+  "endMs": 75100,
+  "timestampMs": 74970,
+  "confidence": null
+ },
+ {
+  "text": " One.",
+  "startMs": 75680,
+  "endMs": 75900,
+  "timestampMs": 75790,
+  "confidence": null
+ },
+ {
+  "text": " A",
+  "startMs": 76320,
+  "endMs": 76540,
+  "timestampMs": 76430,
+  "confidence": null
+ },
+ {
+  "text": " long",
+  "startMs": 76540,
+  "endMs": 76960,
+  "timestampMs": 76750,
+  "confidence": null
+ },
+ {
+  "text": " passphrase.",
+  "startMs": 76960,
+  "endMs": 77700,
+  "timestampMs": 77330,
+  "confidence": null
+ },
+ {
+  "text": " Five",
+  "startMs": 78200,
+  "endMs": 78320,
+  "timestampMs": 78260,
+  "confidence": null
+ },
+ {
+  "text": " random",
+  "startMs": 78320,
+  "endMs": 78640,
+  "timestampMs": 78480,
+  "confidence": null
+ },
+ {
+  "text": " words,",
+  "startMs": 78640,
+  "endMs": 78900,
+  "timestampMs": 78770,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 78900,
+  "endMs": 79140,
+  "timestampMs": 79020,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 79140,
+  "endMs": 79260,
+  "timestampMs": 79200,
+  "confidence": null
+ },
+ {
+  "text": " least",
+  "startMs": 79260,
+  "endMs": 79500,
+  "timestampMs": 79380,
+  "confidence": null
+ },
+ {
+  "text": " 20",
+  "startMs": 79500,
+  "endMs": 79820,
+  "timestampMs": 79660,
+  "confidence": null
+ },
+ {
+  "text": " characters.",
+  "startMs": 79820,
+  "endMs": 80260,
+  "timestampMs": 80040,
+  "confidence": null
+ },
+ {
+  "text": " Two.",
+  "startMs": 81020,
+  "endMs": 81040,
+  "timestampMs": 81030,
+  "confidence": null
+ },
+ {
+  "text": " WPA3.",
+  "startMs": 81840,
+  "endMs": 82400,
+  "timestampMs": 82120,
+  "confidence": null
+ },
+ {
+  "text": " Its",
+  "startMs": 82980,
+  "endMs": 83140,
+  "timestampMs": 83060,
+  "confidence": null
+ },
+ {
+  "text": " new",
+  "startMs": 83140,
+  "endMs": 83360,
+  "timestampMs": 83250,
+  "confidence": null
+ },
+ {
+  "text": " handshake",
+  "startMs": 83360,
+  "endMs": 83780,
+  "timestampMs": 83570,
+  "confidence": null
+ },
+ {
+  "text": " makes",
+  "startMs": 83780,
+  "endMs": 84060,
+  "timestampMs": 83920,
+  "confidence": null
+ },
+ {
+  "text": " recordings",
+  "startMs": 84060,
+  "endMs": 84700,
+  "timestampMs": 84380,
+  "confidence": null
+ },
+ {
+  "text": " useless:",
+  "startMs": 84700,
+  "endMs": 85300,
+  "timestampMs": 85000,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 85840,
+  "endMs": 86080,
+  "timestampMs": 85960,
+  "confidence": null
+ },
+ {
+  "text": " single",
+  "startMs": 86080,
+  "endMs": 86340,
+  "timestampMs": 86210,
+  "confidence": null
+ },
+ {
+  "text": " guess",
+  "startMs": 86340,
+  "endMs": 86580,
+  "timestampMs": 86460,
+  "confidence": null
+ },
+ {
+  "text": " has",
+  "startMs": 86580,
+  "endMs": 86780,
+  "timestampMs": 86680,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 86780,
+  "endMs": 86940,
+  "timestampMs": 86860,
+  "confidence": null
+ },
+ {
+  "text": " ask",
+  "startMs": 86940,
+  "endMs": 87180,
+  "timestampMs": 87060,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 87180,
+  "endMs": 87360,
+  "timestampMs": 87270,
+  "confidence": null
+ },
+ {
+  "text": " router,",
+  "startMs": 87360,
+  "endMs": 87640,
+  "timestampMs": 87500,
+  "confidence": null
+ },
+ {
+  "text": " live.",
+  "startMs": 88020,
+  "endMs": 88320,
+  "timestampMs": 88170,
+  "confidence": null
+ },
+ {
+  "text": " And",
+  "startMs": 88760,
+  "endMs": 89140,
+  "timestampMs": 88950,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 89140,
+  "endMs": 89340,
+  "timestampMs": 89240,
+  "confidence": null
+ },
+ {
+  "text": " blocks",
+  "startMs": 89340,
+  "endMs": 89520,
+  "timestampMs": 89430,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 89520,
+  "endMs": 89700,
+  "timestampMs": 89610,
+  "confidence": null
+ },
+ {
+  "text": " kick-off",
+  "startMs": 89700,
+  "endMs": 89920,
+  "timestampMs": 89810,
+  "confidence": null
+ },
+ {
+  "text": " trick.",
+  "startMs": 89920,
+  "endMs": 90220,
+  "timestampMs": 90070,
+  "confidence": null
+ },
+ {
+  "text": " Older",
+  "startMs": 90880,
+  "endMs": 91020,
+  "timestampMs": 90950,
+  "confidence": null
+ },
+ {
+  "text": " devices",
+  "startMs": 91020,
+  "endMs": 91440,
+  "timestampMs": 91230,
+  "confidence": null
+ },
+ {
+  "text": " need",
+  "startMs": 91440,
+  "endMs": 91720,
+  "timestampMs": 91580,
+  "confidence": null
+ },
+ {
+  "text": " WPA2?",
+  "startMs": 91720,
+  "endMs": 92600,
+  "timestampMs": 92160,
+  "confidence": null
+ },
+ {
+  "text": " Use",
+  "startMs": 93140,
+  "endMs": 93360,
+  "timestampMs": 93250,
+  "confidence": null
+ },
+ {
+  "text": " mixed",
+  "startMs": 93360,
+  "endMs": 93820,
+  "timestampMs": 93590,
+  "confidence": null
+ },
+ {
+  "text": " mode,",
+  "startMs": 93820,
+  "endMs": 94080,
+  "timestampMs": 93950,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 94280,
+  "endMs": 94480,
+  "timestampMs": 94380,
+  "confidence": null
+ },
+ {
+  "text": " WPA2",
+  "startMs": 94480,
+  "endMs": 95500,
+  "timestampMs": 94990,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 95500,
+  "endMs": 95640,
+  "timestampMs": 95570,
+  "confidence": null
+ },
+ {
+  "text": " AES.",
+  "startMs": 95640,
+  "endMs": 96040,
+  "timestampMs": 95840,
+  "confidence": null
+ },
+ {
+  "text": " Never",
+  "startMs": 96900,
+  "endMs": 97100,
+  "timestampMs": 97000,
+  "confidence": null
+ },
+ {
+  "text": " TKIP,",
+  "startMs": 97100,
+  "endMs": 97880,
+  "timestampMs": 97490,
+  "confidence": null
+ },
+ {
+  "text": " never",
+  "startMs": 98440,
+  "endMs": 98500,
+  "timestampMs": 98470,
+  "confidence": null
+ },
+ {
+  "text": " WEP.",
+  "startMs": 98500,
+  "endMs": 98860,
+  "timestampMs": 98680,
+  "confidence": null
+ },
+ {
+  "text": " Three.",
+  "startMs": 99300,
+  "endMs": 99620,
+  "timestampMs": 99460,
+  "confidence": null
+ },
+ {
+  "text": " Turn",
+  "startMs": 100180,
+  "endMs": 100380,
+  "timestampMs": 100280,
+  "confidence": null
+ },
+ {
+  "text": " WPS",
+  "startMs": 100380,
+  "endMs": 101000,
+  "timestampMs": 100690,
+  "confidence": null
+ },
+ {
+  "text": " off.",
+  "startMs": 101000,
+  "endMs": 101340,
+  "timestampMs": 101170,
+  "confidence": null
+ },
+ {
+  "text": " Four.",
+  "startMs": 101900,
+  "endMs": 102200,
+  "timestampMs": 102050,
+  "confidence": null
+ },
+ {
+  "text": " Update",
+  "startMs": 102680,
+  "endMs": 103020,
+  "timestampMs": 102850,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 103020,
+  "endMs": 103240,
+  "timestampMs": 103130,
+  "confidence": null
+ },
+ {
+  "text": " router's",
+  "startMs": 103240,
+  "endMs": 103620,
+  "timestampMs": 103430,
+  "confidence": null
+ },
+ {
+  "text": " firmware.",
+  "startMs": 103620,
+  "endMs": 103940,
+  "timestampMs": 103780,
+  "confidence": null
+ },
+ {
+  "text": " In",
+  "startMs": 104620,
+  "endMs": 104820,
+  "timestampMs": 104720,
+  "confidence": null
+ },
+ {
+  "text": " 2017,",
+  "startMs": 104820,
+  "endMs": 105320,
+  "timestampMs": 105070,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 105320,
+  "endMs": 105780,
+  "timestampMs": 105550,
+  "confidence": null
+ },
+ {
+  "text": " attack",
+  "startMs": 105780,
+  "endMs": 106080,
+  "timestampMs": 105930,
+  "confidence": null
+ },
+ {
+  "text": " called",
+  "startMs": 106080,
+  "endMs": 106380,
+  "timestampMs": 106230,
+  "confidence": null
+ },
+ {
+  "text": " KRACK",
+  "startMs": 106380,
+  "endMs": 106820,
+  "timestampMs": 106600,
+  "confidence": null
+ },
+ {
+  "text": " found",
+  "startMs": 106820,
+  "endMs": 107040,
+  "timestampMs": 106930,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 107040,
+  "endMs": 107200,
+  "timestampMs": 107120,
+  "confidence": null
+ },
+ {
+  "text": " hole",
+  "startMs": 107200,
+  "endMs": 107360,
+  "timestampMs": 107280,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 107360,
+  "endMs": 107580,
+  "timestampMs": 107470,
+  "confidence": null
+ },
+ {
+  "text": " WPA2",
+  "startMs": 107580,
+  "endMs": 108300,
+  "timestampMs": 107940,
+  "confidence": null
+ },
+ {
+  "text": " itself,",
+  "startMs": 108300,
+  "endMs": 108660,
+  "timestampMs": 108480,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 109140,
+  "endMs": 109320,
+  "timestampMs": 109230,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 109320,
+  "endMs": 109420,
+  "timestampMs": 109370,
+  "confidence": null
+ },
+ {
+  "text": " fix",
+  "startMs": 109420,
+  "endMs": 109580,
+  "timestampMs": 109500,
+  "confidence": null
+ },
+ {
+  "text": " was",
+  "startMs": 109580,
+  "endMs": 109880,
+  "timestampMs": 109730,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 109880,
+  "endMs": 110120,
+  "timestampMs": 110000,
+  "confidence": null
+ },
+ {
+  "text": " update.",
+  "startMs": 110120,
+  "endMs": 110460,
+  "timestampMs": 110290,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 111200,
+  "endMs": 111380,
+  "timestampMs": 111290,
+  "confidence": null
+ },
+ {
+  "text": " checks",
+  "startMs": 111380,
+  "endMs": 111520,
+  "timestampMs": 111450,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 111520,
+  "endMs": 111700,
+  "timestampMs": 111610,
+  "confidence": null
+ },
+ {
+  "text": " network",
+  "startMs": 111700,
+  "endMs": 111920,
+  "timestampMs": 111810,
+  "confidence": null
+ },
+ {
+  "text": " again.",
+  "startMs": 111920,
+  "endMs": 112220,
+  "timestampMs": 112070,
+  "confidence": null
+ },
+ {
+  "text": " WPA3,",
+  "startMs": 113320,
+  "endMs": 114097,
+  "timestampMs": 113708,
+  "confidence": null
+ },
+ {
+  "text": " WPS",
+  "startMs": 114097,
+  "endMs": 114680,
+  "timestampMs": 114388,
+  "confidence": null
+ },
+ {
+  "text": " off.",
+  "startMs": 114680,
+  "endMs": 115020,
+  "timestampMs": 114850,
+  "confidence": null
+ },
+ {
+  "text": " He",
+  "startMs": 115620,
+  "endMs": 115720,
+  "timestampMs": 115670,
+  "confidence": null
+ },
+ {
+  "text": " goes",
+  "startMs": 115720,
+  "endMs": 115840,
+  "timestampMs": 115780,
+  "confidence": null
+ },
+ {
+  "text": " back",
+  "startMs": 115840,
+  "endMs": 116040,
+  "timestampMs": 115940,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 116040,
+  "endMs": 116160,
+  "timestampMs": 116100,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 116160,
+  "endMs": 116240,
+  "timestampMs": 116200,
+  "confidence": null
+ },
+ {
+  "text": " trash.",
+  "startMs": 116240,
+  "endMs": 116500,
+  "timestampMs": 116370,
+  "confidence": null
+ },
+ {
+  "text": " And",
+  "startMs": 117220,
+  "endMs": 117300,
+  "timestampMs": 117260,
+  "confidence": null
+ },
+ {
+  "text": " cracking",
+  "startMs": 117300,
+  "endMs": 117580,
+  "timestampMs": 117440,
+  "confidence": null
+ },
+ {
+  "text": " Wi-Fi",
+  "startMs": 117580,
+  "endMs": 118000,
+  "timestampMs": 117790,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 118000,
+  "endMs": 118180,
+  "timestampMs": 118090,
+  "confidence": null
+ },
+ {
+  "text": " isn't",
+  "startMs": 118180,
+  "endMs": 118520,
+  "timestampMs": 118350,
+  "confidence": null
+ },
+ {
+  "text": " yours",
+  "startMs": 118520,
+  "endMs": 118720,
+  "timestampMs": 118620,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 118720,
+  "endMs": 119040,
+  "timestampMs": 118880,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 119040,
+  "endMs": 119180,
+  "timestampMs": 119110,
+  "confidence": null
+ },
+ {
+  "text": " crime.",
+  "startMs": 119180,
+  "endMs": 119440,
+  "timestampMs": 119310,
+  "confidence": null
+ },
+ {
+  "text": " Even",
+  "startMs": 119700,
+  "endMs": 119960,
+  "timestampMs": 119830,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 119960,
+  "endMs": 120160,
+  "timestampMs": 120060,
+  "confidence": null
+ },
+ {
+  "text": " raccoons.",
+  "startMs": 120160,
+  "endMs": 120540,
+  "timestampMs": 120350,
+  "confidence": null
+ },
+ {
+  "text": " Save",
+  "startMs": 121120,
+  "endMs": 121360,
+  "timestampMs": 121240,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 121360,
+  "endMs": 121520,
+  "timestampMs": 121440,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 121520,
+  "endMs": 121680,
+  "timestampMs": 121600,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 121680,
+  "endMs": 121780,
+  "timestampMs": 121730,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 121780,
+  "endMs": 121920,
+  "timestampMs": 121850,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 121920,
+  "endMs": 122100,
+  "timestampMs": 122010,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 122100,
+  "endMs": 122240,
+  "timestampMs": 122170,
+  "confidence": null
+ },
+ {
+  "text": " open",
+  "startMs": 122240,
+  "endMs": 122440,
+  "timestampMs": 122340,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 122440,
+  "endMs": 122580,
+  "timestampMs": 122510,
+  "confidence": null
+ },
+ {
+  "text": " router",
+  "startMs": 122580,
+  "endMs": 122760,
+  "timestampMs": 122670,
+  "confidence": null
+ },
+ {
+  "text": " settings.",
+  "startMs": 122760,
+  "endMs": 123220,
+  "timestampMs": 122990,
+  "confidence": null
+ },
+ {
+  "text": " Follow",
+  "startMs": 123680,
+  "endMs": 123800,
+  "timestampMs": 123740,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 123800,
+  "endMs": 124020,
+  "timestampMs": 123910,
+  "confidence": null
+ },
+ {
+  "text": " more",
+  "startMs": 124020,
+  "endMs": 124160,
+  "timestampMs": 124090,
+  "confidence": null
+ },
+ {
+  "text": " security",
+  "startMs": 124160,
+  "endMs": 124500,
+  "timestampMs": 124330,
+  "confidence": null
+ },
+ {
+  "text": " tricks,",
+  "startMs": 124500,
+  "endMs": 124880,
+  "timestampMs": 124690,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 124880,
+  "endMs": 125160,
+  "timestampMs": 125020,
+  "confidence": null
+ },
+ {
+  "text": " comment:",
+  "startMs": 125160,
+  "endMs": 125560,
+  "timestampMs": 125360,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 126040,
+  "endMs": 126180,
+  "timestampMs": 126110,
+  "confidence": null
+ },
+ {
+  "text": " WPS",
+  "startMs": 126180,
+  "endMs": 126780,
+  "timestampMs": 126480,
+  "confidence": null
+ },
+ {
+  "text": " still",
+  "startMs": 126780,
+  "endMs": 127060,
+  "timestampMs": 126920,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 127060,
+  "endMs": 127260,
+  "timestampMs": 127160,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 127260,
+  "endMs": 127380,
+  "timestampMs": 127320,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 127380,
+  "endMs": 127500,
+  "timestampMs": 127440,
+  "confidence": null
+ },
+ {
+  "text": " place?",
+  "startMs": 127500,
+  "endMs": 127720,
+  "timestampMs": 127610,
+  "confidence": null
+ }
+]

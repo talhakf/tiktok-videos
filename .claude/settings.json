@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/bin/python scripts/publish.py:*)",
+      "Bash(.venv/bin/python scripts/postiz.py:*)"
+    ]
+  }
+}

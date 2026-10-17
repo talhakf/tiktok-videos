@@ -1,0 +1,1780 @@
+[
+ {
+  "text": " Here",
+  "startMs": 0,
+  "endMs": 440,
+  "timestampMs": 220,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 440,
+  "endMs": 660,
+  "timestampMs": 550,
+  "confidence": null
+ },
+ {
+  "text": " how",
+  "startMs": 660,
+  "endMs": 880,
+  "timestampMs": 770,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 880,
+  "endMs": 1040,
+  "timestampMs": 960,
+  "confidence": null
+ },
+ {
+  "text": " fix",
+  "startMs": 1040,
+  "endMs": 1280,
+  "timestampMs": 1160,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 1280,
+  "endMs": 1620,
+  "timestampMs": 1450,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 1620,
+  "endMs": 1760,
+  "timestampMs": 1690,
+  "confidence": null
+ },
+ {
+  "text": " merge",
+  "startMs": 1760,
+  "endMs": 2120,
+  "timestampMs": 1940,
+  "confidence": null
+ },
+ {
+  "text": " conflict",
+  "startMs": 2120,
+  "endMs": 2680,
+  "timestampMs": 2400,
+  "confidence": null
+ },
+ {
+  "text": " without",
+  "startMs": 2680,
+  "endMs": 3240,
+  "timestampMs": 2960,
+  "confidence": null
+ },
+ {
+  "text": " panicking,",
+  "startMs": 3240,
+  "endMs": 3720,
+  "timestampMs": 3480,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 4020,
+  "endMs": 4260,
+  "timestampMs": 4140,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 4260,
+  "endMs": 4420,
+  "timestampMs": 4340,
+  "confidence": null
+ },
+ {
+  "text": " those",
+  "startMs": 4420,
+  "endMs": 4680,
+  "timestampMs": 4550,
+  "confidence": null
+ },
+ {
+  "text": " weird",
+  "startMs": 4680,
+  "endMs": 4880,
+  "timestampMs": 4780,
+  "confidence": null
+ },
+ {
+  "text": " arrows",
+  "startMs": 4880,
+  "endMs": 5240,
+  "timestampMs": 5060,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 5240,
+  "endMs": 5420,
+  "timestampMs": 5330,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 5420,
+  "endMs": 5560,
+  "timestampMs": 5490,
+  "confidence": null
+ },
+ {
+  "text": " file",
+  "startMs": 5560,
+  "endMs": 5820,
+  "timestampMs": 5690,
+  "confidence": null
+ },
+ {
+  "text": " actually",
+  "startMs": 5820,
+  "endMs": 6320,
+  "timestampMs": 6070,
+  "confidence": null
+ },
+ {
+  "text": " mean.",
+  "startMs": 6320,
+  "endMs": 6740,
+  "timestampMs": 6530,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 7520,
+  "endMs": 7660,
+  "timestampMs": 7590,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 7660,
+  "endMs": 7920,
+  "timestampMs": 7790,
+  "confidence": null
+ },
+ {
+  "text": " his",
+  "startMs": 7920,
+  "endMs": 8060,
+  "timestampMs": 7990,
+  "confidence": null
+ },
+ {
+  "text": " friend",
+  "startMs": 8060,
+  "endMs": 8340,
+  "timestampMs": 8200,
+  "confidence": null
+ },
+ {
+  "text": " Bandit",
+  "startMs": 8340,
+  "endMs": 8800,
+  "timestampMs": 8570,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 8800,
+  "endMs": 9020,
+  "timestampMs": 8910,
+  "confidence": null
+ },
+ {
+  "text": " sharing",
+  "startMs": 9020,
+  "endMs": 9340,
+  "timestampMs": 9180,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 9340,
+  "endMs": 9500,
+  "timestampMs": 9420,
+  "confidence": null
+ },
+ {
+  "text": " snack",
+  "startMs": 9500,
+  "endMs": 9740,
+  "timestampMs": 9620,
+  "confidence": null
+ },
+ {
+  "text": " list",
+  "startMs": 9740,
+  "endMs": 10020,
+  "timestampMs": 9880,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 10020,
+  "endMs": 10380,
+  "timestampMs": 10200,
+  "confidence": null
+ },
+ {
+  "text": " snacks.txt.",
+  "startMs": 10380,
+  "endMs": 11280,
+  "timestampMs": 10830,
+  "confidence": null
+ },
+ {
+  "text": " On",
+  "startMs": 12020,
+  "endMs": 12140,
+  "timestampMs": 12080,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 12140,
+  "endMs": 12280,
+  "timestampMs": 12210,
+  "confidence": null
+ },
+ {
+  "text": " main",
+  "startMs": 12280,
+  "endMs": 12600,
+  "timestampMs": 12440,
+  "confidence": null
+ },
+ {
+  "text": " branch,",
+  "startMs": 12600,
+  "endMs": 13000,
+  "timestampMs": 12800,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 13520,
+  "endMs": 13640,
+  "timestampMs": 13580,
+  "confidence": null
+ },
+ {
+  "text": " changes",
+  "startMs": 13640,
+  "endMs": 14020,
+  "timestampMs": 13830,
+  "confidence": null
+ },
+ {
+  "text": " line",
+  "startMs": 14020,
+  "endMs": 14300,
+  "timestampMs": 14160,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 14300,
+  "endMs": 14620,
+  "timestampMs": 14460,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 14620,
+  "endMs": 14900,
+  "timestampMs": 14760,
+  "confidence": null
+ },
+ {
+  "text": " tuna.",
+  "startMs": 14900,
+  "endMs": 15240,
+  "timestampMs": 15070,
+  "confidence": null
+ },
+ {
+  "text": " On",
+  "startMs": 15820,
+  "endMs": 16020,
+  "timestampMs": 15920,
+  "confidence": null
+ },
+ {
+  "text": " another",
+  "startMs": 16020,
+  "endMs": 16320,
+  "timestampMs": 16170,
+  "confidence": null
+ },
+ {
+  "text": " branch,",
+  "startMs": 16320,
+  "endMs": 16700,
+  "timestampMs": 16510,
+  "confidence": null
+ },
+ {
+  "text": " Bandit",
+  "startMs": 17180,
+  "endMs": 17360,
+  "timestampMs": 17270,
+  "confidence": null
+ },
+ {
+  "text": " changes",
+  "startMs": 17360,
+  "endMs": 17620,
+  "timestampMs": 17490,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 17620,
+  "endMs": 17840,
+  "timestampMs": 17730,
+  "confidence": null
+ },
+ {
+  "text": " exact",
+  "startMs": 17840,
+  "endMs": 18220,
+  "timestampMs": 18030,
+  "confidence": null
+ },
+ {
+  "text": " same",
+  "startMs": 18220,
+  "endMs": 18540,
+  "timestampMs": 18380,
+  "confidence": null
+ },
+ {
+  "text": " line",
+  "startMs": 18540,
+  "endMs": 18840,
+  "timestampMs": 18690,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 18840,
+  "endMs": 19200,
+  "timestampMs": 19020,
+  "confidence": null
+ },
+ {
+  "text": " pizza.",
+  "startMs": 19200,
+  "endMs": 19440,
+  "timestampMs": 19320,
+  "confidence": null
+ },
+ {
+  "text": " When",
+  "startMs": 20280,
+  "endMs": 20480,
+  "timestampMs": 20380,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 20480,
+  "endMs": 20800,
+  "timestampMs": 20640,
+  "confidence": null
+ },
+ {
+  "text": " runs",
+  "startMs": 20800,
+  "endMs": 21140,
+  "timestampMs": 20970,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 21140,
+  "endMs": 21440,
+  "timestampMs": 21290,
+  "confidence": null
+ },
+ {
+  "text": " merge",
+  "startMs": 21440,
+  "endMs": 21860,
+  "timestampMs": 21650,
+  "confidence": null
+ },
+ {
+  "text": " bandit,",
+  "startMs": 21860,
+  "endMs": 22520,
+  "timestampMs": 22190,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 22840,
+  "endMs": 22940,
+  "timestampMs": 22890,
+  "confidence": null
+ },
+ {
+  "text": " refuses",
+  "startMs": 22940,
+  "endMs": 23520,
+  "timestampMs": 23230,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 23520,
+  "endMs": 23820,
+  "timestampMs": 23670,
+  "confidence": null
+ },
+ {
+  "text": " guess",
+  "startMs": 23820,
+  "endMs": 23980,
+  "timestampMs": 23900,
+  "confidence": null
+ },
+ {
+  "text": " whose",
+  "startMs": 23980,
+  "endMs": 24220,
+  "timestampMs": 24100,
+  "confidence": null
+ },
+ {
+  "text": " snack",
+  "startMs": 24220,
+  "endMs": 24540,
+  "timestampMs": 24380,
+  "confidence": null
+ },
+ {
+  "text": " wins.",
+  "startMs": 24540,
+  "endMs": 24820,
+  "timestampMs": 24680,
+  "confidence": null
+ },
+ {
+  "text": " Instead,",
+  "startMs": 25440,
+  "endMs": 25780,
+  "timestampMs": 25610,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 26140,
+  "endMs": 26340,
+  "timestampMs": 26240,
+  "confidence": null
+ },
+ {
+  "text": " stops",
+  "startMs": 26340,
+  "endMs": 26720,
+  "timestampMs": 26530,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 26720,
+  "endMs": 27080,
+  "timestampMs": 26900,
+  "confidence": null
+ },
+ {
+  "text": " writes",
+  "startMs": 27080,
+  "endMs": 27320,
+  "timestampMs": 27200,
+  "confidence": null
+ },
+ {
+  "text": " both",
+  "startMs": 27320,
+  "endMs": 27580,
+  "timestampMs": 27450,
+  "confidence": null
+ },
+ {
+  "text": " versions",
+  "startMs": 27580,
+  "endMs": 27980,
+  "timestampMs": 27780,
+  "confidence": null
+ },
+ {
+  "text": " into",
+  "startMs": 27980,
+  "endMs": 28280,
+  "timestampMs": 28130,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 28280,
+  "endMs": 28440,
+  "timestampMs": 28360,
+  "confidence": null
+ },
+ {
+  "text": " file.",
+  "startMs": 28440,
+  "endMs": 28700,
+  "timestampMs": 28570,
+  "confidence": null
+ },
+ {
+  "text": " Here",
+  "startMs": 28700,
+  "endMs": 29580,
+  "timestampMs": 29140,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 29580,
+  "endMs": 29760,
+  "timestampMs": 29670,
+  "confidence": null
+ },
+ {
+  "text": " how",
+  "startMs": 29760,
+  "endMs": 29900,
+  "timestampMs": 29830,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 29900,
+  "endMs": 30000,
+  "timestampMs": 29950,
+  "confidence": null
+ },
+ {
+  "text": " read",
+  "startMs": 30000,
+  "endMs": 30140,
+  "timestampMs": 30070,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 30140,
+  "endMs": 30300,
+  "timestampMs": 30220,
+  "confidence": null
+ },
+ {
+  "text": " markers.",
+  "startMs": 30300,
+  "endMs": 30620,
+  "timestampMs": 30460,
+  "confidence": null
+ },
+ {
+  "text": " Everything",
+  "startMs": 31580,
+  "endMs": 31840,
+  "timestampMs": 31710,
+  "confidence": null
+ },
+ {
+  "text": " between",
+  "startMs": 31840,
+  "endMs": 32200,
+  "timestampMs": 32020,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 32200,
+  "endMs": 32400,
+  "timestampMs": 32300,
+  "confidence": null
+ },
+ {
+  "text": " seven",
+  "startMs": 32400,
+  "endMs": 32740,
+  "timestampMs": 32570,
+  "confidence": null
+ },
+ {
+  "text": " left",
+  "startMs": 32740,
+  "endMs": 32980,
+  "timestampMs": 32860,
+  "confidence": null
+ },
+ {
+  "text": " arrows,",
+  "startMs": 32980,
+  "endMs": 33420,
+  "timestampMs": 33200,
+  "confidence": null
+ },
+ {
+  "text": " HEAD,",
+  "startMs": 33940,
+  "endMs": 34060,
+  "timestampMs": 34000,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 34660,
+  "endMs": 34720,
+  "timestampMs": 34690,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 34720,
+  "endMs": 34840,
+  "timestampMs": 34780,
+  "confidence": null
+ },
+ {
+  "text": " seven",
+  "startMs": 34840,
+  "endMs": 35100,
+  "timestampMs": 34970,
+  "confidence": null
+ },
+ {
+  "text": " equals",
+  "startMs": 35100,
+  "endMs": 35400,
+  "timestampMs": 35250,
+  "confidence": null
+ },
+ {
+  "text": " signs",
+  "startMs": 35400,
+  "endMs": 35780,
+  "timestampMs": 35590,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 36100,
+  "endMs": 36440,
+  "timestampMs": 36270,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 36440,
+  "endMs": 36640,
+  "timestampMs": 36540,
+  "confidence": null
+ },
+ {
+  "text": " change",
+  "startMs": 36640,
+  "endMs": 37000,
+  "timestampMs": 36820,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 37000,
+  "endMs": 37220,
+  "timestampMs": 37110,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 37220,
+  "endMs": 37400,
+  "timestampMs": 37310,
+  "confidence": null
+ },
+ {
+  "text": " current",
+  "startMs": 37400,
+  "endMs": 37700,
+  "timestampMs": 37550,
+  "confidence": null
+ },
+ {
+  "text": " branch.",
+  "startMs": 37700,
+  "endMs": 38060,
+  "timestampMs": 37880,
+  "confidence": null
+ },
+ {
+  "text": " Everything",
+  "startMs": 38700,
+  "endMs": 39000,
+  "timestampMs": 38850,
+  "confidence": null
+ },
+ {
+  "text": " between",
+  "startMs": 39000,
+  "endMs": 39300,
+  "timestampMs": 39150,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 39300,
+  "endMs": 39480,
+  "timestampMs": 39390,
+  "confidence": null
+ },
+ {
+  "text": " equals",
+  "startMs": 39480,
+  "endMs": 39840,
+  "timestampMs": 39660,
+  "confidence": null
+ },
+ {
+  "text": " signs",
+  "startMs": 39840,
+  "endMs": 40180,
+  "timestampMs": 40010,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 40180,
+  "endMs": 40380,
+  "timestampMs": 40280,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 40380,
+  "endMs": 40500,
+  "timestampMs": 40440,
+  "confidence": null
+ },
+ {
+  "text": " seven",
+  "startMs": 40500,
+  "endMs": 40740,
+  "timestampMs": 40620,
+  "confidence": null
+ },
+ {
+  "text": " right",
+  "startMs": 40740,
+  "endMs": 41040,
+  "timestampMs": 40890,
+  "confidence": null
+ },
+ {
+  "text": " arrows",
+  "startMs": 41040,
+  "endMs": 41460,
+  "timestampMs": 41250,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 41460,
+  "endMs": 41980,
+  "timestampMs": 41720,
+  "confidence": null
+ },
+ {
+  "text": " their",
+  "startMs": 41980,
+  "endMs": 42200,
+  "timestampMs": 42090,
+  "confidence": null
+ },
+ {
+  "text": " incoming",
+  "startMs": 42200,
+  "endMs": 42660,
+  "timestampMs": 42430,
+  "confidence": null
+ },
+ {
+  "text": " change",
+  "startMs": 42660,
+  "endMs": 43080,
+  "timestampMs": 42870,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 43080,
+  "endMs": 43320,
+  "timestampMs": 43200,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 43320,
+  "endMs": 43440,
+  "timestampMs": 43380,
+  "confidence": null
+ },
+ {
+  "text": " branch",
+  "startMs": 43440,
+  "endMs": 43680,
+  "timestampMs": 43560,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 43680,
+  "endMs": 43860,
+  "timestampMs": 43770,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 43860,
+  "endMs": 43920,
+  "timestampMs": 43890,
+  "confidence": null
+ },
+ {
+  "text": " merging",
+  "startMs": 43920,
+  "endMs": 44200,
+  "timestampMs": 44060,
+  "confidence": null
+ },
+ {
+  "text": " in.",
+  "startMs": 44200,
+  "endMs": 44520,
+  "timestampMs": 44360,
+  "confidence": null
+ },
+ {
+  "text": " Fixing",
+  "startMs": 45640,
+  "endMs": 46020,
+  "timestampMs": 45830,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 46020,
+  "endMs": 46140,
+  "timestampMs": 46080,
+  "confidence": null
+ },
+ {
+  "text": " takes",
+  "startMs": 46140,
+  "endMs": 46400,
+  "timestampMs": 46270,
+  "confidence": null
+ },
+ {
+  "text": " three",
+  "startMs": 46400,
+  "endMs": 46780,
+  "timestampMs": 46590,
+  "confidence": null
+ },
+ {
+  "text": " steps.",
+  "startMs": 46780,
+  "endMs": 47120,
+  "timestampMs": 46950,
+  "confidence": null
+ },
+ {
+  "text": " One.",
+  "startMs": 47840,
+  "endMs": 48040,
+  "timestampMs": 47940,
+  "confidence": null
+ },
+ {
+  "text": " Open",
+  "startMs": 48500,
+  "endMs": 48680,
+  "timestampMs": 48590,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 48680,
+  "endMs": 48840,
+  "timestampMs": 48760,
+  "confidence": null
+ },
+ {
+  "text": " file,",
+  "startMs": 48840,
+  "endMs": 49160,
+  "timestampMs": 49000,
+  "confidence": null
+ },
+ {
+  "text": " keep",
+  "startMs": 49600,
+  "endMs": 49740,
+  "timestampMs": 49670,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 49740,
+  "endMs": 49900,
+  "timestampMs": 49820,
+  "confidence": null
+ },
+ {
+  "text": " line",
+  "startMs": 49900,
+  "endMs": 50080,
+  "timestampMs": 49990,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 50080,
+  "endMs": 50260,
+  "timestampMs": 50170,
+  "confidence": null
+ },
+ {
+  "text": " want,",
+  "startMs": 50260,
+  "endMs": 50500,
+  "timestampMs": 50380,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 50500,
+  "endMs": 50780,
+  "timestampMs": 50640,
+  "confidence": null
+ },
+ {
+  "text": " combine",
+  "startMs": 50780,
+  "endMs": 51200,
+  "timestampMs": 50990,
+  "confidence": null
+ },
+ {
+  "text": " both",
+  "startMs": 51200,
+  "endMs": 51500,
+  "timestampMs": 51350,
+  "confidence": null
+ },
+ {
+  "text": " snacks,",
+  "startMs": 51500,
+  "endMs": 51820,
+  "timestampMs": 51660,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 52300,
+  "endMs": 52480,
+  "timestampMs": 52390,
+  "confidence": null
+ },
+ {
+  "text": " delete",
+  "startMs": 52480,
+  "endMs": 52740,
+  "timestampMs": 52610,
+  "confidence": null
+ },
+ {
+  "text": " all",
+  "startMs": 52740,
+  "endMs": 53040,
+  "timestampMs": 52890,
+  "confidence": null
+ },
+ {
+  "text": " three",
+  "startMs": 53040,
+  "endMs": 53340,
+  "timestampMs": 53190,
+  "confidence": null
+ },
+ {
+  "text": " marker",
+  "startMs": 53340,
+  "endMs": 53640,
+  "timestampMs": 53490,
+  "confidence": null
+ },
+ {
+  "text": " lines.",
+  "startMs": 53640,
+  "endMs": 54000,
+  "timestampMs": 53820,
+  "confidence": null
+ },
+ {
+  "text": " No",
+  "startMs": 54500,
+  "endMs": 54760,
+  "timestampMs": 54630,
+  "confidence": null
+ },
+ {
+  "text": " arrows,",
+  "startMs": 54760,
+  "endMs": 55120,
+  "timestampMs": 54940,
+  "confidence": null
+ },
+ {
+  "text": " no",
+  "startMs": 55380,
+  "endMs": 55540,
+  "timestampMs": 55460,
+  "confidence": null
+ },
+ {
+  "text": " equals",
+  "startMs": 55540,
+  "endMs": 55800,
+  "timestampMs": 55670,
+  "confidence": null
+ },
+ {
+  "text": " signs",
+  "startMs": 55800,
+  "endMs": 56080,
+  "timestampMs": 55940,
+  "confidence": null
+ },
+ {
+  "text": " left",
+  "startMs": 56080,
+  "endMs": 56280,
+  "timestampMs": 56180,
+  "confidence": null
+ },
+ {
+  "text": " behind.",
+  "startMs": 56280,
+  "endMs": 56620,
+  "timestampMs": 56450,
+  "confidence": null
+ },
+ {
+  "text": " Two.",
+  "startMs": 57300,
+  "endMs": 57620,
+  "timestampMs": 57460,
+  "confidence": null
+ },
+ {
+  "text": " Run",
+  "startMs": 58200,
+  "endMs": 58340,
+  "timestampMs": 58270,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 58340,
+  "endMs": 58720,
+  "timestampMs": 58530,
+  "confidence": null
+ },
+ {
+  "text": " add",
+  "startMs": 58720,
+  "endMs": 59160,
+  "timestampMs": 58940,
+  "confidence": null
+ },
+ {
+  "text": " snacks.txt.",
+  "startMs": 59160,
+  "endMs": 60280,
+  "timestampMs": 59720,
+  "confidence": null
+ },
+ {
+  "text": " That",
+  "startMs": 60640,
+  "endMs": 60880,
+  "timestampMs": 60760,
+  "confidence": null
+ },
+ {
+  "text": " tells",
+  "startMs": 60880,
+  "endMs": 61180,
+  "timestampMs": 61030,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 61180,
+  "endMs": 61320,
+  "timestampMs": 61250,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 61320,
+  "endMs": 61500,
+  "timestampMs": 61410,
+  "confidence": null
+ },
+ {
+  "text": " resolved",
+  "startMs": 61500,
+  "endMs": 61840,
+  "timestampMs": 61670,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 61840,
+  "endMs": 62020,
+  "timestampMs": 61930,
+  "confidence": null
+ },
+ {
+  "text": " conflict",
+  "startMs": 62020,
+  "endMs": 62380,
+  "timestampMs": 62200,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 62380,
+  "endMs": 62580,
+  "timestampMs": 62480,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 62580,
+  "endMs": 62740,
+  "timestampMs": 62660,
+  "confidence": null
+ },
+ {
+  "text": " file.",
+  "startMs": 62740,
+  "endMs": 63060,
+  "timestampMs": 62900,
+  "confidence": null
+ },
+ {
+  "text": " Three.",
+  "startMs": 63700,
+  "endMs": 64040,
+  "timestampMs": 63870,
+  "confidence": null
+ },
+ {
+  "text": " Run",
+  "startMs": 64620,
+  "endMs": 64800,
+  "timestampMs": 64710,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 64800,
+  "endMs": 65160,
+  "timestampMs": 64980,
+  "confidence": null
+ },
+ {
+  "text": " commit",
+  "startMs": 65160,
+  "endMs": 65460,
+  "timestampMs": 65310,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 65460,
+  "endMs": 65860,
+  "timestampMs": 65660,
+  "confidence": null
+ },
+ {
+  "text": " finish",
+  "startMs": 65860,
+  "endMs": 66100,
+  "timestampMs": 65980,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 66100,
+  "endMs": 66280,
+  "timestampMs": 66190,
+  "confidence": null
+ },
+ {
+  "text": " merge.",
+  "startMs": 66280,
+  "endMs": 66520,
+  "timestampMs": 66400,
+  "confidence": null
+ },
+ {
+  "text": " Panicked",
+  "startMs": 67640,
+  "endMs": 67880,
+  "timestampMs": 67760,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 67880,
+  "endMs": 68040,
+  "timestampMs": 67960,
+  "confidence": null
+ },
+ {
+  "text": " want",
+  "startMs": 68040,
+  "endMs": 68200,
+  "timestampMs": 68120,
+  "confidence": null
+ },
+ {
+  "text": " out?",
+  "startMs": 68200,
+  "endMs": 68420,
+  "timestampMs": 68310,
+  "confidence": null
+ },
+ {
+  "text": " Run",
+  "startMs": 68980,
+  "endMs": 69180,
+  "timestampMs": 69080,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 69180,
+  "endMs": 69640,
+  "timestampMs": 69410,
+  "confidence": null
+ },
+ {
+  "text": " merge",
+  "startMs": 69640,
+  "endMs": 70160,
+  "timestampMs": 69900,
+  "confidence": null
+ },
+ {
+  "text": " --abort,",
+  "startMs": 70160,
+  "endMs": 71280,
+  "timestampMs": 70720,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 71840,
+  "endMs": 71920,
+  "timestampMs": 71880,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 71920,
+  "endMs": 72140,
+  "timestampMs": 72030,
+  "confidence": null
+ },
+ {
+  "text": " puts",
+  "startMs": 72140,
+  "endMs": 72340,
+  "timestampMs": 72240,
+  "confidence": null
+ },
+ {
+  "text": " everything",
+  "startMs": 72340,
+  "endMs": 72720,
+  "timestampMs": 72530,
+  "confidence": null
+ },
+ {
+  "text": " back",
+  "startMs": 72720,
+  "endMs": 73000,
+  "timestampMs": 72860,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 73000,
+  "endMs": 73160,
+  "timestampMs": 73080,
+  "confidence": null
+ },
+ {
+  "text": " way",
+  "startMs": 73160,
+  "endMs": 73280,
+  "timestampMs": 73220,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 73280,
+  "endMs": 73380,
+  "timestampMs": 73330,
+  "confidence": null
+ },
+ {
+  "text": " was",
+  "startMs": 73380,
+  "endMs": 73560,
+  "timestampMs": 73470,
+  "confidence": null
+ },
+ {
+  "text": " before",
+  "startMs": 73560,
+  "endMs": 73840,
+  "timestampMs": 73700,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 73840,
+  "endMs": 73960,
+  "timestampMs": 73900,
+  "confidence": null
+ },
+ {
+  "text": " started.",
+  "startMs": 73960,
+  "endMs": 74260,
+  "timestampMs": 74110,
+  "confidence": null
+ },
+ {
+  "text": " And",
+  "startMs": 74960,
+  "endMs": 75260,
+  "timestampMs": 75110,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 75260,
+  "endMs": 75520,
+  "timestampMs": 75390,
+  "confidence": null
+ },
+ {
+  "text": " bonus",
+  "startMs": 75520,
+  "endMs": 75840,
+  "timestampMs": 75680,
+  "confidence": null
+ },
+ {
+  "text": " setting:",
+  "startMs": 75840,
+  "endMs": 76180,
+  "timestampMs": 76010,
+  "confidence": null
+ },
+ {
+  "text": " run",
+  "startMs": 76900,
+  "endMs": 77040,
+  "timestampMs": 76970,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 77040,
+  "endMs": 77420,
+  "timestampMs": 77230,
+  "confidence": null
+ },
+ {
+  "text": " config",
+  "startMs": 77420,
+  "endMs": 77920,
+  "timestampMs": 77670,
+  "confidence": null
+ },
+ {
+  "text": " --global",
+  "startMs": 77920,
+  "endMs": 79140,
+  "timestampMs": 78530,
+  "confidence": null
+ },
+ {
+  "text": " merge.conflictstyle",
+  "startMs": 79140,
+  "endMs": 81440,
+  "timestampMs": 80290,
+  "confidence": null
+ },
+ {
+  "text": " zdiff3.",
+  "startMs": 81440,
+  "endMs": 82460,
+  "timestampMs": 81950,
+  "confidence": null
+ },
+ {
+  "text": " It",
+  "startMs": 82960,
+  "endMs": 83180,
+  "timestampMs": 83070,
+  "confidence": null
+ },
+ {
+  "text": " adds",
+  "startMs": 83180,
+  "endMs": 83440,
+  "timestampMs": 83310,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 83440,
+  "endMs": 83600,
+  "timestampMs": 83520,
+  "confidence": null
+ },
+ {
+  "text": " middle",
+  "startMs": 83600,
+  "endMs": 83780,
+  "timestampMs": 83690,
+  "confidence": null
+ },
+ {
+  "text": " section",
+  "startMs": 83780,
+  "endMs": 84180,
+  "timestampMs": 83980,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 84180,
+  "endMs": 84440,
+  "timestampMs": 84310,
+  "confidence": null
+ },
+ {
+  "text": " seven",
+  "startMs": 84440,
+  "endMs": 84840,
+  "timestampMs": 84640,
+  "confidence": null
+ },
+ {
+  "text": " vertical",
+  "startMs": 84840,
+  "endMs": 85140,
+  "timestampMs": 84990,
+  "confidence": null
+ },
+ {
+  "text": " bars",
+  "startMs": 85140,
+  "endMs": 85620,
+  "timestampMs": 85380,
+  "confidence": null
+ },
+ {
+  "text": " showing",
+  "startMs": 85620,
+  "endMs": 86200,
+  "timestampMs": 85910,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 86200,
+  "endMs": 86440,
+  "timestampMs": 86320,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 86440,
+  "endMs": 86580,
+  "timestampMs": 86510,
+  "confidence": null
+ },
+ {
+  "text": " line",
+  "startMs": 86580,
+  "endMs": 86780,
+  "timestampMs": 86680,
+  "confidence": null
+ },
+ {
+  "text": " looked",
+  "startMs": 86780,
+  "endMs": 86980,
+  "timestampMs": 86880,
+  "confidence": null
+ },
+ {
+  "text": " like",
+  "startMs": 86980,
+  "endMs": 87280,
+  "timestampMs": 87130,
+  "confidence": null
+ },
+ {
+  "text": " originally,",
+  "startMs": 87280,
+  "endMs": 87700,
+  "timestampMs": 87490,
+  "confidence": null
+ },
+ {
+  "text": " before",
+  "startMs": 87700,
+  "endMs": 88240,
+  "timestampMs": 87970,
+  "confidence": null
+ },
+ {
+  "text": " either",
+  "startMs": 88240,
+  "endMs": 88520,
+  "timestampMs": 88380,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 88520,
+  "endMs": 88740,
+  "timestampMs": 88630,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 88740,
+  "endMs": 88840,
+  "timestampMs": 88790,
+  "confidence": null
+ },
+ {
+  "text": " touched",
+  "startMs": 88840,
+  "endMs": 89020,
+  "timestampMs": 88930,
+  "confidence": null
+ },
+ {
+  "text": " it.",
+  "startMs": 89020,
+  "endMs": 89500,
+  "timestampMs": 89260,
+  "confidence": null
+ },
+ {
+  "text": " Save",
+  "startMs": 90080,
+  "endMs": 90360,
+  "timestampMs": 90220,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 90360,
+  "endMs": 90540,
+  "timestampMs": 90450,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 90540,
+  "endMs": 90740,
+  "timestampMs": 90640,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 90740,
+  "endMs": 90840,
+  "timestampMs": 90790,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 90840,
+  "endMs": 91040,
+  "timestampMs": 90940,
+  "confidence": null
+ },
+ {
+  "text": " merge",
+  "startMs": 91040,
+  "endMs": 91280,
+  "timestampMs": 91160,
+  "confidence": null
+ },
+ {
+  "text": " conflict.",
+  "startMs": 91280,
+  "endMs": 91660,
+  "timestampMs": 91470,
+  "confidence": null
+ },
+ {
+  "text": " Follow",
+  "startMs": 92300,
+  "endMs": 92440,
+  "timestampMs": 92370,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 92440,
+  "endMs": 92660,
+  "timestampMs": 92550,
+  "confidence": null
+ },
+ {
+  "text": " more",
+  "startMs": 92660,
+  "endMs": 92820,
+  "timestampMs": 92740,
+  "confidence": null
+ },
+ {
+  "text": " git",
+  "startMs": 92820,
+  "endMs": 93020,
+  "timestampMs": 92920,
+  "confidence": null
+ },
+ {
+  "text": " tricks,",
+  "startMs": 93020,
+  "endMs": 93300,
+  "timestampMs": 93160,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 93300,
+  "endMs": 93740,
+  "timestampMs": 93520,
+  "confidence": null
+ },
+ {
+  "text": " comment",
+  "startMs": 93740,
+  "endMs": 94120,
+  "timestampMs": 93930,
+  "confidence": null
+ },
+ {
+  "text": " if",
+  "startMs": 94120,
+  "endMs": 94360,
+  "timestampMs": 94240,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 94360,
+  "endMs": 94480,
+  "timestampMs": 94420,
+  "confidence": null
+ },
+ {
+  "text": " fix",
+  "startMs": 94480,
+  "endMs": 94700,
+  "timestampMs": 94590,
+  "confidence": null
+ },
+ {
+  "text": " conflicts",
+  "startMs": 94700,
+  "endMs": 95120,
+  "timestampMs": 94910,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 95120,
+  "endMs": 95360,
+  "timestampMs": 95240,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 95360,
+  "endMs": 95460,
+  "timestampMs": 95410,
+  "confidence": null
+ },
+ {
+  "text": " editor",
+  "startMs": 95460,
+  "endMs": 95720,
+  "timestampMs": 95590,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 95720,
+  "endMs": 96060,
+  "timestampMs": 95890,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 96060,
+  "endMs": 96220,
+  "timestampMs": 96140,
+  "confidence": null
+ },
+ {
+  "text": " terminal.",
+  "startMs": 96220,
+  "endMs": 96520,
+  "timestampMs": 96370,
+  "confidence": null
+ }
+]

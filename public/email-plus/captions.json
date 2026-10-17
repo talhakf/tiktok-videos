@@ -1,0 +1,982 @@
+[
+ {
+  "text": " One",
+  "startMs": 0,
+  "endMs": 500,
+  "timestampMs": 250,
+  "confidence": null
+ },
+ {
+  "text": " plus",
+  "startMs": 500,
+  "endMs": 740,
+  "timestampMs": 620,
+  "confidence": null
+ },
+ {
+  "text": " sign",
+  "startMs": 740,
+  "endMs": 1140,
+  "timestampMs": 940,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 1140,
+  "endMs": 1360,
+  "timestampMs": 1250,
+  "confidence": null
+ },
+ {
+  "text": " show",
+  "startMs": 1360,
+  "endMs": 1620,
+  "timestampMs": 1490,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 1620,
+  "endMs": 1820,
+  "timestampMs": 1720,
+  "confidence": null
+ },
+ {
+  "text": " who",
+  "startMs": 1820,
+  "endMs": 2100,
+  "timestampMs": 1960,
+  "confidence": null
+ },
+ {
+  "text": " sold",
+  "startMs": 2100,
+  "endMs": 2440,
+  "timestampMs": 2270,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 2440,
+  "endMs": 2620,
+  "timestampMs": 2530,
+  "confidence": null
+ },
+ {
+  "text": " email.",
+  "startMs": 2620,
+  "endMs": 2920,
+  "timestampMs": 2770,
+  "confidence": null
+ },
+ {
+  "text": " It's",
+  "startMs": 3540,
+  "endMs": 3740,
+  "timestampMs": 3640,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 3740,
+  "endMs": 3880,
+  "timestampMs": 3810,
+  "confidence": null
+ },
+ {
+  "text": " Gmail",
+  "startMs": 3880,
+  "endMs": 4140,
+  "timestampMs": 4010,
+  "confidence": null
+ },
+ {
+  "text": " plus",
+  "startMs": 4140,
+  "endMs": 4400,
+  "timestampMs": 4270,
+  "confidence": null
+ },
+ {
+  "text": " trick.",
+  "startMs": 4400,
+  "endMs": 4740,
+  "timestampMs": 4570,
+  "confidence": null
+ },
+ {
+  "text": " Sudo",
+  "startMs": 5580,
+  "endMs": 5720,
+  "timestampMs": 5650,
+  "confidence": null
+ },
+ {
+  "text": " signs",
+  "startMs": 5720,
+  "endMs": 6020,
+  "timestampMs": 5870,
+  "confidence": null
+ },
+ {
+  "text": " up",
+  "startMs": 6020,
+  "endMs": 6220,
+  "timestampMs": 6120,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 6220,
+  "endMs": 6420,
+  "timestampMs": 6320,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 6420,
+  "endMs": 6880,
+  "timestampMs": 6650,
+  "confidence": null
+ },
+ {
+  "text": " snack",
+  "startMs": 6880,
+  "endMs": 7140,
+  "timestampMs": 7010,
+  "confidence": null
+ },
+ {
+  "text": " app,",
+  "startMs": 7140,
+  "endMs": 7380,
+  "timestampMs": 7260,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 7680,
+  "endMs": 7820,
+  "timestampMs": 7750,
+  "confidence": null
+ },
+ {
+  "text": " now",
+  "startMs": 7820,
+  "endMs": 7980,
+  "timestampMs": 7900,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 7980,
+  "endMs": 8120,
+  "timestampMs": 8050,
+  "confidence": null
+ },
+ {
+  "text": " spam",
+  "startMs": 8120,
+  "endMs": 8320,
+  "timestampMs": 8220,
+  "confidence": null
+ },
+ {
+  "text": " won't",
+  "startMs": 8320,
+  "endMs": 8540,
+  "timestampMs": 8430,
+  "confidence": null
+ },
+ {
+  "text": " stop.",
+  "startMs": 8540,
+  "endMs": 8840,
+  "timestampMs": 8690,
+  "confidence": null
+ },
+ {
+  "text": " Time",
+  "startMs": 9500,
+  "endMs": 9600,
+  "timestampMs": 9550,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 9600,
+  "endMs": 9740,
+  "timestampMs": 9670,
+  "confidence": null
+ },
+ {
+  "text": " find",
+  "startMs": 9740,
+  "endMs": 9940,
+  "timestampMs": 9840,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 9940,
+  "endMs": 10100,
+  "timestampMs": 10020,
+  "confidence": null
+ },
+ {
+  "text": " leak.",
+  "startMs": 10100,
+  "endMs": 10260,
+  "timestampMs": 10180,
+  "confidence": null
+ },
+ {
+  "text": " Add",
+  "startMs": 11100,
+  "endMs": 11220,
+  "timestampMs": 11160,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 11220,
+  "endMs": 11380,
+  "timestampMs": 11300,
+  "confidence": null
+ },
+ {
+  "text": " plus",
+  "startMs": 11380,
+  "endMs": 11680,
+  "timestampMs": 11530,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 11680,
+  "endMs": 12200,
+  "timestampMs": 11940,
+  "confidence": null
+ },
+ {
+  "text": " any",
+  "startMs": 12200,
+  "endMs": 12600,
+  "timestampMs": 12400,
+  "confidence": null
+ },
+ {
+  "text": " word",
+  "startMs": 12600,
+  "endMs": 12820,
+  "timestampMs": 12710,
+  "confidence": null
+ },
+ {
+  "text": " before",
+  "startMs": 12820,
+  "endMs": 13100,
+  "timestampMs": 12960,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 13100,
+  "endMs": 13260,
+  "timestampMs": 13180,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 13260,
+  "endMs": 13380,
+  "timestampMs": 13320,
+  "confidence": null
+ },
+ {
+  "text": " sign.",
+  "startMs": 13380,
+  "endMs": 13640,
+  "timestampMs": 13510,
+  "confidence": null
+ },
+ {
+  "text": " yourname",
+  "startMs": 14300,
+  "endMs": 14680,
+  "timestampMs": 14490,
+  "confidence": null
+ },
+ {
+  "text": " +pizza",
+  "startMs": 14680,
+  "endMs": 15440,
+  "timestampMs": 15060,
+  "confidence": null
+ },
+ {
+  "text": " @gmail.com",
+  "startMs": 15440,
+  "endMs": 16580,
+  "timestampMs": 16010,
+  "confidence": null
+ },
+ {
+  "text": " still",
+  "startMs": 16580,
+  "endMs": 17240,
+  "timestampMs": 16910,
+  "confidence": null
+ },
+ {
+  "text": " lands",
+  "startMs": 17240,
+  "endMs": 17600,
+  "timestampMs": 17420,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 17600,
+  "endMs": 17800,
+  "timestampMs": 17700,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 17800,
+  "endMs": 17900,
+  "timestampMs": 17850,
+  "confidence": null
+ },
+ {
+  "text": " normal",
+  "startMs": 17900,
+  "endMs": 18180,
+  "timestampMs": 18040,
+  "confidence": null
+ },
+ {
+  "text": " inbox.",
+  "startMs": 18180,
+  "endMs": 18520,
+  "timestampMs": 18350,
+  "confidence": null
+ },
+ {
+  "text": " So",
+  "startMs": 19200,
+  "endMs": 19400,
+  "timestampMs": 19300,
+  "confidence": null
+ },
+ {
+  "text": " give",
+  "startMs": 19400,
+  "endMs": 19580,
+  "timestampMs": 19490,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 19580,
+  "endMs": 20140,
+  "timestampMs": 19860,
+  "confidence": null
+ },
+ {
+  "text": " site",
+  "startMs": 20140,
+  "endMs": 20360,
+  "timestampMs": 20250,
+  "confidence": null
+ },
+ {
+  "text": " its",
+  "startMs": 20360,
+  "endMs": 20540,
+  "timestampMs": 20450,
+  "confidence": null
+ },
+ {
+  "text": " own",
+  "startMs": 20540,
+  "endMs": 20700,
+  "timestampMs": 20620,
+  "confidence": null
+ },
+ {
+  "text": " tag.",
+  "startMs": 20700,
+  "endMs": 21060,
+  "timestampMs": 20880,
+  "confidence": null
+ },
+ {
+  "text": " +pizza.",
+  "startMs": 21660,
+  "endMs": 22080,
+  "timestampMs": 21870,
+  "confidence": null
+ },
+ {
+  "text": " +snackbox.",
+  "startMs": 22780,
+  "endMs": 23440,
+  "timestampMs": 23110,
+  "confidence": null
+ },
+ {
+  "text": " +trashdeals.",
+  "startMs": 24040,
+  "endMs": 24700,
+  "timestampMs": 24370,
+  "confidence": null
+ },
+ {
+  "text": " Weeks",
+  "startMs": 25640,
+  "endMs": 25680,
+  "timestampMs": 25660,
+  "confidence": null
+ },
+ {
+  "text": " later,",
+  "startMs": 25680,
+  "endMs": 26080,
+  "timestampMs": 25880,
+  "confidence": null
+ },
+ {
+  "text": " spam",
+  "startMs": 26080,
+  "endMs": 26840,
+  "timestampMs": 26460,
+  "confidence": null
+ },
+ {
+  "text": " shows",
+  "startMs": 26840,
+  "endMs": 27100,
+  "timestampMs": 26970,
+  "confidence": null
+ },
+ {
+  "text": " up",
+  "startMs": 27100,
+  "endMs": 27320,
+  "timestampMs": 27210,
+  "confidence": null
+ },
+ {
+  "text": " sent",
+  "startMs": 27320,
+  "endMs": 27520,
+  "timestampMs": 27420,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 27520,
+  "endMs": 27720,
+  "timestampMs": 27620,
+  "confidence": null
+ },
+ {
+  "text": " +pizza.",
+  "startMs": 27720,
+  "endMs": 28280,
+  "timestampMs": 28000,
+  "confidence": null
+ },
+ {
+  "text": " Now",
+  "startMs": 28940,
+  "endMs": 29180,
+  "timestampMs": 29060,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 29180,
+  "endMs": 29380,
+  "timestampMs": 29280,
+  "confidence": null
+ },
+ {
+  "text": " know",
+  "startMs": 29380,
+  "endMs": 29580,
+  "timestampMs": 29480,
+  "confidence": null
+ },
+ {
+  "text": " who",
+  "startMs": 29580,
+  "endMs": 29800,
+  "timestampMs": 29690,
+  "confidence": null
+ },
+ {
+  "text": " leaked",
+  "startMs": 29800,
+  "endMs": 30040,
+  "timestampMs": 29920,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 30040,
+  "endMs": 30180,
+  "timestampMs": 30110,
+  "confidence": null
+ },
+ {
+  "text": " sold",
+  "startMs": 30180,
+  "endMs": 30380,
+  "timestampMs": 30280,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 30380,
+  "endMs": 30540,
+  "timestampMs": 30460,
+  "confidence": null
+ },
+ {
+  "text": " address.",
+  "startMs": 30540,
+  "endMs": 30860,
+  "timestampMs": 30700,
+  "confidence": null
+ },
+ {
+  "text": " Make",
+  "startMs": 31600,
+  "endMs": 31780,
+  "timestampMs": 31690,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 31780,
+  "endMs": 32100,
+  "timestampMs": 31940,
+  "confidence": null
+ },
+ {
+  "text": " filter",
+  "startMs": 32100,
+  "endMs": 32400,
+  "timestampMs": 32250,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 32400,
+  "endMs": 32600,
+  "timestampMs": 32500,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 32600,
+  "endMs": 32760,
+  "timestampMs": 32680,
+  "confidence": null
+ },
+ {
+  "text": " address,",
+  "startMs": 32760,
+  "endMs": 33120,
+  "timestampMs": 32940,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 33280,
+  "endMs": 33340,
+  "timestampMs": 33310,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 33340,
+  "endMs": 33440,
+  "timestampMs": 33390,
+  "confidence": null
+ },
+ {
+  "text": " all",
+  "startMs": 33440,
+  "endMs": 33660,
+  "timestampMs": 33550,
+  "confidence": null
+ },
+ {
+  "text": " goes",
+  "startMs": 33660,
+  "endMs": 33860,
+  "timestampMs": 33760,
+  "confidence": null
+ },
+ {
+  "text": " straight",
+  "startMs": 33860,
+  "endMs": 34260,
+  "timestampMs": 34060,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 34260,
+  "endMs": 34460,
+  "timestampMs": 34360,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 34460,
+  "endMs": 34560,
+  "timestampMs": 34510,
+  "confidence": null
+ },
+ {
+  "text": " trash.",
+  "startMs": 34560,
+  "endMs": 34860,
+  "timestampMs": 34710,
+  "confidence": null
+ },
+ {
+  "text": " Sudo's",
+  "startMs": 35400,
+  "endMs": 35620,
+  "timestampMs": 35510,
+  "confidence": null
+ },
+ {
+  "text": " favorite",
+  "startMs": 35620,
+  "endMs": 35740,
+  "timestampMs": 35680,
+  "confidence": null
+ },
+ {
+  "text": " place.",
+  "startMs": 35740,
+  "endMs": 36060,
+  "timestampMs": 35900,
+  "confidence": null
+ },
+ {
+  "text": " It",
+  "startMs": 36760,
+  "endMs": 36960,
+  "timestampMs": 36860,
+  "confidence": null
+ },
+ {
+  "text": " works",
+  "startMs": 36960,
+  "endMs": 37140,
+  "timestampMs": 37050,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 37140,
+  "endMs": 37320,
+  "timestampMs": 37230,
+  "confidence": null
+ },
+ {
+  "text": " Gmail",
+  "startMs": 37320,
+  "endMs": 37520,
+  "timestampMs": 37420,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 37520,
+  "endMs": 37820,
+  "timestampMs": 37670,
+  "confidence": null
+ },
+ {
+  "text": " Outlook.",
+  "startMs": 37820,
+  "endMs": 38080,
+  "timestampMs": 37950,
+  "confidence": null
+ },
+ {
+  "text": " Two",
+  "startMs": 38780,
+  "endMs": 38940,
+  "timestampMs": 38860,
+  "confidence": null
+ },
+ {
+  "text": " catches:",
+  "startMs": 38940,
+  "endMs": 39200,
+  "timestampMs": 39070,
+  "confidence": null
+ },
+ {
+  "text": " some",
+  "startMs": 39880,
+  "endMs": 40040,
+  "timestampMs": 39960,
+  "confidence": null
+ },
+ {
+  "text": " sign-up",
+  "startMs": 40040,
+  "endMs": 40360,
+  "timestampMs": 40200,
+  "confidence": null
+ },
+ {
+  "text": " forms",
+  "startMs": 40360,
+  "endMs": 40660,
+  "timestampMs": 40510,
+  "confidence": null
+ },
+ {
+  "text": " reject",
+  "startMs": 40660,
+  "endMs": 41040,
+  "timestampMs": 40850,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 41040,
+  "endMs": 41240,
+  "timestampMs": 41140,
+  "confidence": null
+ },
+ {
+  "text": " plus.",
+  "startMs": 41240,
+  "endMs": 41440,
+  "timestampMs": 41340,
+  "confidence": null
+ },
+ {
+  "text": " And",
+  "startMs": 42080,
+  "endMs": 42180,
+  "timestampMs": 42130,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 42180,
+  "endMs": 42280,
+  "timestampMs": 42230,
+  "confidence": null
+ },
+ {
+  "text": " spammer",
+  "startMs": 42280,
+  "endMs": 42680,
+  "timestampMs": 42480,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 42680,
+  "endMs": 42860,
+  "timestampMs": 42770,
+  "confidence": null
+ },
+ {
+  "text": " simply",
+  "startMs": 42860,
+  "endMs": 43260,
+  "timestampMs": 43060,
+  "confidence": null
+ },
+ {
+  "text": " delete",
+  "startMs": 43260,
+  "endMs": 43520,
+  "timestampMs": 43390,
+  "confidence": null
+ },
+ {
+  "text": " it,",
+  "startMs": 43520,
+  "endMs": 43700,
+  "timestampMs": 43610,
+  "confidence": null
+ },
+ {
+  "text": " so",
+  "startMs": 43820,
+  "endMs": 44040,
+  "timestampMs": 43930,
+  "confidence": null
+ },
+ {
+  "text": " it's",
+  "startMs": 44040,
+  "endMs": 44320,
+  "timestampMs": 44180,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 44320,
+  "endMs": 44440,
+  "timestampMs": 44380,
+  "confidence": null
+ },
+ {
+  "text": " clue,",
+  "startMs": 44440,
+  "endMs": 44880,
+  "timestampMs": 44660,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 45100,
+  "endMs": 45340,
+  "timestampMs": 45220,
+  "confidence": null
+ },
+ {
+  "text": " proof.",
+  "startMs": 45340,
+  "endMs": 45600,
+  "timestampMs": 45470,
+  "confidence": null
+ },
+ {
+  "text": " Save",
+  "startMs": 46440,
+  "endMs": 46680,
+  "timestampMs": 46560,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 46680,
+  "endMs": 46860,
+  "timestampMs": 46770,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 46860,
+  "endMs": 47020,
+  "timestampMs": 46940,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 47020,
+  "endMs": 47120,
+  "timestampMs": 47070,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 47120,
+  "endMs": 47280,
+  "timestampMs": 47200,
+  "confidence": null
+ },
+ {
+  "text": " sign-up.",
+  "startMs": 47280,
+  "endMs": 47640,
+  "timestampMs": 47460,
+  "confidence": null
+ },
+ {
+  "text": " Follow",
+  "startMs": 48000,
+  "endMs": 48200,
+  "timestampMs": 48100,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 48200,
+  "endMs": 48400,
+  "timestampMs": 48300,
+  "confidence": null
+ },
+ {
+  "text": " more,",
+  "startMs": 48400,
+  "endMs": 48560,
+  "timestampMs": 48480,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 48860,
+  "endMs": 49000,
+  "timestampMs": 48930,
+  "confidence": null
+ },
+ {
+  "text": " comment",
+  "startMs": 49000,
+  "endMs": 49260,
+  "timestampMs": 49130,
+  "confidence": null
+ },
+ {
+  "text": " which",
+  "startMs": 49260,
+  "endMs": 49560,
+  "timestampMs": 49410,
+  "confidence": null
+ },
+ {
+  "text": " site",
+  "startMs": 49560,
+  "endMs": 49900,
+  "timestampMs": 49730,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 49900,
+  "endMs": 50100,
+  "timestampMs": 50000,
+  "confidence": null
+ },
+ {
+  "text": " think",
+  "startMs": 50100,
+  "endMs": 50340,
+  "timestampMs": 50220,
+  "confidence": null
+ },
+ {
+  "text": " sold",
+  "startMs": 50340,
+  "endMs": 50620,
+  "timestampMs": 50480,
+  "confidence": null
+ },
+ {
+  "text": " yours.",
+  "startMs": 50620,
+  "endMs": 50880,
+  "timestampMs": 50750,
+  "confidence": null
+ }
+]

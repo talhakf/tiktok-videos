@@ -1,0 +1,36 @@
+{
+  "name": "sudo-raccoon-poc",
+  "version": "1.0.0",
+  "description": "Proof of Concept: AI-assisted 9:16 technical explainer video pipeline & 180+ Remotion component library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talhakf/tiktok-videos.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@remotion/captions": "4.0.534",
+    "@remotion/cli": "4.0.534",
+    "@remotion/google-fonts": "4.0.534",
+    "@remotion/media": "4.0.534",
+    "@remotion/paths": "4.0.534",
+    "qrcode": "^1.5.4",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.534"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.534",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc"
+  }
+}
